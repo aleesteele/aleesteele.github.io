@@ -20,8 +20,7 @@ Before moving to Switzerland, I researched conservation in Bhutan, co-led studen
 When I'm not on a computer, I'm usually outside – chasing waves to surf or finding mountains to climb.
 
 # featured projects
-
-- <a href="https://mmm.page/internetsupplychains.main">above the clouds and below the sea</a>
+- <a href="https://aleesteele.mmm.page/">above the clouds and below the sea</a>
 - <a href="https://resource-project.co/">the re:source project</a>
 - the atlas of extractive industries (coming soon)
 
