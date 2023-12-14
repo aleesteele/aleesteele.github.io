@@ -1,13 +1,13 @@
 ---
 layout: post
-title: reviewing one year with The Turing Way
+title: reviewing two years with The Turing Way
 date: 2023-08-04 23:00:00 +0000
 category: blog
 
 ---
-# Reviewing a year with The Turing Way (a preview)
+# Reviewing two years with The Turing Way (a preview)
 
-Wow, my year-long mark with The Turing Way has come and gone. It's hard to believe that it's already been more than a year (actually perhaps closer to two)!
+Wow, my year-long mark with The Turing Way has come and gone. It's hard to believe that it's already been more than a year (actually closer to two)!
 
 For those reading this blog for the first time, I joined the Alan Turing Institute last year to become Community Manager of an open source project called [The Turing Way](https://the-turing-way.netlify.app/). This followed a few years of studying open source communities as a scholar (in particular, the OpenStreetmap ecosystem), and a few fellowships & volunteer programs on open knowledge and OSINT journalism. 
 
@@ -40,7 +40,7 @@ Here's roughly what I plan on (and have been) reflecting on:
 - What I've learned (and struggled with) as a Community Manager of The Turing Way
 - What I've learned (and struggled with) about "openness", open science & the open ecosystem
 
-All of the blogs above are retrospective – they aim to add context, coloring, and framing –– I'd ideally also like to write something that is a bit more future-focused as wel. :) 
+All of the blogs above are retrospective – they aim to add context, coloring, and framing –– I'd ideally also like to write something that is a bit more future-focused as well. :) 
 
 ## Thank yous
 It will be very, very hard to review all the people and conversations had over the past year+, and there are many many thank yous to give. So, I'll leave this section to the end of this series, after this act of ['gathering' (as Mindy Seu and Ursula K. Le Guin put it)](https://issue1.shiftspace.pub/on-gathering-mindy-seu) will help to reveal all those I have gathered from!
