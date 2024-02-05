@@ -22,7 +22,7 @@ Listing all of these conferences took me across a few different mediums: from tw
 | Sustainability Week Switzerland | Mar 2021 |  💻 - remote | Joined the organising team for this student-led conference & moderated a [panel about Gross National Happiness](https://twitter.com/kmjefford/status/1375041795827060743) with speakers from Switzerland and Bhutan (where I studied abroad as an undergrad). This was my first time moderating a panel more broadly, and really felt like I was connecting influential experiences from my BA & MA together.
 | csv,CONF | May 2021 |  💻 - remote | This conference was [similar to the previous one](https://twitter.com/aleesteele/status/1389970868273569794). Uploaded to [Zenodo](https://zenodo.org/records/4739237) for the first time. This conference exposed me to a lot of amazing projects in the open ecosystem, and new ways of thinking about data more broadly as a practitioner. It was insanely surreal to follow a talk by Creative Commons CEO Catherine Stihler – I was just an MA student at the time and really felt like I had "made it". I even applied to a job whose project I first learned about through csv,CONF.
 | RightsCon | June 2021 |  💻 - remote | Recorded a talk for t. It really felt like our relationship with online conference s
-| GRiSTS | Oct 2021 |  💻 - remote |  This was my first academic conference
+| GRiSTS | Oct 2021 |  💻 - remote |  This was my first academic conference.
 | HOT Summit | Nov 2021 | 💻 - remote |  Shared work-in-progress research from my MA
 | Transmediale Rendering Research | Mar 2022 |  💻 - remote & 🏛️ - in-person | 
 | Internet Society Community Day | Jul 2022 | 💻 - remote | 
