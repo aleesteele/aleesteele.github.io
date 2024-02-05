@@ -43,19 +43,17 @@ Listing all of these conferences took me across a few different mediums: from tw
 | Venice Biennale Festival | Jul 2023 |  |
 | London Data Week | Jul 2023 | ❌ - didn't attend | I remember having discussions with my colleague about.
 | Festival of OpenREF | Oct 2023 | ❌ - didn't attend |
-| Big Team Science | Oct 2023 |  |
-| Hack the Hackathon | Nov 2023 |  |
+| Big Team Science | Oct 2023 | 💻 - remote  |
+| Hack the Hackathon | Nov 2023 | 🏛️ - in-person |
 | AI Safety Summit Fringe events | Nov 2023 | ❌ - didn't attend  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
 
+After listing all of these events out, one thing that sticks out was how the 2020-2021 period of digita. was a period in which which gave me the opportunity. Without _really_ knowing anything, I applied and presented at conferences that I know now were probably wildly outside of my comfort zone (and capacity) as an early career scholar. 
 
-I (or we - as a team) were rejected from:
-- RightsCon 2023
-- 
+The move of these conferences (along with so many othe r)
 
-After listing all of these events out One thing that sticks out was how 2021 was a period in which which gave me the opportunity. Without _really_ knowing anything, I applied and presented at conferences that I know now were probably wildly outside of my comfort zone . At the same time, I probably wouldn't be where I am now (not that I know much more!) without the opportunity to participate in these spaces. It is a deep privilege (on) 
+At the same time, I probably wouldn't be where I am now (not that I know much more!) without the opportunity to participate in these spaces. It is a deep privilege (on) 
+
+At the same, the cadence of conferences took on a different (and perhaps more confusing tune) when the event moved online.
 
 It was (and remains) a deep privilege to be able to attend and to partake in these spaces in their physical space, especially in the years after the pandemic lockdowns and deep isolation, followed by the precarious economic times we now find ourselves in. 
 
