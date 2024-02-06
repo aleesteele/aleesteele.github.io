@@ -67,3 +67,7 @@ At the same, the cadence of conferences took on a different (and perhaps more co
 I'm reminded of something I read in Gabriella Coleman's book "Coding Freedom", when she notes that "conferences are the rituals of our time" (or something like that), and it totally blew my mind. 
 
 Returning to spaces like MozFest and 
+
+**4. Conferences are always better with others (either in-person or online!)**
+
+This is an obvious one.
