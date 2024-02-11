@@ -1,0 +1,30 @@
+---
+layout: post
+title: All the fellowships and residencies I have had from 2020 to 2024
+date: 2024-12-25 23:00:00 +0000
+category: blog
+published: false
+
+---
+
+# All the fellowships, residencies, and alternative learning programs I have done from 2020 to 2025
+
+
+## Fellowships
+
+| Organisation  |  Title  |  Time  |  Notes 
+|------ | ------ | ------ | ---------- | 
+| Open Knowledge Foundation | Reproducible Research Fellow | 2020-2021 | 
+| Wikimedia Deutschland  | Unlock Accelerator | Jun - Aug 2021 |
+| Internet Society  | Reproducible Research Fellow | Sept 2021 - June 2022 |
+| School of Commons  | Fellow | |
+
+## Alternative learning
+
+| Organisation  |  Title  |  Time  |  Notes 
+|------ | ------ | ------ | ---------- | 
+| School for Field Studies | Reproducible Research Fellow | 2017 | 
+| Spiced Academy |  | 2017 | 
+| School for Poetic Computation |  | 2017 | 
+
+
