@@ -8,49 +8,6 @@ category: blog
 
 _**Note 11/2:** I haven't added all the links to recordings or slides. I'll aim to add those soon, but in the meantime, have just added this as a new column._
 
-# All the (open) events I have attended from Feb 2021 to Feb 2023
-
-One of my regrets from 2021-2023 (just an observation -  not a punitive one!) is that I wasn't ever able to write down learnings or observations from the different conferences and festivals I have been _deeply_ privileged (in both time and in capital) to attend over the past few years, many of which have been quite different in audience and scope.
-
-As is the case for many people, conferences have been a really key place where I have learned, mean, and affirmed relationships. They are in short, a place of tacit knowledge that ha.  'come to know what I know' (and the ).  far I've come over the past few years (and also, how much *tacit* knowledge I learned in each of these spaces). If anything – they proved, and the need to m
-
-**1. That 2020-2021 period was key for conferences and connections**
-I knew this implicitly, but after listing all of these events, one thing that sticks out to me was how important the 2020-2021 period of remote conferences was. Without _really_ knowing anything, I had applied and presented at conferences that would have been wildly out of scope or budget for me today. I probably wouldn't even be where I am now!
-
-We've talked a lot about how online conferences have made, but they were also really important for early career researchers like myself. At these digital spaces, I was able to connect with folks in ways I wouldn't otherwise. However, that only really worked because everyone else was online, too. 
-
-I probably wouldn't be where I am now (not that I know much more!) without the opportunity to participate in these spaces.
-
-**2. The cadence of conferences really changed post-pandemic, and it took us awhile to find our footing again (and to combat the burnout that period created).**
-
-At the same, the cadence of conferences took on a different (and perhaps more confusing tune) when the event moved online.
-
-I joined The Turing Way team when this happened – when the combinat.
-
-Many folks I 
-
-**3. Conferences and festivals are the rituals of our time.**
-
-I'm reminded of something I read in Gabriella Coleman's book "Coding Freedom", when she notes that "conferences are the rituals of our time" (or something like that), and it totally blew my mind. 
-
-Returning to spaces like MozFest and . 
-
-**4. Conferences are always better with others (either in-person or online!)**
-
-This is an obvious one.
-
-**5. Conferences are a place where different social groups overlap**
-
-I find it super 
-
-**6. Post conference-care is key**
-
-Last year, I got really tired. I attended a number of conferences back. Towards the end of the year, I started prioritising personal time over professional travel, which really shifted. 
-
-
-
-Perhaps most contraversially, I
-
 Here's a list of all the research and/or practice-oriented festivals/conferences I have either attended in full or presented at over the past few years. I might have forgotten a few, but I've added the ones where I either have presented a talk, and/or have joined a workshop or event (or it was particularly memorable - and seems apt to add here). The grouping of 'festival' and 'conference' is semantic, but they generally involve research and technology ([in a broad sense](https://www.ursulakleguin.com/a-rant-about-technology)). There are a few exceptions to this: The Turing Way's Fireside Chats from 2022 and 2023 (which I lead organised alongside many others), as well as our bi-annual Book Dashes. These are quite different events (especially as an organiser), and I'd like to write about them separately.
 
 Reviewing all of these events took me across a few different mediums: from twitter (when I used it as a public note-taking tool) to youtube, to personal notes and more. I've linked a few, if anything for myself. 
