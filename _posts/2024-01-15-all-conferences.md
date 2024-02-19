@@ -61,12 +61,9 @@ I also thought that it might be worth asking which conferences I _didn't_ attend
 | Festival of OpenREF | Oct 2023 | ❌ - didn't attend | The REF (and HiddenREF initiative) was one of the first UK-research initiatives I heard about after joining the Turing. While I couldn't join this event, I was a part of planning processes (and learned about the ecosystem of folks that circulate around the event.)
 | AI Safety Summit Fringe events | Nov 2023 | ❌ - didn't attend | I
 
-I wouldn't pretend to be anything other than a . There's still a lot that I don't know about research (both the meta infrastructure behind it) and technology (from creating to  maintaining it, to designing and critiquing it)
+I wouldn't pretend to be anything other than a beginner in this space. 
 
-
-
-
----
+There's still a lot that I don't know about research (both the meta infrastructure behind it) and technology (from creating to  maintaining it, to designing and critiquing it)
 
 
 Why did I do this review, you might asking?

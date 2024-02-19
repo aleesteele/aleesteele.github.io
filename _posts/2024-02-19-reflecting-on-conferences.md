@@ -1,7 +1,7 @@
 ---
 layout: post
-title: fosdem 2024 & (open) culture(s) in Bruxelles
-date: 2024-02-04 23:00:00 +0000
+title: fosdem 2024 & reflecting on the
+date: 2024-02-19 23:00:00 +0000
 category: blog
 
 ---

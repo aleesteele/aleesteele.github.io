@@ -9,7 +9,6 @@ published: false
 
 # All the fellowships, residencies, and alternative learning programs I have done from 2020 to 2025
 
-
 ## Fellowships
 
 | Organisation  |  Title  |  Time  |  Notes 
@@ -23,8 +22,7 @@ published: false
 
 | Organisation  |  Title  |  Time  |  Notes 
 |------ | ------ | ------ | ---------- | 
-| School for Field Studies | Reproducible Research Fellow | 2017 | 
-| Spiced Academy |  | 2017 | 
-| School for Poetic Computation |  | 2017 | 
-
+| School for Field Studies | Sustainable Development Student | 2017 | 
+| Spiced Academy | Web Development Student | 2017 | 
+| School for Poetic Computation | Student | 2017 | 
 
