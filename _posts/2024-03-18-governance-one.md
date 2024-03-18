@@ -8,7 +8,7 @@ category: blog
 
 _18.03.2024:  A few weeks ago, I recently wrote this summary about formalising working groups for governance with The Turing Way for Gracielle Higino's lab meeting at the Computational Biodiversity Science and Services (BIOS2). They were going through a similar process, and while I wasn't able to attend the meeting, I drafted a short summary of the process of creating working groups for their notes. In the time since, I've decided to expand it into a broader blog, as it helps to summarise the different stages of governance that we've gone through in The Turing Way community._ 
 
-# On Governance (or how I stopped worrying and learned how to love the process) - Part 1
+# On Governance with The Turing Way (or how I stopped worrying and learned how to love the process) - Part 1
 
 Talk to anyone in the open source space (or really anyone who has experience with organisational governance, community organising, or formalisation more broadly) and they'll all say the same thing: **governance is *hard***!  
 
@@ -36,45 +36,32 @@ I joined the project in March 2022, and spent the [first 6 months learning more 
 
 At the time, my research into governance was pretty informal (like this [slide deck of research](https://docs.google.com/presentation/d/1HcKjeikxAAfKDCb5Okh1EqPbabedM3c7xIVuKv1Cqeg/edit#slide=id.p)), and also formal as well (like when [we participated in the Open Life Science programme](https://openlifesci.org/openseeds/ols-5/projects-participants.html))... My net was also cast pretty wide and went in a couple of different directions. I read many reports about [community](https://twitter.com/aleesteele/status/1518520218313801730), and [mapped the open ecosystem](https://miro.com/app/board/uXjVONTviD8=/?share_link_id=718452293523) as I understood it. 
 
-It also looked like interviews with 35+ folks in The Turing Way orbit, and maps of the project organisation more broadly. 
+It also looked like interviews with 35+ folks in The Turing Way orbit, and maps of the project organisation more broadly: primarily volunteers within the community who had helped to establish the projects, as well as staff at the Alan Turing Institute who had been a part of its initial grant and incubation. During this time, my team at the Alan Turing Institute, the Tools, Practices and Systems Programme was also expanding rapidly – and many folks increasingly had contributions to *The Turing Way* project written into their job descriptions. This meant that I was learning about the history of the project, while negotiating the new and emerging structure of the community and my wider team, with questions like: what does a paid responsibility to contribute to the project look like? How do we support the emergence of new work streams alongside the existing contribution patterns and community of the project? 
 
-However, it ultimately culminating n realising that there were identifiable workstreams within _The Turing Way_ that could be formalised into ‘working groups’ to help field support and agency in the growing project (and prevent the [tyranny of structurelessness]()). These cues came from the models set by other open source communities (and other forms of organisations), such as Kubernetes, Wikimedia Foundation, Carpentries, and more. 
+Among many other learnings, this research process culminated in seeing that there were already identifiable workstreams within _The Turing Way_ that could be formalised into ‘working groups’ to help field support and agency in the growing project.
 
 ## Phase 2: Trialling Community Governance Structures aka Working Groups and Core Team (Sept 2022 - March 2023)
 
-After six months of research, it was time to put theory into practice. The first Core Team Meeting was organised in XXX as an assembly. At this time, many
+After six months of research, it was time to put theory into practice. As opposed to the structure of establishing structures from the top down, governance became a process of formalising what was *already there*. The idea for working groups as an organisational format specifically came from the models set by other open source communities (and other forms of organisations) such as Kubernetes, Wikimedia Foundation, the Carpentries, and more. 
 
+More broadly, the first Core Team Meeting (as a coalition of all of these groups) was organised in June 2022. It was organised as an assembly of people who had pursued work within the project both informally and formally in previous years, and it was decided that this group would meet every three months, and that working groups would be trialled as types of formalisation. Take a peak at [this slide deck](https://docs.google.com/presentation/d/1vn82xM_G-hG13YQWok27qJqJyRlHJUjAUtsGOya9Vwc/edit?usp=sharing) from June 2022, [this Github discussion](https://github.com/the-turing-way/the-turing-way/discussions/2646) and this [HackMD](https://hackmd.io/@turingway/ttw-working-group-trial) which illustrates some of this work.
 
-At this meeting, it was decided that we would meet every three months, and that
+The following 6 months (Sept 2022 - March 2023) were spent supporting the trialing of 4 working groups and one team (which has itself evolved into a working group structure). 
 
-The following 6 months (Sept 2022 - March 2023) were spent supporting the trialing of 4 working groups and one team (which has itself evolved into a working group-like structure).
+First trial:
+1. Translation & Localisation Team (pre-existing): The Translation and Localisation team was a community of folk that had formed organically in the previous two years, and were already in the process of creating governance structures that worked for them. Calling them a "team" (and adding them to our [Ways of Working document]() really just add).
+2. Trainers & Mentors (trialed starting July 2022): This group was tackled with addressing the task of welcoming new contributors. Importantly, the team categorised and reviewed the previous archive of  
+3. Reviewers & Editors (trialed starting July 2022): This group was tackled with addressing the problem of "tech debt": 
 
-1. Translation & Localisation Team (pre-existing)
-2. Trainers & Mentors (trialed starting July 2022)
-3. Reviewers & Editors (trialed starting July 2022)
-4. Infrastructure (October 2022): 
-5. Accessibility (November 2022)
+Second trial:
+4. Infrastructure (October 2022): This group was formed from identified volunteers who had previously contributed to infrastructure and maintenance within the project, as documented  [in this issue](https://github.com/the-turing-way/the-turing-way/issues/2690). While documentation was done in October 2022, the first meeting of the Infrastructure Working Group team was hosted in November 2023. 
+5. Accessibility (November 2022): This group was formed 
 
-These working groups were trialed here. 
+Of these working groups were trialed here, the Translation and Localisation, Infrastructure, and Accessibility Working Groups have continued their work. The Trainers & Mentors and Reviewers & Editors groups, while they completed significant pieces of work, are no longer active. I'd love to write about those learnings in a separate blog, but for now I'll note that here that these trials were extremely important!. 
 
--   _**Where is friction needed/not needed?**_: Some processes will require decreasing friction in order to make them more efficient or accessible (particularly for beginners). On the other hand, it can also be important to introduce friction to slow certain processes down, especially in order to consider intention, inclusivity, and accessibility.
--   _**What is clear/not clear?:**_ A lot of informal knowledge gets passed on at community calls and/or builds over time. However, this means that as the project has expanded, 1:1 knowledge transfer isn't as possible, and may create barriers for newcomers to the project. What is clear for possible contributors? What is not?
--   _**How to leave time for asynchronous feedback?**_:
+At this point, formalisation looked like setting up groups meeting for the first time and the surrounding "infrastructure" so to speak: aims, project ideas, meeting notes, and other bits and bobs. Looking back, for some we gave over the reins too early (and they felt they had no support or guidance for their work), and for others, we’ve held on to the reins perhaps a bit too tightly. Because many of these working groups involved volunteers (and because of other responsibilites and ongoing projects), this incubation process took months to develop into a consistent cadence, or even to consolidate the team itself.
 
-The 'Trainers & Mentors' and 'Reviewers & Editors' 
-
-We also formalised a working group for Translation and Localisation, a sub-community that had formed organically in the previous two years. For groups meeting for the first time, we helped to set up their meeting infrastructure: aims, project ideas, meeting notes, and other bits and bobs. At times we gave over the reins too early (and they felt they had no support or guidance for their work), and with others, we’ve held on to the reins perhaps a bit too tightly. Looking back on that time, it became clear that this is what [moving at the speed of trust looks like](https://www.rootedstrategy.com/blogposts/4w6myxde5a15j0zrtybcgf3a1mbktk), to quote adrienne marie brown. 
-
-### ➕ Pluses:
-- **Recognising **
-
-### 🔺Deltas:
-- **The reporting infrastructure was too decentralised**: 
-- **
-
-### 🌀 Emergence:
-* I'd like to formalise this research into a 'toolkit' that others can use, with sample ecosystem questions, interview questions for key stakeholders and community members, and graphs for 
-
+Looking back on that time, it became clear that this is what [moving at the speed of trust looks like](https://www.rootedstrategy.com/blogposts/4w6myxde5a15j0zrtybcgf3a1mbktk), to quote adrienne marie brown. 
 
 ## Phase 3: Supporting, Sharing & Expanding Community Infrastructure  (March 2023 - Sept 2023)
 

@@ -30,7 +30,8 @@ A few notes about this writing process as well:
 - **De-scope as needed ** 
 - **Watch out for burnout**: While the weekly ritual allowed for me to learn a *lot* about TTW quickly, it also happened at an unsustainable piece. After months of repoI got pretty burnt out in the autumn, 
 
-I'd like to formalise this research into a 'toolkit' that others can use, with sample ecosystem questions, interview questions for key stakeholders and community members, and graphs for 
+### 🌀 Emergence:
+- I'd like to formalise this research into a 'toolkit' that others can use, with sample ecosystem questions, interview questions for key stakeholders and community members, and graphs for 
 
 ## Phase 2: Trialling Community Governance Structures aka Working Groups and Core Team (Sept 2022 - March 2023)
 
