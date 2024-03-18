@@ -6,51 +6,56 @@ category: blog
 
 ---
 
-_18.03.2024:  A few weeks ago, I recently wrote this summary about formalising working groups for governance with The Turing Way for Gracielle Higino's lab meeting at the Computational Biodiversity Science and Services (_BIOS2_). They were going through a similar process, and while I wasn't able to attend the meeting, I drafted a short summary of the process of creating working groups for their notes. In the time since, I've decided to expand it into a broader blog, as it helps to summarise the different stages of governance that we've gone through in _The Turing Way_ community._ 
+_18.03.2024:  A few weeks ago, I recently wrote this summary about formalising working groups for governance with The Turing Way for Gracielle Higino's lab meeting at the Computational Biodiversity Science and Services (BIOS2). They were going through a similar process, and while I wasn't able to attend the meeting, I drafted a short summary of the process of creating working groups for their notes. In the time since, I've decided to expand it into a broader blog, as it helps to summarise the different stages of governance that we've gone through in The Turing Way community._ 
 
-# So, how have we formalised governance within _The Turing Way_?
+# On Governance (or how I stopped worrying and learned how to love the process)
 
-Talk to anyone in the open source space (or really anyone who has experience with organisational governance, community organising, or formalisation more broadly) and they'll all say the same thing: governance is *hard*! 
+Talk to anyone in the open source space (or really anyone who has experience with organisational governance, community organising, or formalisation more broadly) and they'll all say the same thing: **governance is *hard***!  
 
-As an anthropologist, I tend to think about governance in two streams, as both formal structures and informal normals.
+As an anthropologist, I tend to think about governance in two streams, as both formal structures and informal norms:
 
 1. **Rules, structures, and institutions** (formal): This could be considered structures that enable decision making, for organising into groups, line management, and roles that formally place people into organisational structures that govern their behavior and work in a project or community.
-2. **Norms, culture, and rituals** (informal): This one is harder to pin down, because I suppose it could be *anything* that governs a persons behaviour that isn't codified. This could be as individualised as power dynamics and personalities, or as wide as cultural norms within a group, events, and more. Informal governance could be uncodified and unspoken, vague . 
+2. **Norms, culture, and rituals** (informal): This one is harder to pin down, because it could be *anything* that governs a persons behaviour that isn't codified. This could be as individualised as power dynamics and personalities, or as wide as cultural norms within a group, events, and more. Informal governance could be uncodified and unspoken, vague . 
 
-Within *The Turing Way*, governance (as I define and divide it into the two categories above) takes on both these forms. Early on in my time with The Turing Way, I was introduced to the [tyranny of structurelessness](https://twitter.com/aleesteele/status/1544277587421237249), and learned just how important formalisation was for the health of a growing community or organisation. When I joined The Turing Way in March 2022, it was a project with strong norms and culture, tthough not necessary many formal rules or organisational structures. 
+Within *The Turing Way*, governance (as I define and divide it into the two categories above) takes on both these forms. Early on in my time with The Turing Way, I was introduced to the [tyranny of structurelessness](https://twitter.com/aleesteele/status/1544277587421237249), and learned just how important formalisation was for the health of a growing community or organisation more broadly. When I joined The Turing Way in March 2022, it was a project with strong norms and culture, though not necessary many formal rules or organisational structures, due to how rapidly it had grown in previous years (that had overlapped with the COVID-19 pandemic).
 
-So, I thought I’d tell you a little bit about how we've gone about forming working groups with *The Turing Way* project, and formalised types of work more broadly. That's not to say that governance translates exclusively into working groups, it's simply that one of the most visible outcomes of our governance work within the community.
-
-I've divided this into roughly four stages so far:
+When reviewing this process, I've divided our governance or formalisation process into roughly four stages so far:
 1. Community Research (March 2022 - Sept 2022)
 2. Trialling Community Governance Structures aka Working Groups and Core Team (Sept 2022 - March 2023)
 3. Supporting, Sharing & Expanding Community Infrastructure  (March 2023 - Sept 2023)
 4. Iterating, Documenting and Decentralising Governance Structures (Sept 2023 - Ongoing)
 
-Each of these stages weren't explicitly planned, as we've very much tried to [move at the speed of trust](https://www.rootedstrategy.com/blogposts/4w6myxde5a15j0zrtybcgf3a1mbktk)  within the community, adjusting to needs as they emerged. Hindsight is also always 20-20, and ! This effort also did not come from me alone – it's absolutely has been a team effort, and I've learned tons from my fellow colleauges and collaborators about the process. 
+A few notes about this writing process as well:
+- You'll notice that there's a lot of focus on working groups in this summary. That's not to say that our governance has translated exclusively into working groups, it's simply one of the most visible outcomes of our governance work within the community, along with other structures. 
+- Each of these stages weren't explicitly planned, as we've very much tried to [move at the speed of trust](https://www.rootedstrategy.com/blogposts/4w6myxde5a15j0zrtybcgf3a1mbktk)  within the community, adjusting to needs as they emerged. 
+- Under each stage, I've drawn from the ["pluses and deltas"](https://the-turing-way.netlify.app/community-handbook/templates/template-bookdash-feedback#ch-template-bookdash-feedback) reflection format we tend to use for Book Dash: aka positive learnings/outcomes as well as things I would change in retrospect. 
+- For those interested in starting a similar process, please keep in mind that this governance work was done alongside the other operational tasks within the project like hosting Fireside Chats, giving trainings and talks, onboarding, reporting and more of the day-to-day operations of the project. The timelines might have been different if this were my full-time focus.
+- I also want to stress that this effort also did not come from me alone. It has absolutely has been a team effort, and I've learned tons from my fellow colleauges and collaborators about the process!
 
-I've drawn from the reflection format we tend to use for Book Dash, our bi-annual edit-a-thon and shared pluses and deltas, aka positive learnings/outcomes, as well as things I would change in retrospect. 
-
-Keep in mind that this governance work was done alongside the other operational tasks within the project like hosting Fireside Chats, giving trainings and talks, onboarding and more of the day-to-day operations of the project. The timelines might have been different if this were my full-time focus.
+I hope this documentation might be useful for other communities that are undergoing similar work. Please feel free to reach out if any of this resonates with you and your work!
 
 # Phases of governance
 
 ## Phase 1: Community Research (March 2022 - Sept 2022)
 
-I joined the project in March 2022, and spent the [first 6 months learning more about the project](https://github.com/the-turing-way/the-turing-way/discussions/2552) in public, which you can read more about there.
+I joined the project in March 2022, and spent the [first 6 months learning more about the project](https://github.com/the-turing-way/the-turing-way/discussions/2552) in public, which you can read more about on that Github issue/discussion.
 
-This culminated in realising that there were identifiable workstreams within _The Turing Way_ that could be formalised into ‘working groups’ to help field support and agency in the growing project (and prevent the [tyranny of structurelessness]()). This came from cues from the models of other open source communities (and other forms of social organisation), such as the Kubernetes or X. This research into governance was pretty informal (like this [slide deck of research](https://docs.google.com/presentation/d/1HcKjeikxAAfKDCb5Okh1EqPbabedM3c7xIVuKv1Cqeg/edit#slide=id.p)), and also formal as well (like when [we participated in the Open Life Science programme](https://openlifesci.org/openseeds/ols-5/projects-participants.html))... And it’s been a bumpy road, but a huge learning experience! 
+This research culminated in realising that there were identifiable workstreams within _The Turing Way_ that could be formalised into ‘working groups’ to help field support and agency in the growing project (and prevent the [tyranny of structurelessness]()). This came from cues from the models of other open source communities (and other forms of social organisation), such as Kubernetes, Wikimedia Foundation, Carpentries, and more. 
+
+This research into governance was pretty informal (like this [slide deck of research](https://docs.google.com/presentation/d/1HcKjeikxAAfKDCb5Okh1EqPbabedM3c7xIVuKv1Cqeg/edit#slide=id.p)), and also formal as well (like when [we participated in the Open Life Science programme](https://openlifesci.org/openseeds/ols-5/projects-participants.html))... And it’s been a bumpy road, but a huge learning experience! 
 
 This research process 
 
 Pluses:
-- **Rapid reporting / weekly ritual**: This weekly ritual was.
+- **Rapid reporting / weekly ritual**: This weekly ritual was something I was immediately decided. It ensured I got to know community members through "snowball sampling"
 - **Enabling transparency in action**: This 
+- 
 
 Delta:
-- **Burnout**: While the weekly ritual allowed for me to learn a *lot* about TTW quickly, it also happened at an unsustainable piece. I got pretty burnt out in the autumn, 
-- **Informal Reporting Format**: 
-- 
+- **The reporting format was (perhaps) too informal**: I started documenting this work informalling on Github because of its . It also pla. However, this also meant that this work wasn't necessarily visible to others that 
+- **Develop a Timeline**: I conducted community research without developing a timeline for what the outcome of that research was. As an ethnographer, the aim was clear: learn about the community, but the outcome wasn't: was it an audit of community? 
+- **Develop ** 
+- **Watch out for Burnout**: While the weekly ritual allowed for me to learn a *lot* about TTW quickly, it also happened at an unsustainable piece. After months of repoI got pretty burnt out in the autumn, 
 
 I'd like to formalise this research into a 'toolkit' that others can use, with sample ecosystem questions, interview questions for key stakeholders and community members, and graphs for 
 
@@ -71,8 +76,6 @@ These working groups were trialed here.
 
 The 'Trainers & Mentors' and 'Reviewers & Editors' 
 
-
-
 We also formalised a working group for Translation and Localisation, a sub-community that had formed organically in the previous two years. For groups meeting for the first time, we helped to set up their meeting infrastructure: aims, project ideas, meeting notes, and other bits and bobs. At times we gave over the reins too early (and they felt they had no support or guidance for their work), and with others, we’ve held on to the reins perhaps a bit too tightly. Looking back on that time, it became clear that this is what [moving at the speed of trust looks like](https://www.rootedstrategy.com/blogposts/4w6myxde5a15j0zrtybcgf3a1mbktk), to quote adrienne marie brown. 
 
 Pluses:
@@ -90,10 +93,9 @@ During this time, I started preparing documentation needed to help with this for
 
 We also started giving lots of talks with community members across the project: 
 
-
-
 Pluses
-- Moving to a gov
+- **Increasing visibility of community leaders**
+- 
 
 Deltas:
 - 
