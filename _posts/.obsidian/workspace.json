@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "962f4a1944aeb5b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-03-18-governance-one.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "962f4a1944aeb5b9",
+  "active": "3ab18e4042c29869",
   "lastOpenFiles": [
-    "2024-03-20-governance-two.md",
+    "().md",
     "2024-03-18-governance-one.md",
+    "2024-03-20-governance-two.md",
     "2023-08-04-two-years-ttw.md",
     "2024-04-20-crisis.md",
     "2024-03-02-ten-things-two-years.md",
