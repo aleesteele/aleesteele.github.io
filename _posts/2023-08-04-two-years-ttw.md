@@ -35,13 +35,13 @@ More than anything, I hope that this writing comes from a place of intellectual 
 I chose these themes because they containerise my broader reflections into something more structured, and help me to focus on key themes (where I aim to include both the good and the bad – particularly where I am implicated). 
  
 Here's roughly what I plan on (and have been) reflecting on:
+- Developing governance and the steps required (maybe something like 'how i learned to love emergence?')
 - 10 practices I've learned from 2 years (really trying to keep it to 10 will be hard!)
 - The development of digital "third spaces" like _The Turing Way_
 - On the theory (research) and praxis (work) of community building
-- Developing governance and the steps required
 - General reflections on "openness" in different spaces
 - Working in 'science' vs working in 'technology' (and other supposed 'binaries')
-- 
+- Maybe about what what it means to work in community building during times of perpetual and overlapping crisis?
 
 All of the blogs above will be retrospective – they aim to add context, coloring, and framing –– I'd ideally also like to write something that is a bit more future-focused as well.
 
