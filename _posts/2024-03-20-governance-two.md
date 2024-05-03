@@ -27,11 +27,10 @@ A few notes about this writing process as well:
 ### 🔺Deltas:
 - **The reporting format was too informal**: I started documenting this work informally on Github because of . While this played the role of, it also meant that this work wasn't necessarily visible to others that might be engaging in different formats, and was not 
 - **Develop a timeline and end-date**: As an ethnographer, the outcome was clear: learn about the community, but the output wasn't as clear: was it a platform audit? A community audit? A design research exercise? A combination of all of the above? I indeed wanted to use a combination of the tools I already knew (ethnography)
-- **De-scope as needed ** 
+- **De-scope as needed** 
 - **Watch out for burnout**: While the weekly ritual allowed for me to learn a *lot* about TTW quickly, it also happened at an unsustainable piece. After months of repoI got pretty burnt out in the autumn, 
 
-### 🌀 Emergence:
-- I'd like to formalise this research into a 'toolkit' that others can use, with sample ecosystem questions, interview questions for key stakeholders and community members, and graphs for 
+I'd like to formalise this research into a 'toolkit' that others can use, with sample ecosystem questions, interview questions for key stakeholders and community members, and graphs for 
 
 ## Phase 2: Trialling Community Governance Structures aka Working Groups and Core Team (Sept 2022 - March 2023)
 
