@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "09560c22366c8633",
+        "id": "83264774fb684451",
         "type": "tabs",
         "children": [
           {
-            "id": "32bc207ee0fe1f62",
+            "id": "e8de949e2596e10d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-14-ttw-governance.md",
+                "file": "2023-08-04-one-year-ttw.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-14-ttw-governance.md",
+                "file": "2023-08-04-one-year-ttw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-14-ttw-governance.md",
+                "file": "2023-08-04-one-year-ttw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-14-ttw-governance.md"
+                "file": "2023-08-04-one-year-ttw.md"
               }
             }
           }
@@ -154,17 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32bc207ee0fe1f62",
+  "active": "e8de949e2596e10d",
   "lastOpenFiles": [
     "2024-08-10-ten-things-two-years.md",
+    "2023-08-04-one-year-ttw.md",
+    "2024-05-14-ttw-governance.md",
     "2024-07-15-art-jesters-privilege.md",
     "2024-06-11-arena.md",
-    "2024-05-14-ttw-governance.md",
     "2024-02-07-science-technology.md",
     "2024-03-14-governance.md",
     "2024-03-02-ten-things-two-years.md",
     "2024-02-07-science.md",
-    "2023-08-04-two-years-ttw.md",
     "2024-03-15-crisis.md",
     "2023-11-14-artists-way-creativity.md",
     "2024-01-05-2024-principles.md",

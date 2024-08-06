@@ -1,9 +1,8 @@
 ---
 layout: post
-title: reviewing two years with The Turing Way
+title: reviewing one year with The Turing Way
 date: 2023-08-04 23:00:00 +0000
 category: blog
-
 ---
 Wow, my year-long mark with The Turing Way has come and gone. It's hard to believe that it's already been more than a year (actually perhaps closer to two)!
 
