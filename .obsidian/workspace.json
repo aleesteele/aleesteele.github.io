@@ -11,8 +11,12 @@
             "id": "9a076cf12b0af938",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-08-31-conferences.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2024-08-31-conferences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2024-08-31-conferences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2024-08-31-conferences.md"
+              }
             }
           }
         ]
@@ -140,15 +148,16 @@
   },
   "active": "9a076cf12b0af938",
   "lastOpenFiles": [
-    "_posts/2024-11-27-all-conferences-festivals.md",
-    "_posts/2025-02-10-fosdem.md",
     "_posts/2024-08-10-ten-things-two-years.md",
+    "_posts/2024-08-31-conferences.md",
+    "_posts/2025-02-10-fosdem.md",
+    "_posts/2024-07-15-art-jesters-privilege.md",
+    "_posts/2024-11-27-all-conferences-festivals.md",
     "_posts/2024-02-07-science-technology.md",
     "_posts/2019-08-15-ann-douglas.md",
     "_posts/2018-01-11-template.md",
     "_posts/2024-01-11-fellowships-residencies-etc.md",
     "_posts/2024-01-05-2024-principles.md",
-    "_posts/2024-02-24-third-space.md",
-    "_posts/2024-07-15-art-jesters-privilege.md"
+    "_posts/2024-02-24-third-space.md"
   ]
 }
