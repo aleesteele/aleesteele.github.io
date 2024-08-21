@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "038bdbd8fa0fb901",
+    "type": "split",
+    "children": [
+      {
+        "id": "729e004f727ce581",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4012f611f7eacd9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-02-07-science-technology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06df8cc909ab3f8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f5e3cb27b151bb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3717b417841ad116",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "85322c7beed6aa40",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0906eb47bfd071fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 380.5
+  },
+  "right": {
+    "id": "e36e50afdfbc3456",
+    "type": "split",
+    "children": [
+      {
+        "id": "414983a7e45c6d9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c943aaa58a148fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2024-02-07-science-technology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8227be68caa88ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2024-02-07-science-technology.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "201cb557ca32904d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "60b829ada1943a87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2024-02-07-science-technology.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4012f611f7eacd9d",
+  "lastOpenFiles": [
+    "_posts/2019-08-15-ann-douglas.md",
+    "_posts/2018-01-11-template.md",
+    "_posts/2024-01-11-fellowships-residencies-etc.md",
+    "_posts/2024-01-05-2024-principles.md",
+    "_posts/2024-02-07-science-technology.md",
+    "_posts/2024-02-24-third-space.md",
+    "_posts/2024-07-15-art-jesters-privilege.md",
+    "_posts/2024-08-10-ten-things-two-years.md"
+  ]
+}
