@@ -13,3 +13,4 @@ _Note: Back in August of last year, I wrote a blog that aimed to collect (or at 
 # Science, Technology and the Societies (Cultures) they create 
 
 cientic research is not the same as technological development – their cultures, norms, and practices are different
+

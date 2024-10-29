@@ -1,11 +1,10 @@
 ---
 layout: post
 title: on cultivating digital third spaces (aka the fourth space)
-date: 2024-06-27 23:00:00 +0000
+date: 2024-10-10 23:00:00 +0000
 category: blog
 published: false
 ---
-
 _Note: Back in August of last year, I [wrote a blog]() that aimed to summarise some personal reflections about digital life, community management, and researcher/praxis reflections a year into my role with The Turing Way. As Jia Tolentino wrote in her book **Trick Mirror**: "I write to think", and for me, this is true as well. Journalistic or creative writing uses a very different set of muscles than documentation or academic writing, and as I kick off my second year with the project, I wanted to document these broader reflections._
 
 # The growth of digital 'third spaces' 
@@ -17,7 +16,7 @@ The "third space" is a term coined by American sociologist Ray Oldenburg, as spa
 These third spaces were important, because they created social bonds and connections outside of the context of working life, labor, and the nuclear family. I love how Lia Schifitto described them in the [syllabus project](https://syllabusproject.org/third-places/): 
 > "In the most basic sense, a third place is somewhere people gather that is neither the home (first place) nor for labor (second place). There is a certain magic to third places. They subvert barriers and boundaries we often accept, expanding limitations we unknowingly perpetuate. Third places exist in the in-between, a space both liminal and seemingly permanent and tangible. _They are both the site of connection but also the connection itself._"
 
-Many urban planners, designers, and sociologists have understood this implicitely and at length. Jane Jacobs talked about the importance of "sidewalks" in facilitating community connections in urban spaces. Of course, many cities across the world continue to have vibrant "third spaces", and it would be a grave mistake to universalise the idea that all third spaces are in decline. I'm thinking of city squares (*plazas*) in Spanish cities, or the X of coffee houses in Turkey. These spaces are very  
+Many urban planners, designers, and sociologists have understood this implicitly and at length. Jane Jacobs talked about the importance of "sidewalks" in facilitating community connections in urban spaces. Of course, many cities across the world continue to have vibrant "third spaces", and it would be a grave mistake to universalise the idea that all third spaces are in decline. I'm thinking of city squares (*plazas*) in Spanish cities, or coffee culture in Turkish cones. These spaces are very  
 
 Third spaces haven taken many forms, and will continue to evolve as we do. They are coffee shops, community gardens, churches, mosques, synagogues, temples, co-ops, pubs, parks, clubs, music venues – even malls. 
 ## The rise of digital third spaces and open source 'communities'
@@ -26,10 +25,10 @@ From the get go, the internet operated as a kind of "third space" for many. It w
 
 The free and open source software movements similarly emerged from one of the world's most famous third spaces: that of the university. As hardware, software, and services unbundled in the breakdown of mainframe computers, it was at the university that early computer scientists were able to reimagine an understanding of software that went beyond intellectual property and copyright to something perhaps more.
 
-In the years since, this way of working has expanded in scope and size. Open source communities have become vibrant ecosystems: X. They're also a critical infrastructure, as [this famous comic from xkcd defly illustrates](), and as Nadia Eghbal wrote about in her book *[Bridges and Roads]()*. As their important has become increasing visislbe, various funds to support their maintenance have emerged: from Mozilla's XXX, to Code for Science and Society's XXX, to the Chan-Zuckerberg Foundation's .
+In the years since, this way of working has expanded in scope and size. Open source communities are both vibrant and precarious ecosystems. They're also a critical infrastructure, as [this famous comic from xkcd defly illustrates](), and as Nadia Eghbal wrote about in her book *[Bridges and Roads]()*. As their important has become increasing visislbe, various funds to support their maintenance have emerged: from Mozilla's [DFL Infrastructure Fund](https://foundation.mozilla.org/en/data-futures-lab/grantmaking/infrastructure-fund/), to Open Technology Fund's [Free and Open Source Software Sustainability Fund](https://www.opentech.fund/funds/free-and-open-source-software-sustainability-fund/), to the Chan-Zuckerberg Foundation's [Essential Open Source Software for Science](https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/). Fiscal sponsors like [Code for Science & Society](https://www.codeforsociety.org/) and [Educopia](https://educopia.org/) 
 ## How spaces changed during the COVID-19 pandemic
 
-During the COVID-19 pandemic, our sense of spaces and the boundaries between them blended. For many, the COVID-19 pandemic was the first time that many jobs went online, along with most other services: from school
+During the COVID-19 pandemic, our sense of spaces and the boundaries between them blended. For many, the COVID-19 pandemic was the first time that many jobs went online, along with most other services: from school, to doctor's appointments, to friendly catch-ups, to
 
 During my research with the OpenStreetMap community
 

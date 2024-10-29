@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-14-ttw-governance.md",
+                "file": "_posts/2024-11-27-all-conferences-festivals.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-27-all-conferences-festivals"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-14-ttw-governance.md",
+                "file": "_posts/2024-11-27-all-conferences-festivals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-11-27-all-conferences-festivals"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-14-ttw-governance.md",
+                "file": "_posts/2024-11-27-all-conferences-festivals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-11-27-all-conferences-festivals"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-14-ttw-governance.md"
-              }
+                "file": "_posts/2024-11-27-all-conferences-festivals.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-11-27-all-conferences-festivals"
             }
           }
         ]
@@ -148,19 +164,22 @@
   },
   "active": "9a076cf12b0af938",
   "lastOpenFiles": [
-    "_posts/2024-06-11-arena.md",
-    "_posts/2024-03-20-solidarity-infra.md",
-    "_posts/2024-05-14-ttw-governance.md",
-    "_posts/2024-08-10-ten-things-two-years.md",
-    "_posts/2024-08-31-conferences.md",
-    "_posts/2025-02-10-fosdem.md",
-    "_posts/2024-07-15-art-jesters-privilege.md",
-    "_posts/2024-11-27-all-conferences-festivals.md",
-    "_posts/2024-02-07-science-technology.md",
-    "_posts/2019-08-15-ann-douglas.md",
+    "_posts/2024-11-03-crisis.md",
+    "_posts/2024-10-29-transparency-trust.md",
+    "_posts/2024-10-10-third-space.md",
     "_posts/2018-01-11-template.md",
+    "_posts/2024-11-27-all-conferences-festivals.md",
+    "_posts/2024-06-11-arena.md",
+    "_posts/2024-08-10-ten-things-three-years.md",
+    "_posts/2024-02-07-science-technology.md",
+    "_posts/2024-02-10-fosdem.md",
+    "_posts/2024-08-31-conferences.md",
+    "_posts/2024-07-15-art-jesters-privilege.md",
+    "_posts/2024-10-29-crisis.md",
+    "_posts/2024-05-14-ttw-governance.md",
+    "_posts/2024-03-20-solidarity-infra.md",
+    "_posts/2019-08-15-ann-douglas.md",
     "_posts/2024-01-11-fellowships-residencies-etc.md",
-    "_posts/2024-01-05-2024-principles.md",
-    "_posts/2024-02-24-third-space.md"
+    "_posts/2024-01-05-2024-principles.md"
   ]
 }
