@@ -1,7 +1,7 @@
 ---
 layout: post
 title: formalising the turing way's governance (a two year review)
-date: 2024-05-14 23:00:00 +0000
+date: 2024-08-14 23:00:00 +0000
 category: blog
 published: true
 ---
