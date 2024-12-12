@@ -5,7 +5,7 @@ date: 2024-12-02 23:00:00 +0000
 category: blog
 published: false
 ---
-A few years down the line
+A few years down the line - I'm 
 
 > **We cannot go beyond the consumer society unless we first understand that obligatory public schools inevitably reproduce such a society, no matter what is taught in them**. The public is indoctrinated to believe that skills are valuable and reliable only if they are the result of formal schooling.
 > Ivan Illich
