@@ -17,7 +17,9 @@ Connected to:
 - *The Creative Act* by Rick Rubin
 
 ### 2. *Women Who Run with the Wolves* by Dr. Clarissa Pinkola Estés
-Connected to: *Power of Myth* by Joseph Campbell
+Connected to: 
+- *Power of Myth* by Joseph Campbell
+- 
 
 
 ### 3. *Untamed: Stop Pleasing, Start Living* by Glennon Doyle
