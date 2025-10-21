@@ -17,5 +17,6 @@ A few years down the line - I'm
 You and your research essay
 Knowledge Commons
 
+
 >“An _education_ is not something that you get, but something that you claim... Responsibility to yourself means refusing to let others do your thinking, talking, and naming for you; it means learning to respect and use your own brains and instincts; hence, grappling with hard work.”   
 >Adrienne Rich

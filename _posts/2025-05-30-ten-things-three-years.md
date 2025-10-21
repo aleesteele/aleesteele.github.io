@@ -10,7 +10,7 @@ _Note: Back in August of 2022, I [wrote a blog]() that aimed to summarise some p
 
 ### 1. Community-building is not the same as understanding  the practices of community management.
 
-T
+I entered the 
 
 ### 2. Scientific research is not the same as technological development – their cultures, norms, and practices are different
 
@@ -24,7 +24,7 @@ In the
 
 
 
-### 5. Difference matters as much as the space it has to flourish.
+### 5. Difference matters as much as it has the space it has to flourish.
 
 I've thought about this one a lot!
 ### 6. Intergenerational histories and myths are really important in sustaining the culture of an open source project. 
@@ -35,6 +35,7 @@ I've thought about this one a lot!
 
 
 ### 8. Transparency and trust are interlinked, but are not the same thing.
+
 
 ### 9. Sustaining third spaces for others does not necessarily create a third space for yourself.
 
@@ -62,14 +63,14 @@ It's funny how so many of these
 - Behaviour of being open is a habit - and a practice
 - creating third spaces for otehrs does not create a third space for yourself
 - open "AI" has shifted the landscape and priorities of openness - not necessarily for the better
-- Being in community with each other requires suspending some amount of disbelief – and critique. It requires simply "
-- You cannot manage a community from the margins (as a community manager) – but you can seek t
-- Intergenerational knowledge (and multigenerationL) is a complex, 
+- Being in community with each other requires suspending some amount of disbelief – and critique. It requires simply "being together"
+- You cannot manage a community from the margins (as a community manager) – but you can seek to bring other perspectives in support it.
+- Intergenerational knowledge (and multigenerational) is a complex, 
 - Being "in the arena" looks very different depending on your discipline (and requires very different muscles!)
 - Education is liberatory – but that liberation looks very different for different people. What are we 
 - Open science for many is a deeply personal experience. 
 - Intergernational histories and myths are really important in sustaining the history of a project. 
 - Transparency and trust are interlinked, but are not the same thing
-- Going beyond traditional research outputs looks very diff
+- Going beyond traditional research outputs looks very different depending on the space you are in
 - The Turing Way is a pulse on the wider research field
 - Difference matters as much as the space you give it to flourish

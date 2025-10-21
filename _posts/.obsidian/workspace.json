@@ -13,15 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-11-arena.md",
+                "file": "2024-07-15-art-jesters-privilege.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-06-11-arena"
+              "title": "2024-07-15-art-jesters-privilege"
+            }
+          },
+          {
+            "id": "45d92d53f1dbcd59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-05-30-ten-things-three-years.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-30-ten-things-three-years"
+            }
+          },
+          {
+            "id": "e459ad65f5056e5b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          },
+          {
+            "id": "b82a606e8624d6ae",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -70,8 +109,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -170,6 +209,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -178,33 +218,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8de949e2596e10d",
+  "active": "b82a606e8624d6ae",
   "lastOpenFiles": [
-    "2024-07-15-art-jesters-privilege.md",
-    "2025-02-24-elegies-for-oil-spills.md",
-    "2025-05-30-ten-things-three-years.md",
     "2025-01-05-2025-principles.md",
     "2024-12-10-three-readings-on-intuition.md",
-    "2024-08-14-ttw-governance.md",
-    "2024-06-11-arena.md",
-    "2024-03-20-solidarity-infra.md",
-    "2024-02-10-brussels.md",
-    "2024-02-07-cultures-of-science-technology.md",
-    "2024-01-05-principles.md",
-    "2023-11-14-artists-way-creativity.md",
-    "2023-08-04-one-year-ttw.md",
-    "2023-07-28-reflections-on-burnout.md",
-    "2023-07-11-osm-reflections-so-far.md",
-    "2023-04-11-reflections-on-open-journey.md",
-    "2023-03-03-omnivorous-analysis.md",
-    "2023-02-15-goatherding-poetic-web.md",
-    "2022-09-22-six-months-ttw.md",
-    "2022-03-13-photos-from.md",
-    "2022-01-11-graduate-press.md",
-    "2021-10-09-the-re-source-project.md",
-    "2024-11-10-humility-interdisciplinarity.md",
     "2024-12-01-five-readings-on-role-of-higher-education.md",
+    "2023-04-11-reflections-on-open-journey.md",
+    "2025-05-31-essays.md",
+    "2025-12-29-fellowships-residencies-etc.md",
+    "2024-01-05-principles.md",
+    "2023-08-04-one-year-ttw.md",
+    "2025-02-24-elegies-for-oil-spills.md",
+    "2025-05-30-ten-things-three-years.md",
+    "2023-11-14-artists-way-creativity.md",
+    "2019-08-15-ann-douglas.md",
+    "2024-02-07-cultures-of-science-technology.md",
+    "2018-01-11-template.md",
+    "2024-12-09-crisis.md",
     "2024-12-10-third-space.md",
-    "2024-12-09-crisis.md"
+    "2024-02-10-brussels.md",
+    "2024-03-20-solidarity-infra.md",
+    "2024-07-15-art-jesters-privilege.md",
+    "2024-08-14-ttw-governance.md",
+    "2024-10-29-all-conferences-festivals.md",
+    "2024-10-29-transparency-trust.md",
+    "2024-11-10-humility-interdisciplinarity.md",
+    "2024-06-11-arena.md",
+    "2023-07-28-reflections-on-burnout.md",
+    "2023-07-11-osm-reflections-so-far.md"
   ]
 }
