@@ -13,11 +13,11 @@ I first approached this kind of work from the lens of Science and Technology Stu
 
 Since completing my MA, I have moved from ethnographer to practitioner. When I became a community manager, in many ways, I was guilty of merging the two together. I learned that while I had once conflated scientific research with technological development, their institutional cultures, incentive structures, and epistemic norms differ in crucial ways. Similar cultural differences seemed to apply in the context of hardware engineers as opposed to software developers, often collectively grouped under as STEM professionals.
 
-I gave a talk at the [Data Justice conference](https://zenodo.org/records/8060167) in 2023 where I tried to tease out these differences, which stemmed from my own experience in the open ecosystem. 
+I gave a talk at the [Data Justice conference](https://datajusticelab.org/data-justice-conference/) ([slides on Zenodo](https://zenodo.org/records/8060167)) in 2023 where I tried to tease out these differences, which stemmed from my own experience in the open ecosystem. 
 
 ![Alt: Screenshot of presentation](https://hackmd.io/_uploads/rJNP7jckZl.png)
 
-I gave an updated version of this paradigm later on during that summer, at ['Moving frontiers of the demos: Enfranchisement, youth participation, and digital technologies'](https://www.graduateinstitute.ch/programmes/moving-frontiers-demos-enfranchisement-youth-participation-and-digital-technologies)](https://zenodo.org/records/8063396).
+I gave an updated version of this paradigm later on during that summer, at ['Moving frontiers of the demos: Enfranchisement, youth participation, and digital technologies'](https://www.graduateinstitute.ch/programmes/moving-frontiers-demos-enfranchisement-youth-participation-and-digital-technologies). [My slides are on Zenodo](https://zenodo.org/records/8063396) as well.
 
 This significantly expanded my framework, describing funding, their roles, and the crises that defined them.
 
