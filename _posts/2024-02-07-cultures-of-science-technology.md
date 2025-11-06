@@ -15,13 +15,13 @@ Since completing my MA, I have moved from ethnographer to practitioner. When I b
 
 I gave a talk at the [Data Justice conference](https://zenodo.org/records/8060167) in 2023 where I tried to tease out these differences, which stemmed from my own experience in the open ecosystem. 
 
-![Alt: ](https://hackmd.io/_uploads/rJNP7jckZl.png)
+![Alt: Screenshot of presentation](https://hackmd.io/_uploads/rJNP7jckZl.png)
 
 I gave an updated version of this paradigm later on during that summer, at ['Moving frontiers of the demos: Enfranchisement, youth participation, and digital technologies'](https://www.graduateinstitute.ch/programmes/moving-frontiers-demos-enfranchisement-youth-participation-and-digital-technologies)](https://zenodo.org/records/8063396).
 
 This significantly expanded my framework, describing funding, their roles, and the crises that defined them.
 
-![[upload_a9888ba7c669b61ad48a2f12038df293.png]]
+![Alt: Screenshot of presentation](upload_a9888ba7c669b61ad48a2f12038df293.png)
 
 Over time, I also came to understand how “openness” emerged as a response to the crisis of reproducibility in scientific research, reflecting not just technical challenges, but broader anxieties around public trust and accountability. 
 
