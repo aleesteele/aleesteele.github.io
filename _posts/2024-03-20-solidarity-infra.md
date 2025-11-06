@@ -5,7 +5,6 @@ date: 2024-03-20 23:00:00 +0000
 category: blog
 published: true
 ---
-
 _30.03.24: This blog was [originally posted](https://infrastructures.us/en/blog/winter-24/aleesteele/) on the course website for Infrastructure Solidarities, a course at School for Poetic Computation that I took from January through March 2024._
 
 # navigating through map-making (an infrastructure of solidarity)
