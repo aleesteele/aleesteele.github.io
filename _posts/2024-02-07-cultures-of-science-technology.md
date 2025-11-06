@@ -5,7 +5,6 @@ date: 2024-01-11 23:00:00 +0000
 category: blog
 published: true
 ---
-
 _Back in August of last year, I wrote a blog that aimed to collect (or at least jumpstart) some personal reflections about Community Management, a year on in my role with The Turing Way._
 
 Scientific research is not the same as technological development – their cultures, norms, and practices are different. But it took me a while to understand this.
@@ -16,13 +15,13 @@ Since completing my MA, I have moved from ethnographer to practitioner. When I b
 
 I gave a talk at the [Data Justice conference](https://zenodo.org/records/8060167) in 2023 where I tried to tease out these differences, which stemmed from my own experience in the open ecosystem. 
 
-![Alt: Data Justice conference - defining the boundaries between science and technology](https://hackmd.io/_uploads/BJyox59yZe.png)
+![Alt: ](https://hackmd.io/_uploads/rJNP7jckZl.png)
 
-I gave an updated version of this paradigm later on during that summer, at [['Moving frontiers of the demos: Enfranchisement, youth participation, and digital technologies'](https://www.graduateinstitute.ch/programmes/moving-frontiers-demos-enfranchisement-youth-participation-and-digital-technologies)](https://zenodo.org/records/8063396).
+I gave an updated version of this paradigm later on during that summer, at ['Moving frontiers of the demos: Enfranchisement, youth participation, and digital technologies'](https://www.graduateinstitute.ch/programmes/moving-frontiers-demos-enfranchisement-youth-participation-and-digital-technologies)](https://zenodo.org/records/8063396).
 
 This significantly expanded my framework, describing funding, their roles, and the crises that defined them.
 
-![Alt: Frontiers of the Demos - science and technology](https://hackmd.io/_uploads/HJg1W95y-g.png)
+![[upload_a9888ba7c669b61ad48a2f12038df293.png]]
 
 Over time, I also came to understand how “openness” emerged as a response to the crisis of reproducibility in scientific research, reflecting not just technical challenges, but broader anxieties around public trust and accountability. 
 

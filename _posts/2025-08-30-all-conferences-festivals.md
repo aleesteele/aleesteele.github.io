@@ -1,7 +1,7 @@
 ---
 layout: post
-title: all conferences, festivals, and events i have attended from 2019 - 2024
-date: 2024-10-29 23:00:00 +0000
+title: all conferences, festivals, and events i have attended from 2019 - 2025
+date: 2025-08-30 23:00:00 +0000
 category: blog
 published: false
 ---
@@ -69,7 +69,7 @@ Reviewing all of these events took me across a few different mediums: from twitt
 
 *Previously, I had given only one academic presentation at the end of my BA back in 2017, at a gathering of officials in Thimphu, Bhutan (but that's another story)...
 
-I also thought that it might be worth asking which conferences I _didn't_ attend as well, for a variety of reasons, because f:
+I also thought that it might be worth asking which conferences I _didn't_ attend as well, for a variety of reasons, because of rejection,:
 
 | Talk                           | Time       | Mode              | Notes                                                                                                                                                                                                                                                                    |     |
 | ------------------------------ | ---------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |

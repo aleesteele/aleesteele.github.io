@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-05-30-ten-things-three-years.md",
+                "file": "2024-02-07-cultures-of-science-technology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-30-ten-things-three-years"
+              "title": "2024-02-07-cultures-of-science-technology"
             }
           },
           {
@@ -53,16 +53,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-07-cultures-of-science-technology.md",
+                "file": "2024-02-10-brussels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-02-07-cultures-of-science-technology"
+              "title": "2024-02-10-brussels"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,36 +220,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b82a606e8624d6ae",
+  "active": "45d92d53f1dbcd59",
   "lastOpenFiles": [
-    "2024-02-10-brussels.md",
-    "2024-02-07-cultures-of-science-technology.md",
+    "upload_a9888ba7c669b61ad48a2f12038df293.png",
+    "2023-04-11-reflections-on-open-journey.md",
+    "2023-08-04-one-year-ttw.md",
+    "2023-07-11-osm-reflections-so-far.md",
+    "2023-11-14-artists-way-creativity.md",
     "2024-01-05-principles.md",
+    "2024-02-07-cultures-of-science-technology.md",
+    "2024-02-10-brussels.md",
+    "2024-03-20-solidarity-infra.md",
+    "2024-06-11-arena.md",
+    "2024-07-15-art-jesters-privilege.md",
+    "2024-08-14-ttw-governance.md",
+    "2024-10-29-transparency-trust.md",
+    "2024-11-10-humility-interdisciplinarity.md",
+    "2024-12-01-five-readings-on-role-of-higher-education.md",
+    "2024-12-09-crisis.md",
+    "2024-12-10-third-space.md",
+    "2025-05-31-essays.md",
+    "2025-08-30-all-conferences-festivals.md",
+    "2024-12-10-three-readings-on-intuition.md",
+    "2025-05-30-ten-things-three-years.md",
     "images/Screenshot 2025-11-06 at 20.02.16.png",
     "images/Screenshot 2025-11-06 at 20.01.07.png",
     "images/Screenshot 2025-11-06 at 19.54.33.png",
     "images",
-    "2023-11-14-artists-way-creativity.md",
-    "2023-08-04-one-year-ttw.md",
-    "2023-07-11-osm-reflections-so-far.md",
-    "2023-04-11-reflections-on-open-journey.md",
     "2023-02-15-goatherding-poetic-web.md",
     "2023-03-03-omnivorous-analysis.md",
     "2022-09-22-six-months-ttw.md",
     "2020-12-03-the-open-movement-and-its-discontents.md",
-    "2021-01-17-open-thinking-open-writing.md",
-    "2024-03-20-solidarity-infra.md",
-    "2018-01-11-template.md",
-    "2022-03-13-photos-from.md",
-    "2021-10-09-the-re-source-project.md",
-    "2021-03-28-supply-chains-us.md",
-    "2020-11-25-okf.md",
-    "2019-12-09-geneva-first-field-notes.md",
-    "2020-03-09-on-protests-revolutions-and-empire-notes-on-end.md",
-    "2020-07-26-the-architecture-of-good-intentions.md",
-    "2024-06-11-arena.md",
-    "2024-10-29-all-conferences-festivals.md",
-    "2024-10-29-transparency-trust.md",
-    "2024-11-10-humility-interdisciplinarity.md"
+    "2021-01-17-open-thinking-open-writing.md"
   ]
 }
