@@ -21,7 +21,7 @@ I gave an updated version of this paradigm later on during that summer, at ['Mov
 
 This significantly expanded my framework, describing funding, their roles, and the crises that defined them.
 
-![Alt: Screenshot of presentation](upload_a9888ba7c669b61ad48a2f12038df293.png)
+![Alt: Screenshot of presentation](https://hackmd.io/_uploads/HJVWdi9kWx.png)
 
 Over time, I also came to understand how “openness” emerged as a response to the crisis of reproducibility in scientific research, reflecting not just technical challenges, but broader anxieties around public trust and accountability. 
 
