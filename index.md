@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 
-<img src="../assets/img/cyanotype.jpg"/>
+<img src="../assets/img/headshot.jpg"/>
 
 I'm **Anne Lee Steele**, a researcher, facilitator and artist based in the UK, with a focus on technology, culture, and the environment. 
 
