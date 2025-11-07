@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /projects
+title: projects
 permalink: /projects
 ---
 
@@ -58,3 +58,5 @@ permalink: /projects
 * Graduate Institute of International and Development Studies – Student Leadership Award (2021)
 * Open Knowledge Foundation – Reproducibility Research Fellowship (2020-2021)
 * Roy A. Hunt Scholarship & Trailblazer Grant – School for Field Studies (2017)
+
+{% include all-projects-list.html %}
