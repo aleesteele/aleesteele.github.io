@@ -1,5 +1,5 @@
 # Example Site settings
-title: anne lee steele # name of the site
+title: anne lee steele portfolio website # name of the site
 author: anne lee steele # name of site's author
 email: aleesteele@gmail.com # email of site's author
 url: https://aleesteele.com # root address of the site
@@ -10,10 +10,8 @@ description: > # description of the site (multiple lines allowed)
 
 header_pages:
  - index.md
- - about.md
  - projects.md
- - blog.md
- - contact.md
+ - writing.md
 
 footer: 'made with peace in mind, by <a href="https://twitter.com/aleesteele">@aleesteele</a>'
 
