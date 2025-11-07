@@ -82,7 +82,7 @@ I also thought that it might be worth asking which conferences I _didn't_ attend
 
 Reflecting on the cadence of conferences
 
-**1. That 2020-2021 period was key for conferences and connections**
+###### **1. That 2020-2021 period was key for conferences and connections**
 
 I knew this implicitly, but after listing all of these events, one thing that sticks out to me was how important the 2020-2021 period of remote conferences was. Without _really_ knowing anything, I had applied and presented at conferences that would have been wildly out of scope or budget for me today. I probably wouldn't even be where I am now!
 
@@ -90,7 +90,7 @@ We've talked a lot about how online conferences have made, but they were also re
 
 I probably wouldn't be where I am now (not that I know much more!) without the opportunity to participate in these spaces.
 
-**2. The cadence of conferences really changed post-pandemic, and it took us awhile to find our footing again (and to combat the burnout that period created).**
+###### **2. The cadence of conferences really changed post-pandemic, and it took us awhile to find our footing again (and to combat the burnout that period created).**
 
 At the same, the cadence of conferences took on a different (and perhaps more confusing cadense) when all conference moved online and then.
 
@@ -98,21 +98,21 @@ I joined The Turing Way team when this happened – when the combinat.
 
 Many folks I 
 
-**3. Conferences and festivals are the rituals of our time.**
+###### **3. Conferences and festivals are the rituals of our time.**
 
 I'm reminded of something I read in Gabriella Coleman's book "Coding Freedom", when she notes that "conferences are the rituals of our time" (or something like that), and it totally blew my mind. 
 
 Returning to spaces like MozFest and . 
 
-**4. Conferences are always better with others (either in-person or online!)**
+###### **4. Conferences are always better with others (either in-person or online!)**
 
 This is an obvious one.
 
-**5. Conferences are a place where different social groups overlap**
+###### **5. Conferences are a place where different social groups overlap**
 
 I find it super 
 
-**6. Post conference-care is key**
+###### **6. Post conference-care is key**
 
 Last year, I got really tired. I attended a number of conferences back to back. Towards the end of the year, I started prioritising personal time over professional travel, which really shifted. 
 
