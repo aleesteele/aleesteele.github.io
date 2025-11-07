@@ -6,7 +6,7 @@ permalink: /
 
 <img src="../assets/img/headshot-desktop.jpg"/>
 
-I'm a researcher, facilitator, and artist based in the United Kingdom. (<a href="https://calendly.com/aleesteele/">Schedule a chat here</a>!)
+I'm a researcher, facilitator, and artist based in the United Kingdom. 
 
 Most of what I do aims to understand and support the people &amp; processes behind our digital lives (think: open source infrastructure, extractive industries, and supply chains) and the political processes they feed into. I approach most situations as an ethnographer first, and as a community-builder second.
 
@@ -23,8 +23,3 @@ Before moving to Switzerland, I researched conservation in Bhutan, co-led studen
 While I grew up in the shadow of the oil industry in Texas, I was born in Chicago, and mostly raised in a big blue van – and on big bowls of miyeok-guk (미역국).
 
 When I'm not on a computer, I'm usually outside – recording soundscapes, chasing waves to surf or finding mountains to climb.
-
-twitter: [@aleesteele](twitter.com/aleesteele)
-instagram: [@aleestee1e](https://www.instagram.com/aleestee1e/)
-are.na: [anne lee steele](https://www.are.na/anne-lee-steele)
-linkedin: [anne lee steele](https://www.linkedin.com/in/anneleesteele/)

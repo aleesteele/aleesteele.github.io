@@ -12,6 +12,8 @@ header_pages:
  - index.md
  - projects.md
  - writing.md
+ - services.md
+ - contact.md
 
 footer: 'made with peace in mind, by <a href="https://twitter.com/aleesteele">@aleesteele</a>'
 
