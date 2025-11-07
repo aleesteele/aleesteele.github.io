@@ -5,12 +5,11 @@ permalink: /
 ---
 
 <img src="../assets/img/cyanotype.jpg"/>
-# welcome to my webiste!
-# i'm anne lee steele.
 
-i'm currently:
-@ <a href="https://www.turing.ac.uk/">the alan turing institute</a> supporting <a href="https://the-turing-way.netlify.app/welcome.html">the turing way</a>
-@ <a href="https://www.schoolofcommons.org/">school of commons</a> gathering poetic tactics to <s>counter extraction</s> train attention
-@ <a href="https://fosdem.org/">fosdem</a> co-organising the <a href="https://research-fosdem.github.io/">open research devroom</a>
-@ <a href="https://sfpc.study/">school for poetic computation</a> thinking about solidarity and infrastructure(s)
-+++ a [few other things](about)...
+I'm **Anne Lee Steele**, a researcher, facilitator and artist based in the UK, with a focus on technology, culture, and the environment. 
+
+Currently, I manage the community for The Turing Way at the Alan Turing Institute, an open-source initiative in data science. I also facilitate crowdsourced mapping for the British Red Cross and lead Studio Sanshin, where I create interdisciplinary work that explores Korean cultural heritage and environmental conservation. I have received fellowships and awards from a variety of institutions including the School of Commons, Internet Society, Wikipedia Deutschland, and Open Knowledge Foundation.
+
+With an MA and BA in Anthropology and Sociology from the Graduate Institute of International and Development Studies and Columbia University, respectively, my work combines ethnographic research with technical expertise in open-source infrastructure, humanitarian mapping, and extractive industries. I am passionate about fostering collaboration and creating accessible, community-driven resources across disciplines.
+
+For more information about my work, visit www.aleesteele.com.
