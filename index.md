@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 
-<img src="../assets/img/headshot-desktop.png"/>
+<img src="../assets/img/headshot-desktop.png" class="headshot"/>
 
 I'm a researcher, facilitator, and artist based in the United Kingdom. 
 
