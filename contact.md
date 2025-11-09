@@ -12,4 +12,6 @@ Bluesky: [@aleesteele.bsky.social](https://bsky.app/profile/aleesteele.bsky.soci
 Mastodon: [@aleesteele@post.lurk.org](https://post.lurk.org/@aleesteele)
 Instagram: [@anneleesteele](https://www.instagram.com/anneleesteele/)
 Are.na: [anne lee steele](https://www.are.na/anne-lee-steele)
-Linkedin: [anne lee steele](https://www.linkedin.com/in/anneleesteele/)
+Linkedin: [Anne Lee Steele](https://www.linkedin.com/in/anneleesteele/)
+
+Otherwise, send me an email at [aleesteele@gmail.com](mailto:aleesteele@gmail.com)
