@@ -22,3 +22,7 @@ style: light # dark (default) or light
 
 plugins:
   - jekyll-seo-tag
+
+collections:
+  projects:
+    output: true
