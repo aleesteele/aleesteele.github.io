@@ -42,7 +42,7 @@ img { max-width: $container-width; max-height: $container-height;}
 p { word-wrap: break-word;  word-break: break-word;  white-space: pre-wrap; margin-bottom: 15px; }
 header { margin-top: 10px; margin-bottom: 10px; text-align: center; justify-content: center; }
 header.welcome { max-width: $header-max-width; text-align: center; justify-content: center; }
-header img { text-align: center; justify-content: center; margin-left: 5px; }
+header img { text-align: center; justify-content: center; margin-left: 6.5px; }
 header li { max-width: 20%; }
 header p { margin: 0; }
 footer { color: var(--text-color);  border-top: var(--border); text-align: right; }
