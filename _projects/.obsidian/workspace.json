@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "aa4caf781b7aa182",
+    "id": "7573e04212f4344d",
     "type": "split",
     "children": [
       {
-        "id": "260560d092b6bc4b",
+        "id": "5adcb8710edda409",
         "type": "tabs",
         "children": [
           {
-            "id": "9c3369fbbf55cfc4",
+            "id": "141721d8c4670fbe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2021-01-11-internet-society.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2021-01-11-internet-society"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "398169e4737946fd",
+    "id": "36b8fd43fba1972f",
     "type": "split",
     "children": [
       {
-        "id": "421b456b63bf3511",
+        "id": "bec9f89581d21a43",
         "type": "tabs",
         "children": [
           {
-            "id": "8ecf580bd9f2e0e2",
+            "id": "655364f526a8d4d3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "7f700e917dcb02e7",
+            "id": "f30b17968d11b309",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "0c2144a8bb01aefd",
+            "id": "02dac3178e5133a6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "9048de7b1b870b53",
+    "id": "1bb98ca66f8a526a",
     "type": "split",
     "children": [
       {
-        "id": "dc40b6e7c538b3ef",
+        "id": "af3780b520b9e9ea",
         "type": "tabs",
         "children": [
           {
-            "id": "b64caa2b4b6e1420",
+            "id": "bc81a050e0b4b885",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2021-01-11-internet-society.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2021-01-11-internet-society"
             }
           },
           {
-            "id": "93b41a97ce60a945",
+            "id": "554e42b66a11c98e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2021-01-11-internet-society.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2021-01-11-internet-society"
             }
           },
           {
-            "id": "e8dd1aa6b49a1794",
+            "id": "f03b54b3b3c6d2a0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,17 +137,18 @@
             }
           },
           {
-            "id": "ac9f21ccc3649ca6",
+            "id": "003c77e604c68cdb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "2021-01-11-internet-society.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2021-01-11-internet-society"
             }
           }
         ]
@@ -162,11 +169,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "8ecf580bd9f2e0e2",
-  "lastOpenFiles": [
-    "2023-06-07-ai-podcast.md",
-    "2022-02-11-logic-magazine.md",
-    "2021-06-30-wikimedia-deutschland.md",
-    "2021-01-11-internet-society.md"
-  ]
+  "active": "141721d8c4670fbe",
+  "lastOpenFiles": []
 }
