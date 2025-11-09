@@ -163,21 +163,19 @@ pre { background-color: var(--background-color);  border: none;  padding: 0;  ma
 /**
  * Images
  */
- .headshot { max-width: 350px; float: left; }
- .sticky { max-width: 250px; }
+.headshot { max-width: 350px; float: left; }
+.sticky { max-width: 250px; }
 
  /**
  * Blog
  */
- .blog { border:thin solid black; padding: 5px; }
- .blog img { max-width: 20%; float: left; }
- h2.blog-title { text-decoration: none; padding-top: 10px 0 0 0; }
- .
+.blog { border:thin solid black; padding: 5px; }
+.blog img { max-width: 20%; float: left; }
+h2.blog-title { text-decoration: none; padding-top: 10px 0 0 0; }
 
  /**
  * Projects
  */
- .projects { border:thin solid black; padding: 5px; }
- .projects img { max-width: 20%; float: left; }
- h2.project-title { text-decoration: none; padding-top: 10px 0 0 0; }
- 
+.projects { border:thin solid black; padding: 5px; }
+.projects img { max-width: 20%; float: left; }
+h2.project-title { text-decoration: none; padding-top: 10px 0 0 0; }
