@@ -3,11 +3,13 @@ layout: page
 title: contact
 ---
 
-I'm always up for 
+I'm always up for a good conversation!
 
-(<a href="https://calendly.com/aleesteele/">Schedule a chat here</a>!)
+(You can <a href="https://calendly.com/aleesteele/">schedule a chat</a> using my calendly!)
 
-twitter: [@aleesteele](twitter.com/aleesteele)
-instagram: [@aleestee1e](https://www.instagram.com/aleestee1e/)
-are.na: [anne lee steele](https://www.are.na/anne-lee-steele)
-linkedin: [anne lee steele](https://www.linkedin.com/in/anneleesteele/)
+Twitter: [@aleesteele](twitter.com/aleesteele)
+Bluesky: [@aleesteele.bsky.social](https://bsky.app/profile/aleesteele.bsky.social)
+Mastodon: [@aleesteele@post.lurk.org](https://post.lurk.org/@aleesteele)
+Instagram: [@anneleesteele](https://www.instagram.com/anneleesteele/)
+Are.na: [anne lee steele](https://www.are.na/anne-lee-steele)
+Linkedin: [anne lee steele](https://www.linkedin.com/in/anneleesteele/)
