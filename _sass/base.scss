@@ -43,8 +43,8 @@ header { margin-top: 10px;  margin-bottom: 10px; }
 header.welcome { max-width: $header-max-width; }
 header ul { max-width: 20%; }
 header p { margin: 0; }
-footer { color: var(--text-color);  border-top: var(--border);  margin: 20px auto 15px;  padding-top: 10px; max-width: $footer-max-width; text-align: right; }
-footer img { text-align: right; justify-content: right; max-width: 20%; }
+footer { color: var(--text-color);  border-top: var(--border);  margin: 20px auto 15px;  padding-top: 10px;  text-align: right; }
+footer img { text-align: right; justify-content: right; max-width: $footer-max-width; }
 
 /**
  * Highlight/Markup
