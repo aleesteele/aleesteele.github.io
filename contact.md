@@ -14,4 +14,4 @@ Instagram: [@anneleesteele](https://www.instagram.com/anneleesteele/)
 Are.na: [anne lee steele](https://www.are.na/anne-lee-steele)
 Linkedin: [Anne Lee Steele](https://www.linkedin.com/in/anneleesteele/)
 
-Otherwise, send me an email at [aleesteele@gmail.com](mailto:aleesteele@gmail.com)
+Otherwise, send me an email at [aleesteele@gmail.com](mailto:aleesteele@gmail.com).
