@@ -5,7 +5,7 @@
     <div class="blog">
       {%- assign date_format = "%Y-%m-%d" -%}
       {{ post.date | date: date_format }}
-      <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+      <h2 class="blog-title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
       <p>{{ post.excerpt }}</p>
     </div> 
     </li>
