@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "aa4caf781b7aa182",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c6ac15eb978d30e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "202009a3c9f6fa79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-06-07-ai-podcast.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2023-06-07-ai-podcast"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "398169e4737946fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "421b456b63bf3511",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ecf580bd9f2e0e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7f700e917dcb02e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0c2144a8bb01aefd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9048de7b1b870b53",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc40b6e7c538b3ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b64caa2b4b6e1420",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-06-07-ai-podcast.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2023-06-07-ai-podcast"
+            }
+          },
+          {
+            "id": "93b41a97ce60a945",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-06-07-ai-podcast.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2023-06-07-ai-podcast"
+            }
+          },
+          {
+            "id": "e8dd1aa6b49a1794",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ac9f21ccc3649ca6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-06-07-ai-podcast.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2023-06-07-ai-podcast"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "202009a3c9f6fa79",
+  "lastOpenFiles": [
+    "2022-02-11-logic-magazine.md",
+    "2023-06-07-ai-podcast.md",
+    "2021-06-30-wikimedia-deutschland.md",
+    "2021-01-11-internet-society.md"
+  ]
+}
