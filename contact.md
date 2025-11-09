@@ -5,7 +5,7 @@ title: contact
 
 I'm always up for a good conversation!
 
-(You can <a href="https://calendly.com/aleesteele/">schedule a chat</a> using my calendly!)
+(Feel free to <a href="https://calendly.com/aleesteele/">schedule a chat</a> using my calendly. You should receive a generated link for jitsi).
 
 Twitter: [@aleesteele](twitter.com/aleesteele)
 Bluesky: [@aleesteele.bsky.social](https://bsky.app/profile/aleesteele.bsky.social)
