@@ -3,8 +3,7 @@
     {%- for post in site.projects -%}
     <li>
     <div class="projects">
-      {%- assign date_format = "%Y-%m-%d" -%}
-      {{ post.date | date: date_format }}
+      <img src="{{ post.preview }}">
       <h2 class="project-title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
       <p>{{ post.excerpt }}</p>
     </div> 
