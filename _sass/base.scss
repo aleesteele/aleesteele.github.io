@@ -17,7 +17,7 @@ $container-height:      30% !default;
 $container-max-width:  1000px !default;
 $container-max-height: 400px !default;
 $header-max-width: 50% !default;
-$footer-max-width:  50% !default;
+$footer-max-width:  30% !default;
 
 /**
  * Global
@@ -42,7 +42,7 @@ p { word-wrap: break-word;  word-break: break-word;  white-space: pre-wrap; marg
 header { margin-top: 10px;  margin-bottom: 10px; }
 header.welcome { max-width: $header-max-width; }
 header p { margin: 0; }
-footer { color: var(--text-color);  border-top: var(--border);  margin: 20px auto 15px;  padding-top: 10px; max-width: $footer-max-width; }
+footer { color: var(--text-color);  border-top: var(--border);  margin: 20px auto 15px;  padding-top: 10px; max-width: $footer-max-width; text-align: right; }
 footer img { text-align: right; }
 
 /**
