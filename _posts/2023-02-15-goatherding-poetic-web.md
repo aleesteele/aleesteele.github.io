@@ -3,7 +3,7 @@ layout: post
 title: goatherding people to the poetic web
 date: 2023-02-11 23:00:00 +0000
 category: blog
-
+image: "../assets/img/preview.png"
 ---
 
 [Over at the Whitaker Lab](https://whitakerlab.github.io/) at the Alan Turing Institute, our team has a weekly "goatherd", who ensures that people fill out a shared document, and shares tidbits and quotes throughout the week. The use of the term 'goatherd' as opposed to shepherd comes from a Terry Pratchet quote: 

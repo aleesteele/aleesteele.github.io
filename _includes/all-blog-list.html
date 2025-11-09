@@ -3,6 +3,7 @@
     {%- for post in site.posts -%}
     <li>
     <div class="blog">
+      <img src="{{ post.image }}" class="blog-preview-image">
       {%- assign date_format = "%Y-%m-%d" -%}
       {{ post.date | date: date_format }}
       <h2 class="blog-title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>

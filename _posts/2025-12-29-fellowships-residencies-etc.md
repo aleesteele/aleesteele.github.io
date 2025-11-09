@@ -4,6 +4,7 @@ title: All the fellowships, residencies, and alternative learning programs I hav
 date: 2025-01-11 23:00:00 +0000
 category: blog
 published: false
+image: "../assets/img/preview.png"
 ---
 # All the fellowships, residencies, and alternative learning programs I have done from 2020 to 2025
 

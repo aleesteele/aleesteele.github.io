@@ -3,7 +3,7 @@ layout: post
 category: blog
 title: the re:source project
 date: 2021-10-09 22:00:00 +0000
-
+image: "../assets/img/preview.png"
 ---
 miriam & i recently were given the opportunity to continue our collaboration at Wikimedia Deutschland's Unlock Accelerator. It's been a great opportunity to learn about how open knowledge works in action, and the role that tech might play in these spaces. as social scientists, we found ourselves ourselves in an unfamiliar environmental: that of product development, dominated by notions of efficiency and productivity. it's been a challenging (but ultimately extremely fruitful!) time, and so i thought i'd post one of our status updates here.
 

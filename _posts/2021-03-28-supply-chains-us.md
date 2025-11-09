@@ -3,7 +3,7 @@ layout: post
 title: supply chains & us
 date: 2021-03-28 22:00:00 +0000
 category: blog
-
+image: "../assets/img/preview.png"
 ---
 over the past few months, my collaborator miriam matthiessen ([@miriammthsn](https://twitter.com/miriammthsn)) and i have been presenting our new collaboration: supply chains and us. while this is supply we'll be building up and revisiting in the coming months, i thought i would log some of our progress here.
 

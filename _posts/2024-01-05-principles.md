@@ -3,7 +3,7 @@ layout: post
 title: guiding principles for 2024
 date: 2024-01-05 08:00:00 +0000
 category: blog
-
+image: "../assets/img/preview.png"
 ---
 _15.01.2024: I recently sent this over to a friend - and realised that this might be something since to post here as well!_
 
