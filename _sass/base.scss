@@ -176,4 +176,6 @@ pre { background-color: var(--background-color);  border: none;  padding: 0;  ma
  * Projects
  */
  .projects { border:thin solid black; padding: 5px; }
+ .projects img { max-width: 10%; float: left; }
  h2.project-title { text-decoration: none; }
+ 
