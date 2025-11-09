@@ -62,8 +62,8 @@ footer img { text-align: right; }
  * Header/Navigation
  */
 .menu { border-top: var(--border);  border-bottom: var(--border);  margin-bottom: 25px; display: inline-block; text-align: center; }
-.menu ul { margin-top: 12px;  margin-bottom: 12px;  padding-left: 0px; margin-left: 10px; list-style-type: none;  }
-.menu ul li { }
+.menu ul { margin-top: 10px;  margin-bottom: 10px;  padding-left: 0px; list-style-type: none; }
+.menu ul li { margin-left: 10px;  margin-right: 10px; }
 .folder { text-align: center; }
 .folder img { max-width: 10%; }
 .menu li { display: inline-block; }
