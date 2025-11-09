@@ -5,7 +5,7 @@
     <div class="blog">
       <img src="{{ post.image }}" class="blog-preview-image">
       {%- assign date_format = "%Y-%m-%d" -%}
-      {{ post.date | date: date_format }}
+      <p class="blog-date">{{ post.date | date: date_format }}</p>
       <h2 class="blog-title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
       <!-- <p>{{ post.excerpt }}</p> -->
     </div> 
