@@ -3,6 +3,8 @@ layout: page
 title: contact
 ---
 
+I'm always up for 
+
 (<a href="https://calendly.com/aleesteele/">Schedule a chat here</a>!)
 
 twitter: [@aleesteele](twitter.com/aleesteele)
