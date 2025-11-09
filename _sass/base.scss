@@ -43,7 +43,7 @@ header { margin-top: 10px;  margin-bottom: 10px; }
 header.welcome { max-width: $header-max-width; }
 header p { margin: 0; }
 footer { color: var(--text-color);  border-top: var(--border);  margin: 20px auto 15px;  padding-top: 10px; max-width: $footer-max-width; text-align: right; }
-footer img { text-align: right; }
+footer img { text-align: right; justify-content: right; }
 
 /**
  * Highlight/Markup
@@ -67,7 +67,7 @@ footer img { text-align: right; }
 .folder { text-align: center; }
 .folder img { max-width: 10%; text-align: center; }
 .menu li { display: inline-block; }
-.menu img { display: block; }
+.menu img { display: block; justify-content: center; }
 .menu ul li a { text-decoration: none;  color: var(--text-color); display: inline-block; }
 .menu ul li a:hover { text-decoration: none; color: var(--background-color); background-color: var(--base-color); }
 
