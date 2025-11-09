@@ -170,12 +170,12 @@ pre { background-color: var(--background-color);  border: none;  padding: 0;  ma
  * Blog
  */
 .blog { border:thin solid black; padding: 10px; }
-.blog img { max-width: 160px; float: left; margin: 10px 0 10px 0; }
+.blog img { max-width: 160px; float: left; }
 h2.blog-title { text-decoration: none; padding-top: 10px 0 10px 0; }
 
  /**
  * Projects
  */
 .projects { border:thin solid black; padding: 10px; }
-.projects img { max-width: 160px; float: left; margin: 10px 0 10px 0; }
+.projects img { max-width: 160px; float: left; }
 h2.project-title { text-decoration: none; padding-top: 10px 0 10px 0; }
