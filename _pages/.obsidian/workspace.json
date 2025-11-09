@@ -11,14 +11,10 @@
             "id": "202009a3c9f6fa79",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-06-07-ai-podcast.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2023-06-07-ai-podcast"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-07-ai-podcast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2023-06-07-ai-podcast"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-07-ai-podcast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2023-06-07-ai-podcast"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-07-ai-podcast.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2023-06-07-ai-podcast"
+              "title": "Outline"
             }
           }
         ]
@@ -171,8 +164,8 @@
   },
   "active": "202009a3c9f6fa79",
   "lastOpenFiles": [
-    "2022-02-11-logic-magazine.md",
     "2023-06-07-ai-podcast.md",
+    "2022-02-11-logic-magazine.md",
     "2021-06-30-wikimedia-deutschland.md",
     "2021-01-11-internet-society.md"
   ]
