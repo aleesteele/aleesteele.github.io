@@ -20,7 +20,7 @@ You're welcome to subscribe here:
   class="embeddable-buttondown-form"
   style="border:1px; "
 >
-  <input type="email" name="email" id="bd-email" style="border:1px; max-width: 300px;" placeholder="Please add your email here" /> 
+  <input type="email" name="email" id="bd-email" style="border:1px; max-width: 300px; background-color:#61cffc;" placeholder="Please add your email here" /> 
   <input type="submit" value="Subscribe" style="border:1px; background-color:#61cffc;" />
 </form><br/>
 
