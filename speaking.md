@@ -7,12 +7,12 @@ permalink: /speaking
 ### You can download my CV <a href="https://res.cloudinary.com/aleesteele/image/upload/v1620909383/Steele_CV_2021.pdf">here</a>.
 
 ## Public media
-* Interviewed for expert-panel podcast “AI and its impact on our daily lives” by Graduate Institute (2023) in Geneva, Switzerland.
-* Interviewed for NHS-R podcast “The Turing Way” (2022) online.
+- Interviewed for expert-panel podcast “AI and its impact on our daily lives” by Graduate Institute (2023) in Geneva, Switzerland.
+- Interviewed for NHS-R podcast “The Turing Way” (2022) online.
 
 ## Conference presentations
-* "The Turing Way: Changing research culture through open collaboration”. Presented various conferences included FOSDEM (2022) in Brussels, Belgium.
-* “Understanding Maintenance as a Turing Way”. Presented at FOSS Backstage (2023) in Berlin, Germany.
+- "The Turing Way: Changing research culture through open collaboration”. Presented various conferences included FOSDEM (2022) in Brussels, Belgium.
+- “Understanding Maintenance as a Turing Way”. Presented at FOSS Backstage (2023) in Berlin, Germany.
 * “Reimagining global connectivity: low earth orbit satellites and internet supply chains”. Presented at Connected Life in Oxford, UK (2022).
 * “Rendering supply chains research (in the vector economy)”. Presented at Transmediale, Rendering Research workshop in Brussels, Belgium (2022).
 * “Mapping crises, communities, and capitalism on OpenStreetMap: situating humanitarian mapping”. Presented at HOT Summit (2021) online and State of the Map (2022) in Florence, Italy.
