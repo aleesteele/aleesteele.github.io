@@ -10,4 +10,5 @@ image: "../assets/img/preview.png"
 - Letters to a Young Therapist
 - Scattered Minds
 - Adult Children of Emotionally-Immature Adults
-- 
+- 8 Pillars of Self-Esteem
+- Healing all Parts
