@@ -1,10 +1,10 @@
 ---
 layout: post
 title: template title (will not be published)
-date: 2025-05-31 23:00:00 +0000
+date: 2025-011-12 23:00:00 +0000
 category: blog
 published: false
-image: "../assets/img/preview.png"
+image: ../assets/img/preview.png
 ---
 _Note: Back in August of 2022, I [wrote a blog]() that aimed to summarise some personal reflections about digital life, community management, and researcher/praxis reflections a year into my role with The Turing Way. As Jia Tolentino wrote in her book **Trick Mirror**: "I write to think", and for me, this is true as well. Journalistic or creative writing uses a very different set of muscles than documentation or academic writing, and as I finish off three years with the project, I wanted to document these broader reflections._
 
