@@ -3,7 +3,7 @@ layout: post
 title: reflections on my open journey (so far)
 date: 2023-04-11 23:00:00 +0000
 category: blog
-
+image: "../assets/img/preview.png"
 ---
 This past year, I've had the privilege of reflecting on the experiences that brought me into the "open ecosystem" in a few keynotes talks and shared discussions. Somehow, some folks thought that I had something to share with them about my own experiences! 
 

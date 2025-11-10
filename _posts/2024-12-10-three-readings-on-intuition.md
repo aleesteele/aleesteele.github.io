@@ -4,6 +4,7 @@ title: three readings on the role of intuition
 date: 2024-12-02 23:00:00 +0000
 category: blog
 published: false
+image: "../assets/img/preview.png"
 ---
 Five books that helped me to live & learn more through my intuition as a woman in the world.
 

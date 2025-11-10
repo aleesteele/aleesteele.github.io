@@ -4,6 +4,7 @@ title: on cultivating digital third spaces (aka the fourth space)
 date: 2024-12-10 23:00:00 +0000
 category: blog
 published: false
+image: "../assets/img/preview.png"
 ---
 _29.10.24: Back in August of last year, I wrote a blog that aimed to summarise some personal reflections about digital life, community management, and researcher/praxis reflections a year into my role with The Turing Way. As Jia Tolentino wrote in her book **Trick Mirror**: "I write to think", and for me, this is true as well. Journalistic or creative writing uses a very different set of muscles than documentation or academic writing, and as I round out my second year with the project, I wanted to document these broader reflections._
 

@@ -1,9 +1,13 @@
-{%- if site.pages.size > 0 -%}
+{%- if site.projects.size > 0 -%}
   <ul>
-    {%- for post in site.pages -%}
+    {%- for post in site.projects | sort: 'date' -%}
     <li>
-      {%- assign date_format = "%Y-%m-%d" -%}
-      [ {{ post.date | date: date_format }} ] <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+    <div class="projects">
+      {%- assign date_format = "%Y" -%}
+      <img src="{{ post.image }}" class="project-preview-image">
+      <p class="blog-date">{{ post.date | date: date_format }}</p>
+      <h2 class="project-title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+    </div> 
     </li>
     {%- endfor -%}
   </ul>

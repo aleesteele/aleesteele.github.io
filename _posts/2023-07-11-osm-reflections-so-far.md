@@ -3,7 +3,7 @@ layout: post
 title: openstreetmap reflections so far
 date: 2023-07-11 23:00:00 +0000
 category: blog
-
+image: "../assets/img/preview.png"
 ---
 I recently joined the Humanitarian OpenStreetMap Team in modering their Community Working Group and Tech Working Group's discussions on AI-Assisted Mapping.
 

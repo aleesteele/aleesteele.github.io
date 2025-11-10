@@ -4,6 +4,7 @@ title: ann douglas on why we study
 date: 2019-08-15 23:00:00 +0000
 category: blog
 published: true
+image: "../assets/img/preview.png"
 ---
 _04.02.2024 - Ann Douglas was a professor I had only briefly back at Columbia. She was, [as this article says](https://www.theblueandwhite.org/post/ann-douglas), the "real deal", a brilliant scholar and kind human whose lectures made you feel glad to be alive and curious in the wild world we are in. She had [fought the real fights of gender equality](https://sfonline.barnard.edu/heilbrun/douglas_01.htm) when she first joined the English department, and somehow stuck around ever since. She taught seminars with impossibly cool titles like "From Imperialism to Cold War" and "the Beat Generation" that had such depth and sharp commentary that could make the brain weep with joy. I had applied (and somehow gotten into) her "Film Noir" seminar in the Spring of 2013, when I decided I wanted to leave school for awhile. Before I left Morningside for what would be two years of itinerant life, I asked her (quite arrogantly in fact) about the purpose of studying, and of academia more broadly. She responded with this beautiful text, which I've saved in a note in my phone ever since. While I've lost my own email (which I'd probably be ashamed of reading now!), I'm so glad to have this snippit. It seems like a good way to start this blog, so I've back-dated this post for 2019: when I found this message when on my way back to graduate school._
 

@@ -4,6 +4,7 @@ title: five readings on the role of education
 date: 2024-12-02 23:00:00 +0000
 category: blog
 published: false
+image: "../assets/img/preview.png"
 ---
 A few years down the line
 
