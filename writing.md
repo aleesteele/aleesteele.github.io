@@ -6,11 +6,9 @@ permalink: /writing
 
 <img src="../assets/img/newsletter.png" class="newsletter"/>
 
-I recently started a newsletter called **"Field Notes from the Internet""**.
+I recently started a newsletter called **"Field Notes from the Internet""** – a more structured space for sharing upcoming events, workshops, interviews, and news from the poetic web.
 
-This is a much more structured newsletter that has information about upcoming events, workshops, interviews, and other news from the poetic web that I'd like to share. 
-
-In many ways, it takes the best and most relevant parts of my blog, and packages them up.
+In many ways, it gathers the best and most relevant parts of my blog and other platforms, and sends them straight to your inbox, with a bit more intention and rhythm.
 
 You're welcome to subscribe here:
 
@@ -28,14 +26,10 @@ You're welcome to subscribe here:
 
 ---
 
-Below is my blog archive.
+For years, I wrote long letters to friends and family — and while I don’t do that much anymore, I still believe in the value of a public writing and reflection practice, as a slower alternative (or companion) to the stream-of-consciousness of social media.
 
-For years, I wrote long emails to friends, family, and other loved ones – and while I don't do that much anymore, I still believe that a public writing & reflection practice is important, perhaps as opposed to (or perhaps just in parallel) to the kind of stream-of-consciousness you get on social media.
+From 2021 to 2022, I maintained a <a href="https://notes.aleesteele.com/">digital garden</a> (now archived), alongside my MA research. These days, most of my notes and inspiration live on [Are.na](https://www.are.na/anne-lee-steele) and <a href="http://instagram.com/anneleesteele">Instagram</a>. As I've written [here](https://twitter.com/aleesteele/status/1687410000329678851) and [here](https://post.lurk.org/@aleesteele/110830839366429110), I use social spaces as places for for thinking out loud and gathering ideas in public.
 
-As a part of this, I 2021 to 2022, I maintained a <a href="https://notes.aleesteele.com/">digital garden</a> (kept alive for archival purposes), which was primarily tied to my MA. I've since transitioned most of my sporatic note-taking and sparks of inspiration to [are.na](https://www.are.na/anne-lee-steele) and <a href="http://instagram.com/anneleesteele">instagram</a>. As I wrote [here](https://twitter.com/aleesteele/status/1687410000329678851) and [here](https://post.lurk.org/@aleesteele/110830839366429110), I tend to use social spaces for thinking out loud and all sorts of digital "gathering".
-
-
-
-Enjoy! if you have any questions, suggestions, or reflections of your own, please feel free to [contact me]().
+Hope you enjoy exploring! If something resonates, feel free to [get in touch]() with reflections or thoughts of your own.
 
 {% include all-blog-list.html %}
