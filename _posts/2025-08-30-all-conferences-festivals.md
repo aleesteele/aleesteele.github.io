@@ -3,7 +3,7 @@ layout: post
 title: all conferences, festivals, and events i have attended from 2019 - 2025
 date: 2025-08-30 23:00:00 +0000
 category: blog
-published: false
+published: true
 image: "../assets/img/preview.png"
 ---
 _**Note 11/2:** I haven't added all the links to recordings or slides. I'll aim to add those soon, but in the meantime, have just added this as a new column._
