@@ -4,6 +4,8 @@ title: writing
 permalink: /writing
 ---
 
+<img src="../assets/img/newsletter.png" class="newsletter"/>
+
 I recently started a newsletter called **"Field Notes from the Internet""**.
 
 This is a much more structured newsletter that has information about upcoming events, workshops, and other news from the poetic web that I'd like to share. It takes the best and most relevant parts of my blog, and packages them up.
