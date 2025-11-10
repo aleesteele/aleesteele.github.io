@@ -6,8 +6,7 @@ permalink: /services
 
 In 2025, I started STUDIO SANSHIN as the home for my freelancing and creative practice. 
 
-I"m happy to offer 
-
+I"m happy to offer services in research, human-centered design, and facilitation. I have 5+ years of experience in community-led technology systems, and 
 
 I've a
 
