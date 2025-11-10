@@ -4,8 +4,8 @@
     <li>
     <div class="projects">
       {%- assign date_format = "%Y" -%}
-      <p class="blog-date">{{ post.date | date: date_format }}</p>
       <img src="{{ post.image }}" class="project-preview-image">
+      <p class="blog-date">{{ post.date | date: date_format }}</p>
       <h2 class="project-title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
     </div> 
     </li>
