@@ -3,5 +3,6 @@ layout: default
 permalink: /accessibility.html
 ---
 
-# accessibility policy
+# Accessibility Policy
 
+If there anything I've learned from being a part of 

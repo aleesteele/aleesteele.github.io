@@ -6,13 +6,25 @@ permalink: /
 
 <img src="../assets/img/headshot-desktop.png" class="headshot"/>
 
+I'm a researcher, facilitator, and artist based in the UK.
+
+My work explores the invisible people and processes behind our digital lives (think: open source infrastructures, extractive industries, and supply chains) as well as the political systems they sustain. I approach most things as an ethnographer first and a community-builder second. Lately, I’ve turned to media art to translate this complexity into .
+
+In 2025, I founded STUDIO SANSHIN.
+
+Previously, I was Community Manager for _The Turing Way_ at the Alan Turing Institute, a Fellow at the School of Commons, and an Early Career Fellow at the Internet Society. I’ve also mentored with Open Life Science and co-curated The Re:source Project through Wikimedia Deutschland’s Unlock Accelerator.
+
+I hold an MA from the Graduate Institute, Geneva, where I researched open geospatial data and humanitarian mapping with the Humanitarian OpenStreetMap Team and made data visualisations for the Transparency Lab. Before that, I researched conservation politics in Bhutan, led student expeditions in Nepal for National Geographic, and designed multimedia for the Dracopoulos iDeas Lab at CSIS.
+
+Born in Chicago and raised between Texas and a big blue van, I grew up on bowls of miyeok-guk (미역국). When I’m not online, I’m usually outside.
+
 I'm a researcher, facilitator, and artist based in the United Kingdom. 
 
-Most of what I do aims to understand and support the people &amp; processes behind our digital lives (think: open source infrastructure, extractive industries, and supply chains) as well as the political processes they feed into. I approach most situations as an ethnographer first, and as a community-builder second.
+Most of what I do aims to understand and support the people &amp; processes behind our digital lives (think: open source infrastructure, extractive industries, and supply chains) as well as the political processes they feed into. I approach most situations as an ethnographer first, and as a community-builder second. Most recently, I've turned to media art.
 
-In 2025, I founded STUDIO SANSHIN, the home of my creative studio practice. You can <a href="http://aleesteele.com/services">check out the services I offer on this page</a>.
+In 2025, I founded STUDIO SANSHIN. You can <a href="http://aleesteele.com/services">check out the services I offer on this page</a>.
 
-Previously, I was the Community Manager for <a href="https://the-turing-way.netlify.app/welcome.html">The Turing Way</a>, based at the <a href="https://www.turing.ac.uk/">Alan Turing Institute</a>, where I stewarded an open source, community-driven resource for reproducible data science. During this time, I was Fellow at the <a href="https://schoolofcommons.org">School of Commons</a>, an artistic research programme based at the Zurich School of the Arts and an <a href="https://www.internetsociety.org/fellowships/early-career/fellows/2022/">Early Career Fellow at the Internet Society</a>.
+Most recently, I was the Community Manager for <a href="https://the-turing-way.netlify.app/welcome.html">The Turing Way</a>, based at the <a href="https://www.turing.ac.uk/">Alan Turing Institute</a>. During this time, I was Fellow at the <a href="https://schoolofcommons.org">School of Commons</a>, an artistic research programme based at the Zurich School of the Arts and an <a href="https://www.internetsociety.org/fellowships/early-career/fellows/2022/">Early Career Fellow at the Internet Society</a>.
 
 Previously, I was a mentor for <a href="https://openlifesci.org/">Open Life Science</a>, cohort #5. I was also an <a href="https://www.internetsociety.org/fellowships/early-career/fellows/february-2022/">Early Career Fellow</a> at the <a href="https://www.internetsociety.org/">Internet Society</a>, where I investigated low earth orbit (LEO) satellite supply chains, and was a co-curator of <a href="https://resource-project.co/">The Re:source Project</a>, which was incubated at Wikimedia Deutchland's <a href="https://www.wikimedia.de/unlock/">Unlock Accelerator</a>.
 
