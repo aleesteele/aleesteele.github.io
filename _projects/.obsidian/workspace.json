@@ -11,14 +11,10 @@
             "id": "141721d8c4670fbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-01-11-internet-society.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2021-01-11-internet-society"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-01-11-internet-society.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2021-01-11-internet-society"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2021-01-11-internet-society.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2021-01-11-internet-society"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-01-11-internet-society.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2021-01-11-internet-society"
+              "title": "Outline"
             }
           }
         ]
@@ -170,5 +163,14 @@
     }
   },
   "active": "141721d8c4670fbe",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "2024-06-11-elegies.md",
+    "2015-01-11-elegies.md",
+    "2015-01-11-template copy.md",
+    "2024-03-11-soc.md",
+    "2024-03-11-template copy.md",
+    "2015-01-11-template.md",
+    "2021-01-11-internet-society.md",
+    "2021-01-11-template.md"
+  ]
 }
