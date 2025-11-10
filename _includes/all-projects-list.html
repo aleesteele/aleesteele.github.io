@@ -1,6 +1,6 @@
 {%- if site.projects.size > 0 -%}
   <ul>
-    {%- for post in site.projects | sort: 'last_updated' -%}
+    {%- for post in site.projects | sort: 'date' -%}
     <li>
     <div class="projects">
       {%- assign date_format = "%Y" -%}
