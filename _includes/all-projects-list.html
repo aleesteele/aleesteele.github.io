@@ -5,7 +5,6 @@
     <div class="projects">
       <img src="{{ post.image }}" class="project-preview-image">
       <h2 class="project-title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
-      <p>{{ post.excerpt }}</p>
     </div> 
     </li>
     {%- endfor -%}
