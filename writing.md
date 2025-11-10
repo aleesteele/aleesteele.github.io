@@ -4,15 +4,10 @@ title: writing
 permalink: /writing
 ---
 
-I recently started newsletter.
+I recently started newsletter titled **"Field notes from the Internet""**.
 
-Below is my blog!
+After an internet infrastructure  so that they could respond by email or add comments. I'm not sure how I'll manage these subscriptions yet, but I'll make sure you get alerted:
 
-I also maintain a digital garden.
-
-this blog, as i wrote [here](https://twitter.com/aleesteele/status/1687410000329678851) and [here](https://post.lurk.org/@aleesteele/110830839366429110) is something that i am slowly aiming to return to, and more carefully tend to. i haven't had a regular blog in years, choosing instead to write long emails to friends, family, and other loved ones. these days, i don't write as many long emails, but i still believe that a regular writing & reflection practice is important, perhaps as opposed to (or perhaps just in parallel) to the kind of sporatic note-taking and sparks of inspiration i tend to add to my <a href="https://notes.aleesteele.com/">digital garden</a> or [are.na](https://www.are.na/anne-lee-steele). <s>while i may use or feed into a platform like substack or medium in the future, for now i just like putting these small posts out into the world.</s>
-
-a friend recently ask if i could have some kind of subscription form, to make it easier for folks to be alerted when there are updates to this blog, so that they could respond by email or add comments. i'm not sure how i'll manage these subscriptions yet, but i'll make sure you get alerted when there are updates to this blog:
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/aleesteele"
   method="post"
@@ -25,6 +20,17 @@ a friend recently ask if i could have some kind of subscription form, to make it
   <input type="submit" value="Subscribe" style="border:1px; background-color:#ffffff;" />
 </form><br/>
 
-enjoy! if you have any questions, suggestions, or reflections of your own, please feel free to send me an email at [aleesteele@gmail.com](mailto:aleesteele@gmail.com)
+Below is my blog, which is full of more less curated reflections.
+
+Over the past few years, I've slowly aimed to return to blogging, and more carefully tend to this space. I haven't really had a regular blog in years, choosing instead to write long emails to friends, family, and other loved ones. These days, I don't write as many long emails, but I still believe that a regular writing & reflection practice is important, perhaps as opposed to (or perhaps just in parallel) to the kind of stream-of-consciousness you get on social media.
+
+As a part of this, I 2021 to 2022, I maintained a <a href="https://notes.aleesteele.com/">digital garden</a> (kept alive for archival purposes), which primarily tied to my MA. I've since transitioned most of my sporatic note-taking and sparks of inspiration to [are.na](https://www.are.na/anne-lee-steele) and <a href="http://instagram.com/anneleesteele">instagram</a>. As I wrote [here](https://twitter.com/aleesteele/status/1687410000329678851) and [here](https://post.lurk.org/@aleesteele/110830839366429110), I tend to use social spaces for thinking out loud and all sorts of digital "gathering".
+
+So in short, in order of most to least curated:
+- Newsletter: Upcoming events, workshops, infrastructure walks, tactics from the poetic web
+- Blog: Unofficial reflections, both personal and professional
+- Are.na: Uncurated brain dump, link-saving
+
+Enjoy! if you have any questions, suggestions, or reflections of your own, please feel free to [contact me]().
 
 {% include all-blog-list.html %}
