@@ -1,10 +1,10 @@
 ---
 layout: post
-title: journals
-date: 2021-01-11 23:00:00 +0000
+title: flickr
+date: 2018-01-11 23:00:00 +0000
 category: blog
 published: false
 image: "../assets/img/preview.png"
 ---
 
-Template title
+'Dear New York' was a project I  
