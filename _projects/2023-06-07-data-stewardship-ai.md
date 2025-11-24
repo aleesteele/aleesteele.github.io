@@ -1,9 +1,9 @@
 ---
 layout: post
-title: flickr
-date: 2021-01-11 23:00:00 +0000
+title: ai-podcast
+range: 2022 - 2024
 category: blog
-published: false
+published: true
 image: "../assets/img/preview.png"
 ---
 

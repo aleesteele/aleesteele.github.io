@@ -1,7 +1,7 @@
 ---
 layout: post
 title: elegies for oil spills (and other poetic tactics)
-date: 2024-11-01 23:00:00 +0000
+range: 2024 - 2025
 category: blog
 published: true
 tags: art, installation

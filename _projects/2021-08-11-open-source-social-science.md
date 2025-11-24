@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ai-podcast
-date: 2022-02-11 23:00:00 +0000
+title: open source social science
+range: 2021 - ongoing
 category: blog
 published: true
 image: "../assets/img/preview.png"

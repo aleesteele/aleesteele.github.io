@@ -1,7 +1,7 @@
 ---
 layout: post
-title: (re)source project
-range: 2020 - 2021
+title: frictionless
+range: 2020-2021
 category: blog
 image: "../assets/img/preview.png"
 ---

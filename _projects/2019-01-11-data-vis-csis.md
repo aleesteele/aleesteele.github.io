@@ -1,8 +1,7 @@
 ---
 layout: post
 title: flickr
-date: 2021-01-11 23:00:00 +0000
-range: 
+range: 2019
 category: blog
 published: false
 image: "../assets/img/preview.png"

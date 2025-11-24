@@ -1,7 +1,7 @@
 ---
 layout: post
 title: diy-methods-zine
-date: 2021-01-11 23:00:00 +0000
+range: 2021
 category: blog
 published: true
 image: "../assets/img/preview.png"
