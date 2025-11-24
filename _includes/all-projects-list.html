@@ -1,6 +1,6 @@
 {%- if site.projects.size > 0 -%}
   <ul>
-    {%- for post in site.projects -%}
+    {%- for post in site.projects | reverse -%}
     <li>
     <div class="projects">
       {%- assign date_format = "%Y" -%}
