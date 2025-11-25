@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pscore
+title: global cities
 range: 2019
 category: blog
 published: true
