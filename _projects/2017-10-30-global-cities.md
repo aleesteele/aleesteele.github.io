@@ -3,7 +3,7 @@ layout: post
 title: pscore
 range: 2019
 category: blog
-published: false
+published: true
 image: "../assets/img/preview.png"
 ---
 

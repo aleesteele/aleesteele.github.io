@@ -3,7 +3,7 @@ layout: post
 title: networks of power and influence at the universal periodic review
 range: 2019 - 2020
 category: blog
-published: false
+published: true
 image: "../assets/img/preview.png"
 ---
 

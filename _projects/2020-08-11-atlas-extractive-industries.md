@@ -1,9 +1,9 @@
 ---
 layout: post
-title: pscore
+title: the atlas of extractive industries
 range: 2019
 category: blog
-published: false
+published: true
 image: "../assets/img/preview.png"
 ---
 

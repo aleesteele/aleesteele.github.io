@@ -1,6 +1,6 @@
 ---
 layout: post
-title: humanitarian mapping on open streetmap
+title: humanitarian mapping on openstreetmap
 range: 2020 - 2022
 category: blog
 published: true
