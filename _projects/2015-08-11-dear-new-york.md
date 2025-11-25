@@ -4,7 +4,7 @@ title: dear new york
 range: 2014 - 2016
 category: blog
 published: true
-image: "https://hackmd.io/_uploads/SJpfnjQ-We.jpg"
+image: "../assets/img/dear-ny-preview.png"
 ---
 
 'Dear New York' was a street art project I developed for Gene Coleman, a photographer based in New York City.
