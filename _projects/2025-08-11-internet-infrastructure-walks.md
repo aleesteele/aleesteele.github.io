@@ -1,6 +1,6 @@
 ---
 layout: post
-title: internet-infrastructure-walks
+title: internet walking tours
 range: 2025 - ongoing
 category: blog
 published: true
