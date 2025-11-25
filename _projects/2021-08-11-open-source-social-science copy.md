@@ -1,7 +1,7 @@
 ---
 layout: post
-title: community data stewardship and alternatives to Big AI
-range: 2022 - 2024
+title: humanitarian mapping on open streetmap
+range: 2020 - 2022
 category: blog
 published: true
 image: "../assets/img/preview.png"

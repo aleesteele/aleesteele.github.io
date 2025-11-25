@@ -1,6 +1,6 @@
 ---
 layout: post
-title: diy-methods-zine
+title: zines on networks and methods
 range: 2021
 category: blog
 published: true

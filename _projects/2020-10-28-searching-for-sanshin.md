@@ -1,8 +1,8 @@
 ---
 layout: post
-title: prayer-flags
+title: searching for the sanshin 
 category: blog
-range: 2020
+range: 2020 - ongoing
 published: true
 image: "../assets/img/preview.png"
 ---

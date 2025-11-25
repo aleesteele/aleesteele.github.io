@@ -1,7 +1,7 @@
 ---
 layout: post
-title: flickr
-range: 2020
+title: pscore
+range: 2019
 category: blog
 published: false
 image: "../assets/img/preview.png"

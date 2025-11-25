@@ -1,6 +1,6 @@
 ---
 layout: post
-title: elegies for oil spills (and other poetic tactics)
+title: elegies for oil spills
 range: 2024 - 2025
 category: blog
 published: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: poetic tactics to counter extraction
-range: 2023 -  ongoing
+range: 2023 - ongoing
 category: blog
 published: true
 image: "../assets/img/preview.png"

@@ -4,7 +4,7 @@ title: the architecture of good intentions
 range: 2020
 image: "../assets/img/preview.png"
 ---
-During the height of the pandemic, I put together a collection of readings called the "architecture of good intentions".
+During the height of the pandemic, I put together a collection of readings called the "architecture of good intentions", for a course with the Autonomous School of Social Movements.
 
 ![](https://res.cloudinary.com/aleesteele/image/upload/v1634932495/Screenshot_2021-10-22_at_21.53.36_peb9xb.png)
 

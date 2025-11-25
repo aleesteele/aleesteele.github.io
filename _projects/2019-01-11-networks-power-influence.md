@@ -1,7 +1,7 @@
 ---
 layout: post
-title: flickr
-range: 2018 - 2019
+title: networks of power and influence at the universal periodic review
+range: 2019 - 2020
 category: blog
 published: false
 image: "../assets/img/preview.png"
