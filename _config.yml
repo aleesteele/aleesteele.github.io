@@ -23,7 +23,12 @@ style: light # dark (default) or light
 
 plugins:
   - jekyll-seo-tag
+  - nodate 
 
 collections:
+  blog:
+    output: true
+    permalink: /writing/:title
   projects:
     output: true
+    permalink: /projects/:title
