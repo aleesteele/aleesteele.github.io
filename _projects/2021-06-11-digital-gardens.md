@@ -1,6 +1,6 @@
 ---
 layout: post
-title: trace: soundscapes from technology supply chains
+title: digital gardens (and other ways of writing field notes)
 range: 2024
 category: blog
 published: true
