@@ -23,7 +23,6 @@ style: light # dark (default) or light
 
 plugins:
   - jekyll-seo-tag
-  - nodates
 
 collections:
   blog:
