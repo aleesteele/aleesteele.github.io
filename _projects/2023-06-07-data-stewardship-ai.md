@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ai-podcast
+title: data stewardship in AI systems
 range: 2022 - 2024
 category: blog
 published: true

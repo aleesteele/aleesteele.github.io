@@ -1,9 +1,8 @@
 {%- if site.projects.size > 0 -%}
   <ul>
-    {%- for post in site.projects | reverse -%}
+    {%- for post in site.projects | sort: "date" | reverse -%}
     <li>
     <div class="projects">
-      {%- assign date_format = "%Y" -%}
       <img src="{{ post.image }}" class="project-preview-image">
       <p class="blog-date">{{ post.range }}</p>
       <h2 class="project-title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
