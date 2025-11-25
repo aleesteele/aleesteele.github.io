@@ -1,14 +1,17 @@
 ---
 layout: post
-title: flickr
-range: 2018
+title: dear new york
+range: 2014 - 2016
 category: blog
 published: true
 image: "../assets/img/preview.png"
 ---
 
-'Dear New York' was a project I developed for Gene Coleman, a photographer based in new 
+'Dear New York' was a street art project I developed for Gene Coleman, a photographer based in New York City.
 
 
 
 
+
+
+As a part of 
