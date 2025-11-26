@@ -4,7 +4,7 @@ title: we have always been global
 range: 2017
 category: blog
 published: true
-image: "../assets/img/preview.png"
+image: "../assets/img/global-cities-preview.png"
 ---
 
 **We have always been global** was an interactive database of the word's global cities. 
