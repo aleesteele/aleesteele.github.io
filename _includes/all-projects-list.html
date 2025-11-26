@@ -1,6 +1,6 @@
 {%- if site.projects.size > 0 -%}
   <ul>
-    {%- for post in site.projects | sort: "date" | reverse -%}
+    {%- for post in site.posts | sort: "date" | reverse -%}
     <li>
     <div class="projects">
       <img src="{{ post.image }}" class="project-preview-image">
