@@ -1,7 +1,6 @@
 ---
 layout: post
 title: networks of power and influence at the universal periodic review
-date: 2019
 range: 2019 - 2020
 category: blog
 published: true

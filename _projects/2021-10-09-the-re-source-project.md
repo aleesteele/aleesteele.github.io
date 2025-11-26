@@ -2,7 +2,6 @@
 layout: post
 category: blog
 title: the re:source project
-date: 2021
 range: 2020 - 2022
 published: true
 image: "../assets/img/preview.png"

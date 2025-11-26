@@ -1,7 +1,6 @@
 ---
 layout: post
 title: the atlas of extractive industries
-date: 2020
 range: 2020 - 2021
 category: blog
 published: true

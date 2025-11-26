@@ -1,7 +1,6 @@
 ---
 layout: post
 title: we have always been global
-date: 2017
 range: 2017
 category: blog
 published: true

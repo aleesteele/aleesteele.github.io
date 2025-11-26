@@ -1,7 +1,6 @@
 ---
 layout: post
 title: above the clouds and below the sea
-date: 2022
 range: 2022
 category: blog
 published: true

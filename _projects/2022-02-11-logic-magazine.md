@@ -1,7 +1,6 @@
 ---
 layout: post
 title: surveillance
-date: 2022
 range: 2022
 category: blog
 published: true
