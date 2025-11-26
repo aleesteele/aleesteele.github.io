@@ -81,6 +81,14 @@ footer img { text-align: right; justify-content: right; max-width: $footer-max-w
  */
 main { }
 
+
+/**
+ * Tables
+ */
+table, th, td {
+  border: 1px solid;
+}
+
 /**
  * Form
  */
