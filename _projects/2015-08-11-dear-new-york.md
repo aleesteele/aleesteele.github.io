@@ -7,9 +7,9 @@ published: true
 image: "../assets/img/dear-ny-preview.png"
 ---
 
-'Dear New York' was a street art project I developed for Gene Coleman, a photographer based in New York City.
+**'Dear New York'** was a street art project I developed for Gene Coleman, a photographer based in New York City.
 
-I met Gene back in 2014, and after discovering that he had been photographying New York since the late 1960s, helped him to digitize signficant portion of his 30+ year career. I also designed and coded a website for him, along with an accompanying video.
+I met Gene back in 2014, and after discovering that he had been photographying New York since the late 1960s, helped him to digitize signficant portion of his 30+ year career. I also designed and coded a website for him, along making an accompanying video.
 
 Dear New York was made in the winter of 2015, when we teamed up to develop a street art campaign that commented on the rapid development and gentrfication of New York City.
 

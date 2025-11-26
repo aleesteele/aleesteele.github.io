@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "976d67b05b3f57f1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
-          },
-          {
             "id": "e459ad65f5056e5b",
             "type": "leaf",
             "state": {
@@ -232,8 +220,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "976d67b05b3f57f1",
+  "active": "e459ad65f5056e5b",
   "lastOpenFiles": [
+    "images/Screenshot 2025-11-06 at 20.02.16.png",
+    "images/Screenshot 2025-11-06 at 19.54.33.png",
     "2021-06-21-supply-chains-us.md",
     "2021-03-28-supply-chains-us.md",
     "2020-12-03-the-open-movement-and-its-discontents.md",
@@ -260,10 +250,7 @@
     "upload_a9888ba7c669b61ad48a2f12038df293.png",
     "2023-04-11-reflections-on-open-journey.md",
     "2023-08-04-one-year-ttw.md",
-    "2023-07-11-osm-reflections-so-far.md",
-    "images/Screenshot 2025-11-06 at 20.02.16.png",
     "images/Screenshot 2025-11-06 at 20.01.07.png",
-    "images/Screenshot 2025-11-06 at 19.54.33.png",
     "images"
   ]
 }
