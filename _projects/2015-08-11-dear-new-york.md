@@ -1,6 +1,7 @@
 ---
 layout: post
 title: dear new york
+date: 2015
 range: 2014 - 2016
 category: blog
 published: true

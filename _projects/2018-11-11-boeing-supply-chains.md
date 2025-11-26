@@ -1,6 +1,7 @@
 ---
 layout: post
-title: boeing supply chains (and other dataviz)
+title: how to make a boeing 787 (and other dataviz)
+date: 2018
 range: 2018 - 2019
 category: blog
 published: true

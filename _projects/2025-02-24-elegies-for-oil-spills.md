@@ -1,6 +1,7 @@
 ---
 layout: post
 title: elegies for oil spills
+date: 2024
 range: 2024 - 2025
 category: blog
 published: true

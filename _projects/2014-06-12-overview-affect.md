@@ -1,6 +1,7 @@
 ---
 layout: post
 title: the overview affect
+date: 2014
 range: 2014
 category: blog
 published: true

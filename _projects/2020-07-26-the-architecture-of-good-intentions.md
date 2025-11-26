@@ -1,6 +1,7 @@
 ---
 layout: post
 title: the architecture of good intentions
+date: 2020
 range: 2020
 published: true
 image: "../assets/img/preview.png"
