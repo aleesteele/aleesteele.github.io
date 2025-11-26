@@ -1,6 +1,6 @@
 ---
 layout: post
-title: humanitarian mapping on openstreetmap
+title: open source humanitarianism
 range: 2020 - 2022
 category: blog
 published: true
