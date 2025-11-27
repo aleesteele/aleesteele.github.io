@@ -40,14 +40,6 @@ It was interesting to bring this piece to different spaces and places, each with
 
 Later on in the year, this piece was also invited to participate in the ‘Into the Flux’ exhibition at the International Body of Art in London, UK in October 2024 and the School of Commons Annual Assembly in February 2025. Some focused more on the aesthetics of the installation, while others focused more on conceptual rigor: asking questions about *for whom* this project was for, not simply how it worked.
 
-This project spawned other collaborations, 
-
-![alt:](https://assets.mofoprod.net/network/images/Trace-_Navigating_through_digital_and_physical_.original.jpg)
-
-We also [exhibited the installation ‘trace’ at the Mozilla Festival in Amsterdam in June 2024, an art, tech and society convening](https://foundation.mozilla.org/en/blog/exploring-togetherness-solidarity-through-art/), in Amsterdam where participants were able to touch a physical globe, triggering sounds from across the routes of technology supply chains. 
-
-![](https://i.ibb.co/CpQ0JCpJ/Screenshot-2025-03-27-at-19-27-34.png)
-![](https://i.ibb.co/kVw5bQXB/Screenshot-2025-03-27-at-19-28-56.png)
 
 In different ways, both of these two projects are a part of a series exploring how poetic tactics can counter resource extraction practices, titled “poetic tactics to counter extraction, and other ways to train attention”. 
 
