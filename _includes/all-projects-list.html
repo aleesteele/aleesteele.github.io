@@ -1,7 +1,7 @@
 {%- if site.projects.size > 0 -%}
   <ul>
-    {%- assign sorted = site.projects | sort: "path" -%}
-    {%- for post in site.projects -%}
+    {%- assign sorted = site.projects | sort: "path" | reverse -%}
+    {%- for post in sorted -%}
     <li>
     <div class="projects">
       <img src="{{ post.image }}" class="project-preview-image">
