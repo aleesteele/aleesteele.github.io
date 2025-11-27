@@ -4,7 +4,7 @@ title: the graduate press
 range: 2020 - 2021
 category: blog
 published: true
-image: "../assets/img/upr-preview.png"
+image: "../assets/img/graduate-press.png"
 ---
 
 In Geneva, I worked on a variety of different projects at different international organisations throughout my MA studies.
