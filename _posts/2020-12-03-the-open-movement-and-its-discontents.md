@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: the open movement and its discontents
+title: 'publication: the open movement and its discontents'
 date: 2020-08-14 22:00:00 +0000
 image: "../assets/img/preview.png"
 ---
