@@ -1,10 +1,10 @@
 ---
 layout: post
 title: above the clouds and below the sea
-range: 2022
+range: 2021 - 2022
 category: blog
 published: true
-image: "../assets/img/preview.png"
+image: "../assets/img/isoc-preview.png"
 ---
 
 This past year, I had the privilege of working with editor Max Read on a submission for Logic Magazine, a magazine about technology. The submission was for their "Clouds" issue, featuring some incredible writers.
@@ -13,6 +13,7 @@ You can check out the publication here:
 
 https://logicmag.io/clouds/omnivorous-analysis/
 
+https://aleesteele.mmm.page/isoc
 
 
 “ABOVE THE CLOUDS AND BELOW THE SEA” - SUPPORTED BY INTERNET SOCIETY FELLOWSHIP (2022)

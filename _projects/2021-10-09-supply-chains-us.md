@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: supply chains & us
-range: 2020 - 2022
+range: 2020 - 2021
 published: true
 image: "../assets/img/preview.png"
 ---
