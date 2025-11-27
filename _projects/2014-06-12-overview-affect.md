@@ -4,10 +4,19 @@ title: the overview affect
 range: 2014
 category: blog
 published: true
-image: "../assets/img/dear-ny-preview.png"
+image: "../assets/img/overview-preview.png"
 ---
 
-The **Overview Affect** was a short film script I wrote after a year of living in New Zealand, later developed into a full-length feature script.
+The **Overview Affect** was a short film script I wrote after a year of living in New Zealand.
+
+In many ways, the journey of the main character, Olivia Park Meister, mirrored my own. It was about a young woman who felt lost, and was trying to find meaning, belonging and self-love through travel. What she finds herself needing, of course, is friendship. The script was a way of processing - if not glamorousing - my own process of growing up. 
+
+As I'd summarised it at the time: 
+> The Overview Affect is a coming-of-age story ("Bildungsroman") about a directionless dreamer on the brink of a mental breakdown, who takes off across America in search of adventure with an overachieving stoner riding shotgun. The protagonist, Olivia Park Meister, 21, drops out of college and skips town for Portland with her friend, Charlotte Caulfield, 21, who is looking for a final adventure before Air Force Surgeon's Assistant training begins in January. The film follows their road trip, during which Olivia deals with depression and self-discovery, and Charlotte grapples with gender and sexuality.
+
+![overview-1](https://hackmd.io/_uploads/rJsh5JIWWe.png)
+
+This is what I wrote about the project in 2014, when, alongside two friends from undergrad, we transformed the short film script into a feature:
 
 > “The Overview Affect” began as a 20 page outline I wrote during my own leave-of-absence from university in early 2013. What began as a casual reflection and a latent fascination with “untranslatable words”, which are lexical gaps that cannot carry over into any other language, soon developed into a full-blown enterprise when classmates Charlotte Caulfield and Hannah Jane Cohen jumped on board. Together, we rewrote the initial short into the feature-length film (and accompanying “MMNTS” project) that you’re now reading about.
 
@@ -24,4 +33,7 @@ call this the modern age, yet we still go on the road to find that elusive somet
 > When one can take a step back to see how small we really are in the scheme of things, a road trip about two twenty-somethings may seem silly. But it’s not. “The Overview Affect” is about celebrating the essential universality of all our stories, least of all Olivia and Charlotte’s. There’s a little bit of both of them in all of us, and that doesn’t make you an
 unoriginal snowflake. It just means that we’re all in this together.
 
-.While the script didn't
+While the movie was ultimately never made, we did make a proposal and shot promotional material for a press pack.
+
+![overview-2](https://hackmd.io/_uploads/HJohcyLZ-g.png)
+![overview-3](https://hackmd.io/_uploads/Syi35yIbWx.png)
