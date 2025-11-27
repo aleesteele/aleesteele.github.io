@@ -8,9 +8,9 @@ permalink: /
 
 I'm a researcher, facilitator, and artist based in the UK.
 
-My work explores the invisible people and processes behind our digital lives (think: open source infrastructures, extractive industries, and supply chains), and the political systems they sustain. I approach most things as an ethnographer first and a community-builder second, though in recent years I’ve turned to media art to reimagine new forms of public engagement. I tend to move between methods and mediums to make complex systems visible, relatable, and open to change.
+My work explores the invisible people and processes behind our digital lives (think: open source infrastructures, extractive industries, and supply chains), and the political systems they sustain. I approach most things as an ethnographer first and a community-builder second, though in recent years I’ve turned to media art to reimagine new forms of public engagement. 
 
-In 2025, I founded STUDIO SANSHIN as the home for my work in public interest technology, culture and research, which you can [explore here]().
+In 2025, I founded STUDIO SANSHIN as the home for my work in public interest technology, culture and research, which you can [explore here](https://www.aleesteele.com/services).
 
 Previously, I was Community Manager for <a href="https://the-turing-way.org">_The Turing Way_</a> at the <a href="https://www.turing.ac.uk/">Alan Turing Institute</a>. I have held fellowships with the <a href="https://schoolofcommons.org">School of Commons</a>, <a href="https://www.internetsociety.org/fellowships/early-career/fellows/2022/">Internet Society</a>, and <a href="https://okfn.org/">Open Knowledge Foundation</a>. I’ve also mentored with <a href="https://openlifesci.org/">Open Seeds</a> and co-curated The Re:source Project through Wikimedia Deutschland’s <a href="https://www.wikimedia.de/unlock/">Unlock Accelerator</a>. I remain an organiser of the <a href="https://research-fosdem.github.io">FOSDEM Open Research Devroom</a>, the largest open source conference in Europe.
 
