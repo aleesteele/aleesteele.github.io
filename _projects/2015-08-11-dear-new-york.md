@@ -24,7 +24,8 @@ I digitised over a thousand of his photographs over the course of two years.
 
 I also shot a brief introductory montage of his work for his website.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e5G19pJdeqI?si=2tWyXQHb1wwwAo6u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e5G19pJdeqI?si=2tWyXQHb1wwwAo6u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+_<a href="https://www.youtube.com/embed/e5G19pJdeqI?si=2tWyXQHb1wwwAo6u">Video source (2014)</a>
 
 ## "Dear New York is my small protest against the epidemic of overbuilding, destroying mom and pop stores, and the daily erosion of the human scale and community of New York we used to know and love. These street photographs were taken in the 70s and 80s. They letters are more recently written laments. In those days, I was excited to get my camera and hit the streets, when I had time off from my studio photography that helped fund my passion. Every block, every street offered hope of seeing something exciting, and it was all a total adventure of being an urban explorer."
 - Gene Coleman

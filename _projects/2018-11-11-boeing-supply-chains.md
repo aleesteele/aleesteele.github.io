@@ -1,6 +1,6 @@
 ---
 layout: post
-title: how to make a boeing 787 (and other dataviz)
+title: how to make a boeing 787
 range: 2018 - 2019
 category: blog
 published: true
