@@ -7,4 +7,6 @@ published: true
 image: "../assets/img/digital-garden-preview.png"
 ---
 
-Template title
+I maintained a **digital garden** between 2020 and 2022.
+
+Inspired 

@@ -44,5 +44,4 @@ Later on in the year, this piece was also invited to participate in the ‘Into 
 In different ways, both of these two projects are a part of a series exploring how poetic tactics can counter resource extraction practices, titled “poetic tactics to counter extraction, and other ways to train attention”. 
 
 
-  
-This installation has previously been exhibited at EASST-4s, International Body of Art, and School of Commons Assembly throughout 2024.
+This installation has previously been exhibited at EASST-4s, International Body of Art, and School of Commons Assembly throughout 2024. In 2026, it will be shown at a Gray Zone exhibition in San Francisco, CA.

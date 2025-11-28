@@ -17,7 +17,7 @@ As a part of this work, I translated these transparent regulatory mechanisms and
 ![atlas-2](https://hackmd.io/_uploads/rJKev8LZbl.png)
 ![atlas-3](https://hackmd.io/_uploads/rJ9gwLI-Wl.png)
 
-It was interesting to see this project emerge along similar timelines as Kate Crawford's <a href="https://katecrawford.net/atlas">'Atlas of AI'</a>, her follow-up from the <a href="https://anatomyof.ai">Anatomy of an AI system</a>.
+It was interesting to see this project emerge along similar timelines as Kate Crawford's <a href="https://katecrawford.net/atlas">'Atlas of AI'</a>, her follow-up from the <a href="https://anatomyof.ai">Anatomy of an AI system</a>. Mapping and atlases have increasingly become ways through which we can illustrate the complexity of 
 
 <a href="https://transparency-lab-test.netlify.app">You can explore a demo of the Atlas of Extractive Industries here</a>.
 
