@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "publication: omnivorous analysis:
+title: "publication: omnivorous analysis"
 range: 2022
 category: blog
 published: true

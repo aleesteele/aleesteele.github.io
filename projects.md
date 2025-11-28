@@ -4,9 +4,9 @@ title: projects
 permalink: /projects
 ---
 
-### You can download my CV <a href="https://drive.google.com/file/d/1zKDlEjZSoO62cHdX4JRUoTx8gaxntpWu/view?usp=share_link">here</a>.
+### For my professional experience, you can download my CV <a href="https://drive.google.com/file/d/1zKDlEjZSoO62cHdX4JRUoTx8gaxntpWu/view?usp=share_link">here</a>.
 
-I'm **While I'm most often defined as a writer, my practice is ultimately medium-agnostic.** Each project takes the form it needs - whether writing, sound, images, code or something else. Despite this, mapping is one form that I seem to return to again and again.
+**While I'm most often defined as a writer, my practice is increasingly medium-agnostic.** Each project takes the form it needs - whether writing, sound, images, code or something else. Despite this, mapping is one form that I seem to return to again and again.
 
 Across these shifting forms, my themes have remained consistent: **I explore the tensions between the global and the local, the medium and the message, and the infrastructures (material, cultural, technological, and ecological) that shape our everyday lives.** Once upon a time, I would have said that I'm somewhere at the intersection of art and technology (<a href="https://x.com/FeltZine/status/1371793374500376578">now rightfully meme-ified</a>).
 

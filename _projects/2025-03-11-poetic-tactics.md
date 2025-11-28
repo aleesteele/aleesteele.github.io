@@ -20,3 +20,6 @@ Commons Assembly (Zurich, February 2025), and SlowAI Festival (Amsterdam, May 20
 • Awarded Making & Doing prize by European Association for the study of Science and Technology (EASST)
 and the Society for Social Studies of Science (4s)
 ARTIFICIAL INTELLIGENCE, OPEN SOURCE, AND COMM
+
+![](https://i.ibb.co/CpQ0JCpJ/Screenshot-2025-03-27-at-19-27-34.png)
+![](https://i.ibb.co/kVw5bQXB/Screenshot-2025-03-27-at-19-28-56.png)
