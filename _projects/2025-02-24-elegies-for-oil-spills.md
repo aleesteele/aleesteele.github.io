@@ -5,7 +5,7 @@ range: 2024 - 2025
 category: blog
 published: true
 tags: art, installation
-image: "../assets/img/preview.png"
+image: "../assets/img/elegies-preview.png"
 ---
 For the past year, [Mirko Febbo](https://mirkofebbo.dev/) and I have been collaborating on works that take our interests in extraction industries and supply chains out of classrooms and into the world. The aim was simple: to develop means of translating these topics into more accessible and engaging mediums that go beyond text and data to immersive experiences, ultimately translating this tacit knowledge into tangible formats. 2024 was a year of experimentation, following the [principles](https://www.aleesteele.com/blog/2024/01/05/principles) I had written about at the beginning of the year.
 
