@@ -4,7 +4,7 @@ title: open source humanitarianism
 range: 2020 - 2022
 category: blog
 published: true
-image: "../assets/img/digital-garden-preview.png"
+image: "../assets/img/osm-preview.png"
 ---
 
 My 

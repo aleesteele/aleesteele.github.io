@@ -4,7 +4,7 @@ category: blog
 title: supply chains & us
 range: 2020 - 2021
 published: true
-image: "../assets/img/preview.png"
+image: "../assets/img/supply-chains-preview.png"
 ---
 
 

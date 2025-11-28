@@ -4,7 +4,7 @@ category: blog
 title: the re:source project
 range: 2020 - 2022
 published: true
-image: "../assets/img/preview.png"
+image: "../assets/img/resource-preview.png"
 ---
 
 
