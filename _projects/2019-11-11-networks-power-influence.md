@@ -23,6 +23,6 @@ I ended up proposing a network analysis project for a fellowship that allowed me
 
 This project also exposed me to the infrastructures of open data in real time, as it was uploaded and organised on uwazi, the open source toolkit built by the data host, <a href="https://github.com/huridocs">HURIDOCS</a>.
 
-This was the first time I was exposed to the politics of technical infrastructure, and seeing what open source could make possible in the fields that I was exposed to.
+This was the first time I was exposed to the politics of technical infrastructure, and seeing what open source could make possible in the fields that I was exposed to (which at this point, was primarily sustainable development, humanitarian action, and human rights).
 
 _This work was funded by the Open Knowledge Foundation through the Frictionless Data Reproducible Research fellowship throughout 2019 and 2020_
