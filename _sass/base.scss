@@ -29,8 +29,8 @@ h2 { font-size: $primary-font-size; color: var(--text-color); text-decoration: n
 h3 { font-size: $secondary-font-size; color: var(--text-color) }
 h4, h5, h6 { font-size: $base-font-size;  margin: 0px;  margin-top: 22px;  font-weight: bold;  color: var(--text-color); }
 p, ol { margin: 0px;  color: var(--text-color); }
-ul { list-style-type: none; }
-li { list-style-type: none; }
+// ul { list-style-type: none; }
+// li { list-style-type: none; }
 a { text-decoration: underline;  color: var(--link-color); }
 a:hover { color: var(--background-color); background-color: var(--base-color); }
 @media only screen and (max-device-width: 500px) { * { font-size: $mobile-font-size !important; } }
