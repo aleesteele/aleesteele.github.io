@@ -7,11 +7,7 @@ published: true
 image: "../assets/img/isoc-preview.png"
 ---
 
-This past year, I had the privilege of working with editor Max Read on a submission for Logic Magazine, a magazine about technology. The submission was for their "Clouds" issue, featuring some incredible writers.
-
-You can check out the publication here: 
-
-https://logicmag.io/clouds/omnivorous-analysis/
+Thr
 
 https://aleesteele.mmm.page/isoc
 
@@ -20,3 +16,6 @@ https://aleesteele.mmm.page/isoc
 • Researched implications of growing internet satellite industry, interviewed experts across sectors
 • Designed interactive “Above clouds and below the sea” website that shares multimedia and information
 about physical infrastructures required for internet connectivity
+
+
+_This work was supported by the Internet Society through the Early Career fellowship throughout 2021 and 2022._
