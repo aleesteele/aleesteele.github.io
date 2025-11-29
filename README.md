@@ -1,13 +1,26 @@
-# no style, please!
+# Anne's Portfolio Website
 
-Personal website.
+This repository contains the source code for my personal portfolio, built with Jekyll.
 
-Use `bundle install` to install packages
-Use `bundle exec jekyll serve` to start.
+## Local Development
+
+To preview the site locally:
+
+1. Install dependencies  
+   ```bash
+   bundle install```
+
+2. Start the local server
+
+```bash
+bundle exec jekyll serve```
+
+```markdown
+The site will be available at <http://localhost:4000>.
+
 ## Features
-
-Built off of <a href="https://github.com/b2a3e8/jekyll-theme-console">jekyll theme console</a>.
+This site is built using the **<a href="https://github.com/b2a3e8/jekyll-theme-console">jekyll theme console</a>.** theme, with additional customizations.
 
 ## License
-
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+This project is open source under the [MIT License](https://opensource.org/licenses/MIT).
+```

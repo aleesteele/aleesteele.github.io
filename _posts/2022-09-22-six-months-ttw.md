@@ -3,7 +3,7 @@ layout: post
 title: reviewing 6 months with The Turing Way project
 date: 2022-09-22 23:00:00 +0000
 category: blog
-
+image: "../assets/img/preview.png"
 ---
 _This was originally posted on a Github discussion, which can be found [there](https://github.com/alan-turing-institute/the-turing-way/discussions/2552). There may be typos in this post, as is inevitable when blogging in such an informal format! I have done my best to add edits here._
 

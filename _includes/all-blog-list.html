@@ -1,12 +1,12 @@
 {%- if site.posts.size > 0 -%}
-  <ul style="list-style-type:none; list-style: none;">
+  <ul>
     {%- for post in site.posts -%}
     <li>
-    <div style="border:thin solid black; padding: 5px; ">
+    <div class="blog">
+      <img src="{{ post.image }}" class="blog-preview-image">
       {%- assign date_format = "%Y-%m-%d" -%}
-      {{ post.date | date: date_format }}
-      <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
-      <p>{{ post.excerpt }}</p>
+      <p class="blog-date">{{ post.date | date: date_format }}</p>
+      <h2 class="blog-title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
     </div> 
     </li>
     {%- endfor -%}

@@ -3,7 +3,7 @@ layout: post
 title: thinking and writing about openness
 date: 2021-01-17T20:00:00.000+00:00
 category: blog
-
+image: "../assets/img/preview.png"
 ---
 Dear all,
 

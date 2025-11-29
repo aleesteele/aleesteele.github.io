@@ -4,6 +4,7 @@ title: science, technology and the societies (cultures) they create
 date: 2024-01-11 23:00:00 +0000
 category: blog
 published: true
+image: "../assets/img/preview.png"
 ---
 _Back in August of last year, I wrote a blog that aimed to collect (or at least jumpstart) some personal reflections about Community Management, a year on in my role with The Turing Way._
 
