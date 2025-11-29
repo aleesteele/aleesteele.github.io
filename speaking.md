@@ -4,9 +4,18 @@ title: speaking
 permalink: /speaking
 ---
 
-### You can download my CV <a href="https://res.cloudinary.com/aleesteele/image/upload/v1620909383/Steele_CV_2021.pdf">here</a>.
+# Select talks and conference presentations
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OEV-Gyas33Q?si=6X4G3nNoZmLdMAkP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" ></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yeskC_kRb3A?si=F7RRMXO14QN3xlOH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8rzoh9kWt2c?si=L65jPFjfOSt4X0fi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kqkdY-NG0LI?si=SWWgkAEHA0pRyA3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
 ## Public media
+- <a href="https://codeforthought.buzzsprout.com/1326658/episodes/15355230-en-the-turing-way-part-2-from-handbook-to-community">Code for Thought podcast (2024)</a>
 - Interviewed for expert-panel podcast “AI and its impact on our daily lives” by Graduate Institute (2023) in Geneva, Switzerland.
 - Interviewed for NHS-R podcast “The Turing Way” (2022) online.
 
