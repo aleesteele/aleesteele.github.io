@@ -7,6 +7,4 @@ published: true
 image: "../assets/img/ecosystem-preview.png"
 ---
 
-Template title
-
-<a href="https://miro.com/app/board/uXjVONTviD8=/?share_link_id=386641725902">Open source social science</a>
+As a part of <a href="https://miro.com/app/board/uXjVONTviD8=/?share_link_id=386641725902">Open source social science</a>

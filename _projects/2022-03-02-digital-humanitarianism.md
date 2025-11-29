@@ -1,6 +1,6 @@
 ---
 layout: post
-title: open source humanitarianism
+title: digital humanitarianism
 range: 2020 - 2022
 category: blog
 published: true
@@ -13,7 +13,7 @@ The project and community is incredibly complex, a confluence of humanitarian ac
 
 Increasingly, as this was just before the wave of new AI technologies, I found that the data was being sued for these systems.
 
-While the written work is in the process of publication, there are a number of public videos that share some of my public-facing findings on the subject.
+While the written work is in the process of publication (eventually, I keep telling myself!), there are a number of public videos that share some of my public-facing findings on the subject.
 
 ## Crisis Maps, Community, and Corporations (an Anthropologist’s perspective)
 
