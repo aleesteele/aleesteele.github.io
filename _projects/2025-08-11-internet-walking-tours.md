@@ -7,4 +7,4 @@ published: true
 image: "../assets/img/walk-preview.png"
 ---
 
-Template title
+[ Placeholder ]

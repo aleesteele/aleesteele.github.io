@@ -7,8 +7,4 @@ published: true
 image: "../assets/img/mfa-preview.png"
 ---
 
-Last year, I was 
-
-**Homemade MFA** is a small coworking group I've developed.
-
-The 
+[ Placeholder ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: digital humanitarianism
+title: digital humanitarianism on openstreetmap
 range: 2020 - 2022
 category: blog
 published: true
@@ -11,9 +11,9 @@ From October 2020 to June 2021, I conducted ethnographic research within the (hu
 
 The project and community is incredibly complex, a confluence of humanitarian actors, technology workers, and crowdsourced labor. My initial questions focused on why people contribute to open-source platforms like OSM (and Wikipedia for that matter), but they later evolved into what role humanitarian mapping plays within the wider ecosystem of geospatial and mapping technologies it is a part of.
 
-Increasingly, as this was just before the wave of new AI technologies, I found that the data was being sued for these systems.
+Increasingly, as this was just before the wave of new AI technologies, I found that OSM data was being used in order to train AI systems like those used for road detection, etc. 
 
-While the written work is in the process of publication (eventually, I keep telling myself!), there are a number of public videos that share some of my public-facing findings on the subject.
+While the written work is in the process of publication (eventually!), there are a number of public videos that share some of my public-facing findings on the subject.
 
 ## Crisis Maps, Community, and Corporations (an Anthropologist’s perspective)
 

@@ -8,7 +8,6 @@ image: "../assets/img/poetic-tactics-preview.png"
 ---
 
 
-
 When I became an Artistic Research Fellow at the School of Commons at the Zurich School of the Arts, we have been investigating the meeting point between the abstraction of poetry, the process of datafication, and extractive processes through audio recordings and sensory practices more specifically. 
 
 
