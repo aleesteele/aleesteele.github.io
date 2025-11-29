@@ -6,9 +6,9 @@ permalink: /
 
 <img src="../assets/img/headshot-desktop.png" class="headshot"/>
 
-My work focuses on the invisible people and processes behind our digital lives (think: care economies, open source infrastructures, extractive industries, and supply chains). 
+My work centers on the invisible people and processes behind our digital lives: the collective care, maintenance, and attention that shape how we experience the web, as well as the various infrastructures, extractive industries, and supply chains that support it.
 
-I approach most things as an ethnographer first and a community-builder second. In recent years, I’ve turned to media art to reimagine new forms of public engagement. I remain a writer at heart.
+I approach most things as an ethnographer first and a community-builder second. In recent years, I’ve turned to media art to reimagine new forms of public engagement, though I remain a writer at heart.
 
 In 2025, I founded STUDIO SANSHIN as the home for my work in public interest technology, culture and research, which you can [explore here](https://www.aleesteele.com/services). 
 
