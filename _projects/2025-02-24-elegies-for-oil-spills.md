@@ -7,11 +7,8 @@ published: true
 tags: art, installation
 image: "../assets/img/elegies-preview.png"
 ---
-For the past year, [Mirko Febbo](https://mirkofebbo.dev/) and I have been collaborating on works that take our interests in extraction industries and supply chains out of classrooms and into the world. The aim was simple: to develop means of translating these topics into more accessible and engaging mediums that go beyond text and data to immersive experiences, ultimately translating this tacit knowledge into tangible formats. 2024 was a year of experimentation, following the [principles](https://www.aleesteele.com/blog/2024/01/05/principles) I had written about at the beginning of the year.
 
-When I became an Artistic Research Fellow at the School of Commons at the Zurich School of the Arts, we have been investigating the meeting point between the abstraction of poetry, the process of datafication, and extractive processes through audio recordings and sensory practices more specifically. 
-
-‘Elegies for Oil Spills’ was a part part of the broader series ‘Poetic Tactics to Counter Extraction (and other ways to train attention), hosted at the ‘School of Commons’, based at the Zurich University of the Arts and online. This work is a collaboration between Mirko Febbo, a sculptor turned data visualization and creative computation expert, and Anne Lee Steele, an anthropologist, data journalist, and multimedia artist.
+‘Elegies for Oil Spills’ was a part of the broader series ‘Poetic Tactics to Counter Extraction (and other ways to train attention), hosted at the ‘School of Commons’, based at the Zurich University of the Arts and online. This work is a collaboration between Mirko Febbo, a sculptor turned data visualization and creative computation expert, and Anne Lee Steele, an anthropologist, data journalist, and multimedia artist.
 
 
 Our most recent project, Elegies for Oil Spills, emerged from the question: “how do we counter the embodied ethos of extraction that underlies both digital and physical life?” - as informed by our training in ethnographic methods and sculpture, respectively. 
