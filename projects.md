@@ -4,11 +4,11 @@ title: projects
 permalink: /projects
 ---
 
-<a href="https://drive.google.com/file/d/1zKDlEjZSoO62cHdX4JRUoTx8gaxntpWu/view?usp=share_link">**My CV is the home of my professional work in programme and community management**</a>.
+<a href="https://drive.google.com/file/d/1zKDlEjZSoO62cHdX4JRUoTx8gaxntpWu/view?usp=share_link">👉 **My CV is the home of my professional work, uploaded here**</a>. _This document was last updated in August 2025_.
 
-For the projects listed below, it's important to note that **I'm trained as an anthropologist, not an artist.** This means that I believe in a strong _conceptual_ basis for any project, wherein the medium tends to follow in order to transform it into something tangible: a piece of writing, a map, a media installation, walking tour or something else.
+**For the projects listed below, it's important to note that I'm trained as an anthropologist, not an artist.** This means that I believe in a strong _conceptual_ basis for any project, wherein the medium tends to follow to transform it into something tangible: a piece of writing or a map, a media installation, or something else entirely.
 
-Even as the forms evolve, my themes have remained consistent: **I explore the tensions between global processes and local politics, the digital mediums and the message they convey, and the infrastructures (material, cultural, technological, and ecological) that shape our lives.** Once upon a time, I would have said that I'm somewhere at the intersection of art and technology (<a href="https://x.com/FeltZine/status/1371793374500376578">now rightfully meme-ified</a>).
+Even as the forms evolve, my themes have remained consistent: **I keep returning to the tensions between global systems and local realities, the ways media and technology shapes meaning, and the infrastructures (material, cultural, technological, ecological) that organise our everyday lives.** Once upon a time, I would have said that I'm somewhere at the intersection of art and technology (<a href="https://x.com/FeltZine/status/1371793374500376578">now rightfully meme-ified</a>).
 
 Recently, I told a mentor that I often feel like I'm circulating around the same ideas in different ways. _“There are stupas in the mind!” she said in response, "I find that with every rotation, I get closer to the truth, or at least a truth"._ The image stayed with me. Like the the rituals of pilgrimage, I'm always curious as to how themes recur, return and reshape themselves throughout our lives. 
 

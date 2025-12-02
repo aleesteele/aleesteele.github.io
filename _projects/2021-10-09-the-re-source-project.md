@@ -9,7 +9,7 @@ image: "../assets/img/resource-preview.png"
 
 **The Re:source Project** was a browser extension that shares information about working conditions across suply chains.
 
-From 2020 to 2022, I collaborated with researcher (and dear old friend!) <a href="https://www.eur.nl/en/people/miriam-matthiessen">Miriam Matthissen</a> on a variety of projects related to supply chains and global logistics. This was one of those projects.
+From 2020 to 2022, I collaborated with researcher <a href="https://www.eur.nl/en/people/miriam-matthiessen">Miriam Matthissen</a> on a variety of projects related to supply chains and global logistics. This was one of those projects.
 
 During the summer of 2021, we were given the opportunity to expand our collaboration as residents at Wikimedia Deutschland's Unlock Accelerator. The program was a crash course in product development and innovation frameworks, which we wrote about on the <a href="https://www.wikimedia.de/unlock/unlock-blog/supply-chains/">project blog</a>.
 

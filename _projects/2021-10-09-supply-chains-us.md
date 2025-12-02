@@ -9,7 +9,7 @@ image: "../assets/img/supply-chains-preview.png"
 
 **Supply chains and us** was a multimedia website about supply chains.
 
-From 2020 to 2022, I collaborated with researcher (and dear old friend!) <a href="https://www.eur.nl/en/people/miriam-matthiessen">Miriam Matthissen</a> on a variety of projects related to supply chains and global logistics. 
+From 2020 to 2022, I collaborated with researcher<a href="https://www.eur.nl/en/people/miriam-matthiessen">Miriam Matthissen</a> on a variety of projects related to supply chains and global logistics. 
 
 We reconnected in 2020 over a shared interest in supply chains and international logistics networks, which we witnessed breaking down in real time during the early days of the COVID-19 pandemic. After I gave a talk at the <a href="https://www.facebook.com/criticaltheoryiheid/photos/the-critical-theory-reading-group-will-be-meeting-virtually-for-its-fourth-sprin/227376385371260/?_rdr">Critical Theory Reading Group</a>, we started havine bi-weekly calls that eventually expanded into a larger Supply Chains Reading Group after we organised a session at the Mozilla Festival in 2021.
 
