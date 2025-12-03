@@ -4,7 +4,7 @@ title: projects
 permalink: /projects
 ---
 
-<a href="https://drive.google.com/file/d/1zKDlEjZSoO62cHdX4JRUoTx8gaxntpWu/view?usp=share_link">👉 **My CV is the home of my professional work, uploaded here**</a>. I’m passionate about initiatives that centre community engagement and civic involvement, and I'm always open to collaboration. <a href="mailto:aleesteele@gmail.com">Please get in touch</a> – I love connecting with people whose work and perspectives complement (or conversely, challenge) my own.
+👉 **My CV is the home of my professional work, <a href="https://drive.google.com/file/d/1zKDlEjZSoO62cHdX4JRUoTx8gaxntpWu/view?usp=share_link">uploaded here**</a>. I’m passionate about initiatives that centre community engagement and civic involvement, and I'm always open to collaboration. I love connecting with people whose work and perspectives complement (or conversely, challenge) my own.
 
 **For the projects listed below, it's important to note that I'm trained as an anthropologist, not an artist.** This means that I believe in a strong _conceptual_ basis for any project, wherein the medium follows to transform it into something tangible: a piece of writing or a map, a media installation, or something else entirely (like a walking tour!).
 

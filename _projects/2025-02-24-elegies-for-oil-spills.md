@@ -41,3 +41,5 @@ Exhibitions:
 - Gray Zone Festival (San Francisco, CA, April 2026) (upcoming)
 
 It will be shown at a Gray Zone exhibition in San Francisco, CA in 2026.
+
+_This work is a collaboration between Mirko Febbo, a sculptor turned data visualization and creative computation expert, and Anne Lee Steele._

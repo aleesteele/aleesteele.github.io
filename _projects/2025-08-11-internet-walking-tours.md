@@ -7,6 +7,6 @@ published: true
 image: "../assets/img/walk-preview.png"
 ---
 
-I develop **Internet Walking Tours** to the hisotrical
+**Internet Walking Tours** to ongoing series 
 
-This work builds off of 
+_The first internet walking tour took place at the Open City festival in London. Please sent _
