@@ -6,34 +6,24 @@ permalink: /speaking
 
 # Select talks and conference presentations
 
+I view conference talks as opportunities to think out loud, and panels as a space to be in conversation with others. 
+
+_<a href="mailto:aleesteele@gmail.com">Please get in touch if any of these materials are of interest</a>_
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OEV-Gyas33Q?si=6X4G3nNoZmLdMAkP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" ></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yeskC_kRb3A?si=F7RRMXO14QN3xlOH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8rzoh9kWt2c?si=L65jPFjfOSt4X0fi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kqkdY-NG0LI?si=SWWgkAEHA0pRyA3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+Here are a few other recorded and/or documented talks that I am most proud of. Some were given collaboratively, others individually:
+- ["Mapping crises, communities and capitalism on OpenStreetMap"](https://www.youtube.com/watch?v=kqkdY-NG0LI&list=PLfw1pM6mwqc4lVnu8LL6wScR1QSqLuapc&index=4) (State of the Map 2022 – Firenze, Italy)
+- ["Understanding Maintenance as a Turing Way"](https://www.youtube.com/watch?v=Lt8iuKyqA8A&list=PLfw1pM6mwqc4lVnu8LL6wScR1QSqLuapc&index=7) (FOSS Backstage 2023 - Berlin, Germany)
+- []() (Geneva Graduate Institute 2024 – Geneva, Switzerland)
+- [Comparative perspectives on the human infrastructures behind open knowledge](https://zenodo.org/records/8060167) (Data Justice Conference 2023 – Cardiff, UK)
 
-## Public media
-- <a href="https://codeforthought.buzzsprout.com/1326658/episodes/15355230-en-the-turing-way-part-2-from-handbook-to-community">Code for Thought podcast (2024)</a>
-- Interviewed for expert-panel podcast “AI and its impact on our daily lives” by Graduate Institute (2023) in Geneva, Switzerland.
-- Interviewed for NHS-R podcast “The Turing Way” (2022) online.
 
-## Conference presentations
-- "The Turing Way: Changing research culture through open collaboration”. Presented various conferences included FOSDEM (2022) in Brussels, Belgium.
-- “Understanding Maintenance as a Turing Way”. Presented at FOSS Backstage (2023) in Berlin, Germany.
-* “Reimagining global connectivity: low earth orbit satellites and internet supply chains”. Presented at Connected Life in Oxford, UK (2022).
-* “Rendering supply chains research (in the vector economy)”. Presented at Transmediale, Rendering Research workshop in Brussels, Belgium (2022).
-* “Mapping crises, communities, and capitalism on OpenStreetMap: situating humanitarian mapping”. Presented at HOT Summit (2021) online and State of the Map (2022) in Florence, Italy.
-* “Data visualization and crowdsourced research: experiments in collective storytelling”. Presented at csv,Conf,v6 (2021) and RightsCon (2021), both online.
-* “Mapathons: spaces of care and caretography,” Presented at Harvard GRISTS (2021), online.
-* “Open Research Data 101”. Presented Frictionless tools at Open Data Day workshop by Open Knowledge Foundation (2021) online.
-
-## Workshops
-* “Research Infrastructure Roles”. Given at Collaborations Workshop (2022) and Big Team Science (2022, 2023), with Esther Plomp, Emma Karoune,
-* “Designing for Data Rights in the AI Production Pipeline”. Given at MozFest (2023), with Jennifer Ding and Yacine Jernite.
-* “Git Good: Using Github for Collaboration”. Given at CarpentryCon (2022), given with Hari Sood and Sophia Batchelor.
-* “The Social Lives of Our Supply Chains”. Given at MozFest (2021), with Miriam Matthiessen.
-
-## Course lectures
-* Guest lecture for “Internet Geographies” course at The New School, Eugene Lang College of Liberal Arts (2022), given with Miriam Matthiessen.
+I also have extensive experience organising and moderating discussions and workshops.
+- **The Alternative Education series** (2025-ongoing): An ongoing collection of dialogues on non-traditional learning spaces, community-led knowledge production, and experimental pedagogies.
+- **The Turing Way Fireside Chat series** (2022-2025): A recurring set of conversations bringing together practitioners, researchers, and community organisers working on open, ethical, and inclusive data science. 
+- **Git for Good Github Workshop series** (2022-2025): Building off 
