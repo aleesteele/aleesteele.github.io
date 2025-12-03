@@ -20,7 +20,6 @@ A few other recorded and/or documented talks are listed beloow. Some were given 
 - ["Untangling the frictions and cohesions between (digital) democracy and open source"](https://zenodo.org/records/8063396) (Geneva Graduate Institute 2024 – Geneva, Switzerland)
 - [Comparative perspectives on the human infrastructures behind open knowledge](https://zenodo.org/records/8060167) (Data Justice Conference 2023 – Cardiff, UK)
 
-
 I also have extensive experience organising and moderating discussions and workshops:
 - **The Alternative Education series** (2025-ongoing): An ongoing collection of dialogues on non-traditional learning spaces, community-led knowledge production, and experimental pedagogies.
 - **The Turing Way Fireside Chat series** (2022-2025): A recurring set of conversations bringing together practitioners, researchers, and community organisers working on open, ethical, and inclusive data science. 
