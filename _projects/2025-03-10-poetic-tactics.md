@@ -11,7 +11,8 @@ image: "../assets/img/poetic-tactics-preview.png"
 
 Poetic tactics investigated the meeting point between the abstraction of poetry, the process of datafication, and extractive processes through audio recordings and sensory practices more specifically. 
 
-[ LINK ]
+![poetics](https://hackmd.io/_uploads/HkSh3g0bWe.png)
+_[Check out the project slides here](https://docs.google.com/presentation/d/1srki1Vo-bTA5mO-26-0-qRFSRewX28MGBKFqb3HQzIg/edit?slide=id.gf5a57be6f8_0_0#slide=id.gf5a57be6f8_0_0)_
 
 The project aimed to to bring together a body of work that aims to answer the following questions:
 - How do we counter the embodied ethos of extraction?
@@ -22,9 +23,10 @@ The project aimed to to bring together a body of work that aims to answer the fo
 Over the course of two years, I investigated this theme
 
 So far, there have been a number of different outputs: 
-- Workshops on somatic mapping and poetic meditations
+- Workshops on somatic mapping and poetic meditations (including ['mapping meditations'](https://hackmd.io/@aleesteele/soc-mapping-meditations) and deep listening exercises)
 - Multimedia installations (including [trace]() and [elegies]())
 - Poetry series
+- Microsite 
 
 ![](https://i.ibb.co/CpQ0JCpJ/Screenshot-2025-03-27-at-19-27-34.png)
 ![](https://i.ibb.co/kVw5bQXB/Screenshot-2025-03-27-at-19-28-56.png)

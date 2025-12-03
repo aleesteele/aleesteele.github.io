@@ -3,7 +3,7 @@ layout: page
 title: contact
 ---
 
-I'm always up for a good conversation!
+I'm always up for a conversation!
 
 (Feel free to <a href="https://calendly.com/aleesteele/">schedule a chat</a> using my calendly. You should receive a generated link for jitsi).
 
@@ -15,4 +15,4 @@ I'm always up for a good conversation!
 - X/Twitter: [@aleesteele](twitter.com/aleesteele)
 - YouTube: [@aleesteele](https://www.youtube.com/@aleesteele)
 
-Otherwise, send me an email at [aleesteele@gmail.com](mailto:aleesteele@gmail.com).
+Otherwise, send me an email at [aleesteele@gmail.com](mailto:aleesteele@gmail.com) 

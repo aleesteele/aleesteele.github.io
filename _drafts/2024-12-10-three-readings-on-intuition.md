@@ -1,6 +1,6 @@
 ---
 layout: post
-title: three readings on the role of intuition
+title: on the role of intuition in alt-ac life
 date: 2024-12-02 23:00:00 +0000
 category: blog
 published: false
