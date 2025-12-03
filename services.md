@@ -4,7 +4,7 @@ title: services
 permalink: /services
 ---
 
-In 2025, I founded <a href="https://www.studio-sanshin.com">Studio Sanshin</a> as the home for my freelancing and creative practice – a space I'm cultivating where research, design, and storytelling meet.  
+In 2025, I founded <a href="https://www.studio-sanshin.com">Studio Sanshin</a> as the home for my freelancing and creative practice – a space where deep research, design, and storytelling meet.  
 
 I offer services in research, creative communication, community-centered practices, accessibility, conflict-meditation, human-centered design, and facilitation, drawing on almost a decade experience working at the intersection of creative communication, community-led collaboration, and open practices.  
 
