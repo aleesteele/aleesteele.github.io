@@ -3,7 +3,7 @@ layout: post
 title: starting the artists way -- practices for nurturing creativity
 date: 2023-11-14 23:00:00 +0000
 category: blog
-
+image: "../assets/img/preview.png"
 ---
 
 _14.11.23: Sent to a friend, who had asked about practices that help with my own creativity. I recently started The Artist's Way course, which has changed many of my ingrained ways of thinking and practices._

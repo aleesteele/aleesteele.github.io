@@ -1,0 +1,12 @@
+---
+layout: post
+title: searching for the sanshin 
+category: blog
+range: 2020 - ongoing
+published: false
+image: "../assets/img/preview.png"
+---
+
+sanshin (산신) is one of my favorite korean words. it means ‘mountain spirit’, and meant to symbolize a kind of symbiotic relationship between (wo)man and nature. crossing mountains requires offerings to the sanshin, who act as kind of bridge between the heavens (sky) and the world of humans (earth). they are usually embodied as tigers – which, funnily enough, is the same zodiac (띠) sign as my grandparents.
+
+as korean culture and the hallyu wave have overtaken the world, terms like nunchi (social awareness… or is it anxiety?) and all sorts of kimchi-fusion-something-food have accompanied it. maybe it’s because my family are, at their very core, mountain country folk, or maybe it’s because the Korea that my gyopo (교포) family left is very different from the one of today… but i’ve always gravitated to this word because it felt less time and culturally-specific; something that we could all relate to, wherever we are. especially these days. / @san.sh.in

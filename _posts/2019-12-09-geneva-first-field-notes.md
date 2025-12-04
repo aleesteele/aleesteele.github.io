@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 'First Impressions: On Mountains, Panels, and Fondue'
+title: 'first impressions: on mountains, panels, and fondue'
 date: 2019-12-09 23:00:00 +0000
 category: blog
+image: "../assets/img/preview.png"
 ---
 Dear all,
 

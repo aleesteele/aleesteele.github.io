@@ -3,7 +3,7 @@ layout: post
 title: Greetings from Geneva-- I'm bringing back the blog!
 date: 2019-09-17T22:00:00.000+00:00
 category: blog
-
+image: "../assets/img/preview.png"
 ---
 Dear all,
 

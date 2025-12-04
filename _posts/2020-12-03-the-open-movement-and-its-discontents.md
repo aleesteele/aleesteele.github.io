@@ -1,9 +1,9 @@
 ---
 layout: post
 category: blog
-title: the open movement and its discontents
-date: 2020-12-03 00:00:00 +0000
-
+title: 'publication: the open movement and its discontents'
+date: 2020-08-14 22:00:00 +0000
+image: "../assets/img/preview.png"
 ---
 [reposted from The Graduate Institute website](https://www.graduateinstitute.ch/communications/news/open-movement-and-its-discontents).
 
