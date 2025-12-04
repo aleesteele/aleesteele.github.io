@@ -8,7 +8,7 @@ permalink: /
 
 _👋 **Thank you for visiting my website. I appreciate you being here.**_
 
-My work centers on the invisible people and processes behind our digital lives. Sometimes that means building and supporting projects grounded in care, maintenance, and attention. Other times, it means tracing the infrastructures, industries, and supply chains that make our technologies possible.
+My work centers on the invisible people and processes behind our digital lives. Sometimes that means building and supporting projects that nurture the care, maintenance, and attention needed for a better internet. Other times, it means tracing the infrastructures, industries, and supply chains that make our technologies possible.
 
 I approach most things as an ethnographer first and a community-builder second. In recent years, I’ve turned to media art to reimagine new forms of public engagement, though I remain a writer at heart.
 
