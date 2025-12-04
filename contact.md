@@ -3,7 +3,7 @@ layout: page
 title: contact
 ---
 
-I'm always up for a conversation!
+I love connecting with people whose work and perspectives complement (or conversely, challenge) my own.
 
 (Feel free to <a href="https://calendly.com/aleesteele/">schedule a chat</a> using my calendly. You should receive a generated link for jitsi).
 
