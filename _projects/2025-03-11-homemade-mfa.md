@@ -1,6 +1,6 @@
 ---
 layout: post
-title: homemade-mfa
+title: homemade mfa
 range: 2025 - ongoing
 category: blog
 published: true
