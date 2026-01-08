@@ -3,8 +3,11 @@
 source "https://rubygems.org"
 gemspec
 
+gem "jekyll", "~> 4.3"
+
+gem "webrick"
+
 gem 'jekyll-seo-tag'
 
-gem 'github-pages'
-
 gem 'jekyll-archives'
+
