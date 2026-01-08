@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poetic tactics to counter extraction (and other tools to train attention)
+title: poetic tactics to counter extraction
 range: 2023 - ongoing
 category: blog
 published: true
