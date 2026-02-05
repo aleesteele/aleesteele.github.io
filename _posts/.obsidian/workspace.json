@@ -34,6 +34,18 @@
             }
           },
           {
+            "id": "c61b1bd420e79ba2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
+          },
+          {
             "id": "b82a606e8624d6ae",
             "type": "leaf",
             "state": {
@@ -48,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e459ad65f5056e5b",
+  "active": "c61b1bd420e79ba2",
   "lastOpenFiles": [
     "2022-05-07-maintenance.md",
     "2022-03-13-photos-from copy.md",
