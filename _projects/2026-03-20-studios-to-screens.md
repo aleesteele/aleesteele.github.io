@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a walk to baekdusan
+title: studios to screens
 range: 2026 - ongoing
 category: blog
 published: true

@@ -8,7 +8,7 @@ permalink: /projects
 
 For the projects listed below, please note that I'm trained as an anthropologist, not an artist. 
 
-This means that I believe in a strong _conceptual_ basis for any project, wherein the medium follows to transform it into something tangible: a piece of writing or a map, a media installation, or something else entirely (like a walking tour!). Once upon a time, I would have said that I'm somewhere at the intersection of art and technology (<a href="https://x.com/FeltZine/status/1371793374500376578">now rightfully meme-ified</a>).
+This means that I believe in a strong _conceptual_ basis for any project, wherein the medium follows to transform it into something tangible: a piece of writing or a map, a media installation, a workshop, or something else entirely. Once upon a time, I would have said that I'm somewhere at the intersection of art and technology (<a href="https://x.com/FeltZine/status/1371793374500376578">now rightfully meme-ified</a>).
 
 Recently, I told a mentor that I often feel like I'm circulating around the same ideas in different ways. _“There are stupas in the mind!” she said in response, "I find that with every rotation, I get closer to the truth, or at least a truth"._ The image stayed with me. Like the the rituals of pilgrimage, I'm believe that themes recur, return and reshape themselves throughout our lives. 
 
