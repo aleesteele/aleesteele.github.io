@@ -6,7 +6,7 @@ permalink: /writing
 
 <img src="../assets/img/newsletter.png" class="newsletter"/>
 
-I recently started a newsletter called **"Field Notes from the Internet""** – a more structured space for sharing upcoming events, workshops, interviews, and news from the poetic web.
+I recently started a newsletter called **"Field Notes from the Internet"** – a more structured space for sharing upcoming events, workshops, interviews, and news from the poetic web.
 
 In many ways, it gathers the best and most relevant parts of my blog and other platforms. I'm still getting the hang of the right rhythm and frequency, but aim for once a quarter.
 

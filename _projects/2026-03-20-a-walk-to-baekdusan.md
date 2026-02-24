@@ -1,6 +1,6 @@
 ---
 layout: post
-title: internet walking tours
+title: a walk to baekdusan
 range: 2026 - ongoing
 category: blog
 published: true

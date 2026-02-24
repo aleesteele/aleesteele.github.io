@@ -1,6 +1,6 @@
 ---
 layout: post
-title: internet walking tours
+title: digital cairns
 range: 2026 - ongoing
 category: blog
 published: true
