@@ -4,9 +4,7 @@ title: projects
 permalink: /projects
 ---
 
-👉 **My CV is the home of my professional work,** <a href="https://drive.google.com/file/d/1zKDlEjZSoO62cHdX4JRUoTx8gaxntpWu/view?usp=share_link">**uploaded here**</a>. I’m passionate about initiatives that centre community engagement and civic involvement, and I'm always open to collaboration. 
-
----
+👉 **My <a href="https://www.linkedin.com/in/anneleesteele/">Linkedin</a> and <a href="https://drive.google.com/file/d/1zKDlEjZSoO62cHdX4JRUoTx8gaxntpWu/view?usp=share_link">CV</a> are the homes of my professional work.** 
 
 **For the projects listed below, it's important to note that I'm trained as an anthropologist, not an artist.** This means that I believe in a strong _conceptual_ basis for any project, wherein the medium follows to transform it into something tangible: a piece of writing or a map, a media installation, or something else entirely (like a walking tour!).
 
