@@ -7,8 +7,10 @@ published: true
 image: "../assets/img/screens-studios-preview.png"
 ---
 
-**From studios to screens: connecting creative computation to academic computing** is an ongoing series of walking tours, currently based in London.
+**From Studios to Screens: connecting creative computation to academic computing** is a 2026 research fellowship project supported by the <a href="https://www.software.ac.uk">Software Sustainability Institute</a>.
 
+The project connects computational and AI artists with research software engineering (RSE) practices, while bringing creative, critical, and poetic approaches into academic computing. It explores what these overlapping communities can learn from one another — and how imagination and infrastructure might work together more intentionally.
 
-The outcomes of this project
-_This work is supported by the Software Sustainability Institute - based at the University of Edinburgh - through a fellowship._
+Outcomes may include interviews, collaborations, gatherings, or a publication.
+
+If this resonates, I’d love to hear from you. Your input will directly shape the programming, structure, and activities of this project throughout 2026. Please feel free to share this form with your colleagues, friends, and/or others who might be interested in this work: https://tinyurl.com/ssi-ac-art-computing 
