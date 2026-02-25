@@ -1,23 +1,15 @@
 ---
 layout: post
 title: digital cairns
-range: 2026 - ongoing
+range: 2026
 category: blog
 published: true
-image: "../assets/img/walk-preview.png"
+image: "../assets/img/cairn-preview.png"
 ---
 
-**Internet Walking Tours** is an ongoing series of walking tours, currently based in London.
+**Digital cairns** is an ongoing series of walking tours, currently based in London.
 
-> _"When trying to find Internet infrastructure in a city, it's helpful to start from the ground up – or, more precisely, somewhere just below the ground up..." - Ingrid Burrington, artist (2016)_ 
+Drawing inspiration from cairns and shrines to explore digital formats for wayfaring, marking, guiding and tracing forest relations on the web.
 
-Building off of the work of artists like <a href="https://mhpbooks.com/books/networks-of-new-york/">Ingrid Burrington</a> and <a href="https://internetour.com">Mario Santamaría</a>, I'm keen to bring our digital infrastructures beyond the comfort of slide decks and auditorium-style presentations to something more experimental, something that shifts how ideas can be communicated through performance, movement, and spontaneous exchange.
+This work was commissioned by 
 
-_<a href="https://programme.openhouse.org.uk/listings/13284">The first internet walking tour took place at the Open House festival</a>. Please sign up for my newsletter if you're interested in joining other internet tours!_
-
-During the first internet walking tour, we traced the routes of fibre-optic cables beneath our feet, decoded the markings on ubiquitous manholes covering British Telecom tunnels, and explored the emergence of 5G masts, public Wi-Fi networks, and even a functioning internet exchange point.
-
-I’m interested in expanding this work into a broader series of “digital heritage” tours – mapping how London’s landscape has evolved alongside communication technologies. Could we walk through the former sites of the General Post Office, or trace the transformation of BT from a public utility to a global telecoms giant? These are the stories of connection, communication, and control that define the modern city.
-
-![tour-1](https://hackmd.io/_uploads/H1ZRjlC-Wx.jpg)
-![tour-2](https://hackmd.io/_uploads/HkWCig0Z-l.jpg)
