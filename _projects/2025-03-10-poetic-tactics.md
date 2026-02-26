@@ -20,7 +20,7 @@ The project aimed to to bring together a body of work that aims to answer the fo
 - How can the metaphor of poetry can be used to combat the abstraction of datafication?
 - When physical extraction is constitutive of digital culture, as well as a pervasive ethos and social norm, what role can poetry (and poetic tactics) play?
 
-Over the course of two years, I investigated this theme through a few different ways.
+Over the course of two years, I investigated these themes through a few different ways.
 
 So far, there have been a number of different outputs: 
 - Workshops on somatic mapping and poetic meditations (including ['mapping meditations'](https://hackmd.io/@aleesteele/soc-mapping-meditations) and deep listening exercises)

@@ -18,7 +18,7 @@ You're welcome to subscribe here:
   target="popupwindow"
   onsubmit="window.open('https://buttondown.email/aleesteele', 'popupwindow')"
   class="embeddable-buttondown-form"
-  style="border:1px; margin: 3px;"
+  style="border:1px; margin: 5px;"
 >
   <input type="email" name="email" id="bd-email" style="border:1px;" placeholder="Please add your email here" /> 
   <input type="submit" value="Subscribe" style="border:1px;" />

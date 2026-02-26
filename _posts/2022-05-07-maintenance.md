@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "publication: 'rendering supply chains research and its (dis)contents'"
+title: "[publication] 'rendering supply chains research and its (dis)contents'"
 date: 2022-05-07 23:00:00 +0000
 category: blog
 image: "../assets/img/preview.png"

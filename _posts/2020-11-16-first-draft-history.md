@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "publication: who writes the first draft of history?"
+title: "[publication] who writes the first draft of history?"
 date: 2021-08-14 22:00:00 +0000
 category: blog
 image: "../assets/img/preview.png"

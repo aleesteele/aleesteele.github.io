@@ -1,12 +1,12 @@
 {%- assign page_paths = site.header_pages | default: default_paths -%}
 <header>
-  <div class="welcome"><img src="../assets/img/header.png" alt="Welcome! I'm Anne Lee Steele."/></div>
+  <div class="welcome"><img src="{{ '../assets/img/header.png' | relative_url}}" alt="Welcome! I'm Anne Lee Steele."/></div>
   <div class="menu">
     <ul>
       {%- for path in page_paths -%}
         {%- assign my_page = site.pages | where: "path", path | first -%}
         {%- if my_page.title -%}
-        <li><img src="../assets/img/folder.png" class="folder"/><a href="{{ my_page.url | relative_url }}" class="folder">{{ my_page.title | escape }}</a></li>
+        <li><img src="{{'../assets/img/folder.png' | relative_url }}" alt="folder" class="folder"/><a href="{{ my_page.url | relative_url }}" class="folder">{{ my_page.title | escape }}</a></li>
         {%- endif -%}
       {%- endfor -%}
     </ul>
