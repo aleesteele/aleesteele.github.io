@@ -65,45 +65,27 @@ It took me a while to realise that these needs might not necessarily be congruou
 
 Despite the fact that people's expectations may differ from their first, second, and third spaces - let's face it. The boundaries between spaces have never _really_ been clear and defined as we make them out to be, especially in certain industries. 
 
-The role of the boy's club (both literally and metaphorically) has long been an example of this type of social structure: where personal relationships transfer directly into professional ones and vice versa. Political lobbying can range from professional occupations to formalised rituals of pomp and circustance, while the real work happens behind the scenes. In the most extreme form, bribing and nepotism can take on similar cadences. Importantly, social movements often come from a foundation of social relationships, something that Zeynep Tufekci wrote about in her <a href="https://www.nytimes.com/2022/07/21/opinion/zeynep-tufekci-protests.html">op-ed about protests</a>.
+The role of the boy's club (both literally and metaphorically) has long been an example of this type of social structure: where personal relationships transfer directly into professional ones and vice versa. Political lobbying can range from professional occupations to formalised rituals of pomp and circumstance, while the real work happens behind the scenes. In the most extreme form, bribing and nepotism can take on similar cadences. Importantly, social movements also spring from a foundation of social relationships, something that Zeynep Tufekci wrote about in her <a href="https://www.nytimes.com/2022/07/21/opinion/zeynep-tufekci-protests.html">op-ed about protests</a>.
 
 These examples illustrate a kind of universal truth: every institutional structure has a social element, and thereby, all movements are social ones.
 
-After almost ~5 years in the open ecosystem, I've learned about just how much it operates off of relationships, relationships that are cultivated in spaces like conferences, community calls, and fellowships - and extend far beyond set institutions or projects. This means that not dissimilar from a boys club, these spaces are blurring, whereas the space of personal belonging becomes a place of professional advancement, and the relationships are deeply interwoven with each other.
-
-Especially in the past few years, the world of open has blurred the lines been institutional action and countermovement. Open source indeed birthed from a third space, but it has in many ways, produced a kind of open industry around it.
-
-This is what building collective power and community organising looks like in real time, and often, 
-
-That's not to say that boundaries are universally to be either disparaged or put on a pedastal, 
-
-
-
-What happens when the social norms of the second space blur into the second? When professional life in the second space bleeds to where you spend our free time? 
-
-For example: the type of facilitation you need in a professional meeting is not necessarily the same 
+After almost ~5 years in the open ecosystem, I've learned about just how much it operates off of relationships, relationships that are cultivated not only in spaces like conferences, community calls, and fellowships – but also parties, socials, friendships – and extend far beyond set institutions or projects. This means that not dissimilar from a boys club, these spaces are blurring, whereas the space of personal belonging becomes a place of professional advancement, and the relationships are deeply interwoven with each other.
 
 ### 3. Because digital third spaces are usually moderated by people, what are the third spaces for third space facilitators?
 
+It took me years to realise that as a facilitator, my third space would not necessarily be the same one that I was responsible for as a community manager. This isn't necessarily a bad thing: facilitation comes with a kind of responsibility that should not be taken lightly. If we're to be trusted with the full selves of others as a professional responsibility, there's a kind of "duty of care" that emerges that is important to maintain for a community to feel cared for. 
 
+In my experience, bringing our full, complicated selves can sometimes break that mutual spell and maintenance of care. Especially because so much care work in third spaces is emotional labor, outlets and "third spaces" (or rather fourth spaces) are necessary, if not integral for emotional health of the facilitator.
 
-## Three Questions for third space facilitators
+## Three questions for digital third space facilitators
 
-As I consider
-
+As I reflect on three years of community management and third spaces broadly, a few questions emerge for others doing similar work, especially as we enter the second half of the 2020s.
 ### 1. Where do the (digital) boundaries lie between digital second and third spaces now lie?
 
-A few years ago, I read an article titled "the revolution will not be on instagram".
-
-So much of digital life 
-
+In the digital space, particularly on social media, the mediums we use as our professional and personal lives are now interwoven more than ever. Instagrams are places for professional connections. Jobs require slack or discord workspaces, but so do social movements and community groups. We post slivers of our full selves on Linkedin, and other versions on Bluesky or Mastodon. That's not to talk about the dangers of platform politics (and reliance on Big Tech) that this often inculcates, but rather that the lines between our second and third spaces are more blurred than ever because of the tools and platforms that we use.
 ### 2. What is the responsibility of a digital third space in the attention economy – and the shifts in current political life?
 
-At the beginning of this year, I read Zeynep Tufekci's article "What I learned about"
+A few years ago, I read an article titled ["the revolution will (not) be shared on instagram"](https://fourteeneastmag.com/index.php/2020/09/25/the-revolution-will-not-be-shared-on-instagram/). The article focuses on how the platform demands a particular kind of engagement that is the antithesis of the kind of work required for social organising. Again, Zeynep Tufekci wrote about this in her <a href="https://www.nytimes.com/2022/07/21/opinion/zeynep-tufekci-protests.html">op-ed about protests</a>, as did Jenny Odell in her book ["How to do Nothing"](https://www.penguinrandomhouse.com/books/600671/how-to-do-nothing-by-jenny-odell/). What Sophie Bishop calls ["influencer creep"](https://reallifemag.com/influencer-creep/) is affecting the way in which we engage with the world, because of how our attention is being constantly fought for. In this attention economy, how responsible are facilitators for keeping our attention lazer-focused on what is _actuallly_ important?
+### 3. What is the role of privatisation in the development of digital third spaces?
 
-When I went to college about a decade ago, 
-### 3. What is the role of privatisation in the development of third spaces?
-
-Over the past few years, I've studied, observed, and been in the organising rooms of many different types of calls. Some explicitly aknowledged: X. 
-
-This infrastructure of "public space" relates very closely to the notion of "knowledge commons" and "digita". 
+Over the past few years, I've studied, observed, and been in the organising rooms of many different types of calls. Some explicitly acknowledged the kinds of funding that made their work possible, and others didn't. We know that the funding is scarse and momentum is difficult online, but how are brands/companies/privatisation broadly affecting how we meet together and build community online? This notion of infrastructure of "public space" relates very closely to the ideas behind a "knowledge commons" and "digital commons". 

@@ -13,4 +13,4 @@ The project connects computational and AI artists with research software enginee
 
 Outcomes may include interviews, collaborations, gatherings, or a publication.
 
-If this resonates, I’d love to hear from you. Your input will directly shape the programming, structure, and activities of this project throughout 2026. Please feel free to share this form with your colleagues, friends, and/or others who might be interested in this work: https://tinyurl.com/ssi-ac-art-computing 
+If this resonates, I’d love to hear from you. Your input will directly shape the programming, structure, and activities of this project throughout 2026. Please feel free to share this form with your colleagues, friends, and/or others who might be interested in this work: <a href="https://tinyurl.com/ssi-ac-art-computing">https://tinyurl.com/ssi-ac-art-computing </a>
