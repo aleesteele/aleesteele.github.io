@@ -6,7 +6,7 @@ permalink: /writing
 
 <img src="../assets/img/newsletter.png" class="newsletter"/>
 
-I recently started a newsletter called **"Field Notes from the Internet""** – a more structured space for sharing upcoming events, workshops, interviews, and news from the poetic web.
+I recently started a newsletter called **"Field Notes from the Internet"** – a more structured space for sharing upcoming events, workshops, interviews, and news from the poetic web.
 
 In many ways, it gathers the best and most relevant parts of my blog and other platforms. I'm still getting the hang of the right rhythm and frequency, but aim for once a quarter.
 
@@ -18,7 +18,7 @@ You're welcome to subscribe here:
   target="popupwindow"
   onsubmit="window.open('https://buttondown.email/aleesteele', 'popupwindow')"
   class="embeddable-buttondown-form"
-  style="border:1px; margin: 3px;"
+  style="border:1px; margin: 5px;"
 >
   <input type="email" name="email" id="bd-email" style="border:1px;" placeholder="Please add your email here" /> 
   <input type="submit" value="Subscribe" style="border:1px;" />

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'publication: notes on the (American) Empire'
+title: '[publication] notes on the (American) Empire'
 date: 2020-03-09T23:00:00.000+00:00
 category: blog
 image: "../assets/img/preview.png"

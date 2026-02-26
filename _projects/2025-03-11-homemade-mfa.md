@@ -1,7 +1,7 @@
 ---
 layout: post
-title: homemade-mfa
-range: 2025 - ongoing
+title: homemade mfa
+range: 2025
 category: blog
 published: true
 image: "../assets/img/mfa-preview.png"
@@ -20,3 +20,5 @@ I've found that others want something different: maybe they were trained as arti
 "Homemade MFA" began as an <a href="https://www.are.na/block/37124170">open invitation on are.na</a> which has slowly grown over time. 
 
 <a href="https://www.are.na/homemade-mfa/channels">You're welcome to join on the arena group. All are welcome, and all the materials shared are already online.</a>
+
+_As of February 2026, the group is still active. I'm no longer a steward, but rather a participant._

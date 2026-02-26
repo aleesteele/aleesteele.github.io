@@ -17,6 +17,7 @@ image: "../assets/img/preview.png"
 | Wikimedia Deutschland     | Unlock Accelerator           | Jun - Aug 2021             |       |
 | Internet Society          | Reproducible Research Fellow | Sept 2021 - June 2022      |       |
 | School of Commons         | Fellow                       | April 2024 - February 2025 |       |
+| Software Sustainability Institute | Fellow                       | November 2025 - March 2027 |       |
 
 ## Alternative learning
 
