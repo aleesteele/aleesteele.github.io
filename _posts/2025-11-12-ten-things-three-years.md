@@ -29,10 +29,6 @@ For now, I've just added the list as it's more important to get out there. But I
 
 ### 10. Community building is in the small things: rituals are important
 
-### In summary?
-
-It's funny how so many of these
-
 ## A few runner ups (that didn't make the list)
 - What you share is as important as how you share
 - Openness alone isn't enough (what about translation and accessibility?)

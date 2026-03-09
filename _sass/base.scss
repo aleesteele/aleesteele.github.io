@@ -75,13 +75,6 @@ footer img { text-align: right; justify-content: right; max-width: $footer-max-w
 .menu ul li a { text-decoration: none;  color: var(--text-color); display: inline-block; }
 .menu ul li a:hover { text-decoration: none; color: var(--background-color); background-color: var(--base-color); }
 
-
-/**
- * Form
- */
-main { }
-
-
 /**
  * Tables
  */
@@ -92,7 +85,7 @@ table, th, td {
 /**
  * Form
  */
-input, select, textarea { padding: 0;  margin: 0;  -webkit-appearance: none;  -webkit-border-radius: 0;  border: none; }
+input, select, textarea { padding: 0;  margin: 0;  -webkit-appearance: none;  -webkit-border-radius: 0; font-size: $base-font-size; min-width: 30%;}
 input[type=text], select, textarea { width: 100%;  resize: none;  background-color: var(--background-color);  color: var(--text-color);  caret-color: var(--text-color);  font-size: $base-font-size;  font-family: $base-font-family;  line-height: $base-line-height; }
 input, select, textarea, textarea::-webkit-input-placeholder { text-indent: 0px; }
 ::placeholder { color: var(--placeholder-color);  opacity: 1; }
@@ -174,16 +167,19 @@ pre { background-color: var(--background-color);  border: none;  padding: 0;  ma
 .headshot { max-width: 350px; float: left; }
 .sticky { max-width: 250px; }
 .services { }
-.newsletter { max-width: 350px; float: left; padding-right: 10px; }
+.newsletter { max-width: 100%; float: left; padding-right: 10px; }
 .project-preview-image, .blog-preview-image { padding-right: 10px; }
 
  /**
- * Blog
+ * Writing
  */
 .blog { border:thin solid black; padding: 15px 10px 30px 10px; }
 .blog img { max-width: 120px; float: left; }
 h2.blog-title { text-decoration: none; padding-top: 10px 0 10px 0; }
 .blog-date { padding-top: 15px; }
+
+#bd-email { margin: 5px 0 5px 0; border: none; border-radius: 3px; font-style:italic; text-decoration: underline; }
+#bd-submit { border-radius: 3px; border: 1px solid black; }
 
  /**
  * Projects
@@ -191,3 +187,8 @@ h2.blog-title { text-decoration: none; padding-top: 10px 0 10px 0; }
 .projects { border:thin solid black; padding: 15px 10px 30px 10px; }
 .projects img { max-width: 120px; float: left; }
 h2.project-title { text-decoration: none; padding-top: 10px 0 10px 0; }
+
+/**
+ * Line dividers
+ */
+.line-divider { display: block; max-width: 80%; align-items: center; justify-content: center; text-align: center; }
