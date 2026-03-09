@@ -6,7 +6,7 @@ permalink: /writing
 
 <img src="../assets/img/newsletter-preview.png" class="newsletter"/>
 
-I recently started a newsletter called **"Field Notes from my Desktop"** as a more structured space for sharing upcoming events, workshops, interviews, and news from the poetic web.
+I recently started **"Field Notes from my Desktop"** as a more structured space for sharing upcoming events, workshops, interviews, and news from the poetic web.
 
 For years, I wrote long emails to friends and family. While I don’t do that much anymore, I still try to write in public as a slower alternative (or companion) to the stream-of-consciousness of social media, or the informality of a blog. 
 
