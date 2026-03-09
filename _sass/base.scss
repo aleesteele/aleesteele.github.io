@@ -178,7 +178,7 @@ pre { background-color: var(--background-color);  border: none;  padding: 0;  ma
 h2.blog-title { text-decoration: none; padding-top: 10px 0 10px 0; }
 .blog-date { padding-top: 15px; }
 
-#bd-email { border: none; margin: 0 1px; }
+#bd-email { margin: 5px 0 5px 0; border: none; border-radius: 3px; font-style:italic; text-decoration: underline; }
 #bd-submit { border-radius: 3px; border: 1px solid black; }
 
  /**
@@ -187,3 +187,8 @@ h2.blog-title { text-decoration: none; padding-top: 10px 0 10px 0; }
 .projects { border:thin solid black; padding: 15px 10px 30px 10px; }
 .projects img { max-width: 120px; float: left; }
 h2.project-title { text-decoration: none; padding-top: 10px 0 10px 0; }
+
+/**
+ * Line dividers
+ */
+.line-divider { display: block; max-width: 80%; align-items: center; justify-content: center; text-align: center; }

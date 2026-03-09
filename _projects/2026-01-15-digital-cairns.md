@@ -3,7 +3,7 @@ layout: post
 title: digital cairns
 range: 2026
 category: blog
-published: true
+published: false
 image: "../assets/img/cairn-preview.png"
 ---
 
