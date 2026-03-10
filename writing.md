@@ -4,7 +4,7 @@ title: writing
 permalink: /writing
 ---
 
-<img src="../assets/img/newsletter-preview.png" class="newsletter"/>
+<img src="../assets/img/newsletter-preview.png" class="newsletter" alt="Field notes from my desktop: an occasional newsletter about the poetic web"/>
 
 I recently started **"Field Notes from my Desktop"** as a more structured space for sharing upcoming events, workshops, interviews, and news from the poetic web.
 

@@ -1,7 +1,10 @@
 ---
 layout: default
-permalink: /accessibility.html
+title: design
+permalink: /design.html
 ---
+
+# Design
 
 # Accessibility Commitment
 
