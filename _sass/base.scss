@@ -38,7 +38,7 @@ a:hover { color: var(--background-color); background-color: var(--base-color); }
     font-size: $mobile-font-size !important; 
   } 
   .folder img {
-    // max-width: 30%;
+    max-width: 30%;
   }
 }
 img { max-width: $container-width; max-height: $container-height;}
@@ -75,7 +75,7 @@ footer img { text-align: right; justify-content: right; max-width: $footer-max-w
 .menu { border-top: var(--border);  border-bottom: var(--border);  display: inline-block; text-align: center; }
 .menu ul { margin-top: 10px;  margin-bottom: 10px;  padding-left: 0px; list-style-type: none; }
 .menu ul li { margin-left: 10px;  margin-right: 10px; }
-.folder { text-align: center; }
+.folder { text-align: center; margin: 0 auto; }
 .folder img { text-align: center; margin-bottom: 5px; }
 #menu-folder:hover { 
   background-color: #ffffff; 
