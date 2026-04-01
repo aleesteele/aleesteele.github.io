@@ -11,9 +11,12 @@ If you're interested in following my work at other speeds, I can also be found o
 
 🌱 Are.na: [Anne Lee Steele](https://www.are.na/anne-lee-steele)
 🌱 Bluesky: [@aleesteele.bsky.social](https://bsky.app/profile/aleesteele.bsky.social)
+🌱 Buttondown:
 🌱 Instagram: [@anneleesteele](https://www.instagram.com/anneleesteele/)
 🌱 Linkedin: [Anne Lee Steele](https://www.linkedin.com/in/anneleesteele/)
 🌱 Mastodon: [@aleesteele@post.lurk.org](https://post.lurk.org/@aleesteele)
+🌱 Medium:
+🌱 Substack: 
 🌱 Threads: [anneleesteele](https://www.threads.com/@anneleesteele)
 🌱 X/Twitter: [@aleesteele](twitter.com/aleesteele)
 🌱 YouTube: [@aleesteele](https://www.youtube.com/@aleesteele)
