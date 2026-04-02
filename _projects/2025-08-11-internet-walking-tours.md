@@ -13,7 +13,7 @@ image: "../assets/img/walk-preview.png"
 
 Building off of the work of artists like <a href="https://mhpbooks.com/books/networks-of-new-york/">Ingrid Burrington</a> and <a href="https://internetour.com">Mario Santamaría</a>, I'm keen to bring our digital infrastructures beyond the comfort of slide decks and auditorium-style presentations to something more experimental, something that shifts how ideas can be communicated through performance, movement, and spontaneous exchange.
 
-_<a href="https://programme.openhouse.org.uk/listings/13284">The first internet walking tour took place at the Open House festival</a>. Please sign up for my newsletter if you're interested in joining other internet tours!_
+_<a href="https://programme.openhouse.org.uk/listings/13284">The first internet walking tour took place at the Open House festival</a>. Please <a href="https://luma.com/internet-infra-walks">sign up on luma</a>, or <a href="https://www.aleesteele.com/writing">join my newsletter</a> if you're interested in joining other internet tours!_
 
 During the first internet walking tour, we traced the routes of fibre-optic cables beneath our feet, decoded the markings on ubiquitous manholes covering British Telecom tunnels, and explored the emergence of 5G masts, public Wi-Fi networks, and even a functioning internet exchange point.
 
