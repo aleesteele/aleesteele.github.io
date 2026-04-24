@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "2026-03-20-html-review"
             }
+          },
+          {
+            "id": "4b67998cd0c972bf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -222,7 +234,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "8ab17ba5aac44422",
+  "active": "4b67998cd0c972bf",
   "lastOpenFiles": [
     "2026-03-21-poetic-web.md",
     "2026-03-20-html-review.md",
