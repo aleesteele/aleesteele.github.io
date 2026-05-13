@@ -4,32 +4,44 @@ title: design
 permalink: /design
 ---
 
-<img src="{{ '../assets/img/zapatista-caracole.png' | relative_url}}" class="design-page">
-**"Slow but advancing!" (aka, Slow but steady)**
+<img src="{{ '../assets/img/zapatista-caracole.png' | relative_url}}" class="design-page" alt="photograph of a hand-drawn snail that has its face covered except for its eyes. The snail is multicolored, with a shell on its back, and surrounded by many flowers and leaves. next to the snail is a speech bubble that says: Lento, pero avanzo.">
+**"Slow but advancing!" (Mural from Oventik, Chicapas, Mexico.)**
 
-**I wrote that this website was made by me with peace in mind. But what does that actually mean? I offer this page by way of explanation.** 
+I wrote that this website was made by me with peace in mind. But what does that actually mean? I offer this page by way of explanation, with a bit about the principles that govern how I approach the web broadly, and the practices with which I approached building this personal website.
 
-Most importantly: The lovely snail was illustrated by <a href="https://mikehankin.com/folk-film-club">Mike Hankin</a> originally for <a href="https://offbeat.film">OffBeat Film Festival</a>. I've emailed him to ask if I can use his snail for this website. 
+# Principles 
 
-I added the snail (and other <a href="">love letters</a> to slowness) because. Years ago, in a class run by the Autonomous University for Social Movements, I learned about how the Zapatista movement in 
+### On snails
 
-As <a href="https://www.commondreams.org/views/2008/01/16/revolution-snails-encounters-zapatistas">Rebecca Solnit wrote in Common Dreams</a>, )
+First and foremost, the lovely snail that you see at the bottom of every page was illustrated by <a href="https://mikehankin.com/folk-film-club">Mike Hankin</a> originally for <a href="https://offbeat.film">OffBeat Film Festival</a>. I emailed him to ask if I can use his snail for this website (and won't publish this page until he responds!). 
+
+Secondly, I added the snail because of what it represents on multiple levels.
+
+Years ago, in a class run by the Autonomous University for Social Movements, I learned about how the Zapatistas use the <a href="https://schoolsforchiapas.org/three-caracoles-for-thirty-years/">snail (_caracole_ in Spanish)</a> to represent their movement. As <a href="https://www.commondreams.org/views/2008/01/16/revolution-snails-encounters-zapatistas">Rebecca Solnit summarised in Common Dreams</a>: 
+
+> The Zapatistas have chosen a snail in a spiral shell, a small creature, easy to overlook. It speaks of modesty, humility, closeness to the earth, and of the recognition that a revolution may start like lightning but is realized slowly, patiently, steadily. 
+
+In the present, we've also seen the snail become synonymous with another kind of countermovement, this time for technology.
+
+The rise of the phrase "move slowly and make things" (as opposed to all-too-famous "move fast and break things") is also represented by a snail. I have an illustrated sticker on my computer that has this phrase, covered by a shell. I don't remember exactly where I got it.
+
+Grace Lee Boggs also wrote <a href="https://static1.squarespace.com/static/5e2b1eb9509d4862f6e435ef/t/64206bd917728c27ce623c26/1679846362608/1972+-+Organization+Means+Commitment+-+Grace+Lee+Boggs.pdf">a lot about the time and patience</a> required build a better world, which I think is very snail-like, too.
 
 ### On the Quiet and Meditative Web
 
 The internet is noisy. In a time of [information glut](https://mcluhangalaxy.wordpress.com/2012/03/04/neil-postman-on-technologys-faustian-bargain/), I aim to create work that decreases that noise, or at least makes it easier to navigate. For me, that usually means using less, not more design features.
 
-With this in mind, my website was handcrafted without AI tools, with each screenshot was manually cropped and designed for each post, folder, and header. 
+With this in mind, my website was handcrafted without AI tools, with each screenshot manually cropped and designed for each post, folder, and header. I used the <a href="https://github.com/riggraz/no-style-please">"no style, please!"</a> template by riggraz, and customised it to create what you see here.
 
 One day I'll write here about why I want my internet presence to feel more quiet and meditative, but for now, I hope this description suffices.
 
+# Practices 
+
 ### Accessibility Commitment
 
-If there anything I've learned from being a part of <a href="https://book.the-turing-way.org">The Turing Way</a> community, it's that access is an ongoing practice. Through collaborative work with the [Accessibility Working Group](https://book.the-turing-way.org/community-handbook/accessibility/accessibility-policy/), we crafted a policy that defined accessibility as a social problem, not a medical one, and one that a community is responsible to steward, especially if it proports to welcome everyone. 
+If there anything I've learned from being a part of <a href="https://book.the-turing-way.org">The Turing Way</a> community, it's that access is an ongoing practice. Through collaborative work with the [Accessibility Working Group](https://book.the-turing-way.org/community-handbook/accessibility/accessibility-policy/), we crafted a policy that defined accessibility as a social problem, not a medical one, and one that a community is responsible to steward, especially if it proports to welcome everyone. For more about the social model of disability, [please read this 1975 essay by Vic Finkelstein](https://www.independentliving.org/docs1/finkelstein.html).
 
-For more about the social model of disability, [please read this 1975 essay by Vic Finkelstein](https://www.independentliving.org/docs1/finkelstein.html).
-
-This website, while imperfect, aims to be accessible in a number of both technical and linguistic ways. 
+Said another way, practices that enable accessibility can improve usability in a broader sense. This website, while imperfect, aims to be accessible in a number of both technical and linguistic ways. Inspired by the work of <a href="https://silviacanelon.com/accessibility">Silvia Canelón</a>, I add this accessibility commitment to describe what I am working towards in this website.
 
 In the development of this site, I am commited to the following:
 1. Color palettes that meet the WCAG 2.1 AA standards
@@ -37,13 +49,13 @@ In the development of this site, I am commited to the following:
 3. Readable font faces (this website uses Helvetica and Arial)
 4. Simple navigation methods for screenreaders, mouse-users, and otherwise
 
-Currently, I am working towards adding alternative text to all images on blogs and projects as well.
+Currently, I am working towards adding alternative text to all images on blogs and projects.
 
-I also aim to use language that describes the I projects I work on and communities I collaborate with in accessible and understandable language. This usually means writing for a broader audience, and with as little jargon as possible.
+I also aim to use language that describes the projects I work on and communities I collaborate with in accessible, legible, and understandable language. This usually means writing for a broader audience, and with as little jargon as possible.
 
-All of this is to say that if there's anything that doesn't meet your accessibility standard or you have any feedback to share about the accessility of my website or resources I've created, please contact me at <a href="mailto:aleesteele@gmail.com">aleesteele@gmail.com</a>.
+If there's anything that doesn't meet your accessibility standards or you have any feedback to share about the accessility of my website or resources I've created, please contact me at <a href="mailto:aleesteele@gmail.com">aleesteele@gmail.com</a>.
 
-### Open Principles
+### Open Ethos
 
 When I first joined the open movement, I approached it through the lens of Aaron Swartz (1986-2013) ["Guerilla Open Access Manifesto"](https://archive.org/details/GuerillaOpenAccessManifesto), and what I saw to be the parallel but aligned movements of WikiLeaks and Wikipedia. Information was still power, despite the ubiquity of [information glut](https://www.youtube.com/watch?v=SB4a06slUms).
 
@@ -53,9 +65,11 @@ As an anthropologist, I am forever torn between what the [ethnographers of openn
 
 In the years since OpenAI and others have launched, and along with that web-scraping for training AI systems at scale, the balance of power has shifted. Openess has become a vehicle for mass exploitation, despite our best intentions.
 
-I'm still figuring out how to navigate the implications for the spaces I work in and support, but I _do_ know that I have been a direct beneficiary of other people 'working in public'. That is to say, I've learned from others' openness in the most expansive definition of the term. I've learned from 
+I'm still figuring out how to navigate the implications of this for the spaces I work in and support, but I _do_ know that I have been a direct beneficiary of other people 'working in public'. 
 
-For now, I'm still practicing open principles, though I'm aware of its nuances in the present day. We'll see if that changes (and yes, we're allowed to change our mind)!
+That is to say, I've learned from others' openness in the most expansive definition of the term. I've learned endlessly from the blogs, newsletters, posts, tutorials, articles, repositories, and many other resources that have been uploaded publicly to the web (much of which I now save on <a href="https://www.are.na/anne-lee-steele/channels">are.na</a>). I'd like to contribute back to this public ecosystem of knowledge while I can, in case this work is useful for others (webscraping be damned!)
+
+So for now, I'm still practicing with an open ethos, though I'm all too aware of its nuances in the present day. We'll see if that changes (and yes, I'm allowed to change my mind if I do)!
 
 ### License
 
