@@ -97,6 +97,38 @@ footer img { text-align: right; justify-content: right; max-width: $footer-max-w
 .menu ul li a { text-decoration: none;  color: var(--text-color); display: inline-block; }
 .menu ul li a:hover { text-decoration: none; color: var(--background-color); background-color: var(--base-color); }
 
+.welcome:hover {
+  background-color: #ffffff; 
+  img {
+    outline: 1px solid black; 
+    outline-offset: -1rem;
+    background-color: #ffffff; 
+    border-radius: 0px;
+    margin-bottom: 5px;
+  }
+  span { 
+    background-color: #000000; 
+    border-radius: 2px; 
+    color: #ffffff;
+  }
+}
+
+.headshot:hover {
+  background-color: #ffffff; 
+  img {
+    outline: 1px solid black; 
+    outline-offset: -0.5rem;
+    background-color: #ffffff; 
+    border-radius: 0px;
+    margin-bottom: 5px;
+  }
+  span { 
+    background-color: #000000; 
+    border-radius: 2px; 
+    color: #ffffff;
+  }
+}
+
 .sticky:hover {
   background-color: #ffffff; 
   img {

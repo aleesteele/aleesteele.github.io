@@ -4,11 +4,11 @@ layout: home
 permalink: /
 ---
 
-<img src="../assets/img/headshot-desktop.png" class="headshot"/>
+<a href="{{ '/headshot' | relative_url }}" class="headshot"><img src="../assets/img/headshot-desktop.png" class="headshot"/></a>
 
 _👋 **Thank you for visiting my website. I appreciate you being here.**_
 
-My work centers the invisible people and processes behind our digital lives. Sometimes that means building and supporting projects that nurture the care, maintenance, and attention needed for a better internet. Other times, it means tracing the infrastructures, industries, and supply chains that make our technologies possible.
+My work centers the invisible people and processes behind our digital lives. Sometimes that means building and supporting projects that nurture the care, maintenance, and attention needed for a better internet. Other times, it means tracing the infrastructures, industries, and supply chains that make our technologies possible. Ultimately, I try to do things that make for more "human humans", on the web and in the world.
 
 I approach most things as an ethnographer first and a community-builder second. In recent years, I’ve turned to media art to reimagine new forms of public engagement, though I remain a writer at heart.
 

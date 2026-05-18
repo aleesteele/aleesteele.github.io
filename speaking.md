@@ -4,9 +4,13 @@ title: speaking
 permalink: /speaking
 ---
 
-# Select talks and conference presentations
+# Speaking
 
-For me, conference talks are opportunities to think out loud, and panels are a space to be in conversation with others. Both are a privilege, of course! Here are a few examples:
+I try to do a lot of public-facing work in the form of lectures, panels, and teaching. 
+
+## Talks
+
+Here are a few examples of talks:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OEV-Gyas33Q?si=6X4G3nNoZmLdMAkP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" ></iframe>
 
@@ -20,7 +24,31 @@ A few other recorded and/or documented talks are listed below. Some were given c
 - ["Untangling the frictions and cohesions between (digital) democracy and open source"](https://zenodo.org/records/8063396) (Geneva Graduate Institute 2024 – Geneva, Switzerland)
 - [Comparative perspectives on the human infrastructures behind open knowledge](https://zenodo.org/records/8060167) (Data Justice Conference 2023 – Cardiff, UK)
 
+And a few examples of podcasts that I've been featured in recently: 
+- ["Meet the SSI Fellows of 2026"](https://codeforthought.buzzsprout.com/1326658/episodes/18917205-en-meet-the-ssi-fellows-of-2026-anne-lee-steel-cass-gould-van-praag-samantha-ahern-sara-villa) (2026)
+- ["Artificial Intelligence and its impact on our daily lives"](https://www.graduateinstitute.ch/podcast-series) (2023)
+
+## Teaching
+
+A few workshops, given more recently:
+- [“Poetic Computing 101”](https://zenodo.org/records/19884891). Given at Collaborations Workshop (2026)
+- “Designing for Data Rights in the AI Production Pipeline”. Given at Mozilla Festival (2023), given with Jennifer Ding and Yacine Jernite
+- “Rendering supply chains research (in the vector economy)” – Transmediale Rendering Research workshop (2022), given with Miriam Matthiessen
+- “The Social Lives of Our Supply Chains” – Mozilla Festival (2021), given with Miriam Matthiessen
+
+**Guest lectures**
+- “Walking + Mapping: Methods for Attention and Presence” – Guest lecture for MA Graphic Communication Design students workshop series (invited by Matthew Chrislip) (2026)
+- “Researching and Rendering supply chains research in digital space(s)” – Guest lecture for “Internet Geographies” course at The New School (2022), given with Miriam Matthiessen (invited by Morgan Mueller)
+
+I've also given many workshops for using Github, Open Science and Open Research practices, and other related practices.
+
+## Facilitation
+
 Here are some examples of and moderating discussions and workshops:
-- **The Alternative Education series** (2025-ongoing): An ongoing collection of dialogues on non-traditional learning spaces, community-led knowledge production, and experimental pedagogies. [Watch on Youtube](https://www.youtube.com/playlist?list=PLfw1pM6mwqc7kEMq4T_KpFh4hcpGsKFDG)
-- **The Turing Way Fireside Chat series** (2022-2025): A recurring set of conversations bringing together practitioners, researchers, and community organisers working on open, ethical, and inclusive data science. [Watch on Youtube](https://www.youtube.com/playlist?list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2)
-- **Git for Good Github Workshop series** (2022-2025): Building off of materials built by Kirstie Whitaker and Malvika Sharan, the Git Good workshop is a workshop for learning how to use the Github platform.
+
+**The Alternative Education series** (2025-ongoing): An ongoing collection of dialogues on non-traditional learning spaces, community-led knowledge production, and experimental pedagogies. [Watch on Youtube](https://www.youtube.com/playlist?list=PLfw1pM6mwqc7kEMq4T_KpFh4hcpGsKFDG)
+
+
+**The Turing Way Fireside Chat series** (2022-2025): A recurring set of conversations bringing together practitioners, researchers, and community organisers working on open, ethical, and inclusive data science. [Watch on Youtube](https://www.youtube.com/playlist?list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2)
+
+**Git for Good Github Workshop series** (2022-2025): Building off of materials built by Kirstie Whitaker and Malvika Sharan, the Git Good workshop is a workshop for learning how to use the Github platform.
