@@ -1,6 +1,6 @@
 ---
 layout: post
-title: from studios to screens
+title: from studios to servers
 range: 2026 - ongoing
 category: blog
 published: true
