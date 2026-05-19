@@ -6,13 +6,13 @@ permalink: /speaking
 
 # Speaking
 
-Over the years, I've done a good amount of public-facing work in the form of lectures, panels, and teaching. I'm always interested in bringing subjects to a wider audience, or cross-pollinating concepts and ideas between different disciplines, communities, and organisations.
+Over the years, I've done a good amount of public-facing work in the form of lectures, panels, and teaching. I enjoy it most of the time -- because I'm always interested in bringing subjects to a wider audience, and cross-pollinating concepts and ideas between different disciplines, communities, and organisations.
 
-Gabriella Coleman called conferences "the rituals of our time", and I tend to agree with her. For me, conference talks are opportunities to think out loud, and panels are a space to be in conversation with others. Maybe they force a deadline for exploring a research interest, or are a chance to enunciate a point of view.
+<a href="https://gabriellacoleman.org">Gabriella Coleman</a> called conferences "the rituals of our time", and I tend to agree with her. For me, talks and lectures are opportunities to think out loud, and panels are a space to be in conversation with others. Maybe they force a deadline for exploring a research interest, or are a chance to enunciate a point of view with more clarity of purpose.
 
-Jessica Meyerson also calls facilitation both "an art and a science", and I tend to agree that too. Facilitation, like <a href="https://www.priyaparker.com">gatherings</a> holds the power to bring people together in ways they might not expect, or need. 
+<a href="https://educopia.org/blog/meet-the-educopians-jessica-meyerson/">Jessica Meyerson</a> also calls facilitation both "an art and a science", and I agree with that too. Facilitation, like <a href="https://www.priyaparker.com">gatherings</a>, holds the power to bring people together in ways they might not expect, and in modes they might not otherwise be exposed to. I love bringing people together in ways that make us <a href="https://www.youtube.com/watch?v=6gp1q0rBvgo">more human</a>, and that expand what we think is possible. 
 
-Either way, I'm grateful for the opportunity to share in different forms. You can find a few examples of what this looks like below.
+In any case, I'm always grateful for the opportunity to share in different forms. You can find a few examples of what this looks like below.
 
 ## Talks
 
