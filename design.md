@@ -13,7 +13,7 @@ I wrote that this website was made by me with peace in mind. But what does that 
 
 ### On snails
 
-First and foremost, the lovely snail that you see at the bottom of every page was illustrated by <a href="https://mikehankin.com/folk-film-club">Mike Hankin</a> originally for <a href="https://offbeat.film">OffBeat Film Festival</a>. I emailed him to ask if I can use his snail for this website (and won't publish this page until he responds!). 
+First and foremost, the lovely snail that you see at the bottom of every page was illustrated by <a href="https://mikehankin.com/folk-film-club">Mike Hankin</a> originally for <a href="https://offbeat.film">OffBeat Film Festival</a>. I emailed him to ask if I can use his snail for this website.
 
 Secondly, I added the snail because of what it represents on multiple levels.
 

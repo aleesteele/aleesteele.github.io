@@ -6,7 +6,13 @@ permalink: /speaking
 
 # Speaking
 
-I try to do a lot of public-facing work in the form of lectures, panels, and teaching. 
+Over the years, I've done a good amount of public-facing work in the form of lectures, panels, and teaching. I'm always interested in bringing subjects to a wider audience, or cross-pollinating concepts and ideas between different disciplines, communities, and organisations.
+
+Gabriella Coleman called conferences "the rituals of our time", and I tend to agree with her. For me, conference talks are opportunities to think out loud, and panels are a space to be in conversation with others. Maybe they force a deadline for exploring a research interest, or are a chance to enunciate a point of view.
+
+Jessica Meyerson also calls facilitation both "an art and a science", and I tend to agree that too. Facilitation, like <a href="https://www.priyaparker.com">gatherings</a> holds the power to bring people together in ways they might not expect, or need. 
+
+Either way, I'm grateful for the opportunity to share in different forms. You can find a few examples of what this looks like below.
 
 ## Talks
 
@@ -47,7 +53,6 @@ I've also given many workshops for using Github, Open Science and Open Research 
 Here are some examples of and moderating discussions and workshops:
 
 **The Alternative Education series** (2025-ongoing): An ongoing collection of dialogues on non-traditional learning spaces, community-led knowledge production, and experimental pedagogies. [Watch on Youtube](https://www.youtube.com/playlist?list=PLfw1pM6mwqc7kEMq4T_KpFh4hcpGsKFDG)
-
 
 **The Turing Way Fireside Chat series** (2022-2025): A recurring set of conversations bringing together practitioners, researchers, and community organisers working on open, ethical, and inclusive data science. [Watch on Youtube](https://www.youtube.com/playlist?list=PLBxcQEfGu3Dl521skBqViIQVsSUZ-VYi2)
 
