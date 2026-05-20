@@ -12,9 +12,9 @@ _Untitled, Linda Coleman, 1985_
 
 This painting was made by the wife of my dear friend Gene Coleman, an artist who has been taking pictures of New York City since 1969. Sadly, Linda passed away many years before I met Gene in 2014. 
 
-When I first saw this painting at their apartment many years ago, it gave me the same feeling I get when looking at the sea: a kind of peace and calm that makes feels expansive from the inside, out. 
+When I first saw this painting at their apartment many years ago, it gave me the same feeling I get when looking at the sea: a kind of peace and calm that feels expansive from the inside, out. 
 
-Perhaps that's why I've taken <a href="{{'../assets/img/headshots/'}}">many headshots (and selfies)</a> in front of it over the years as I've grown up. I probably hoped that a picture would bring some of that serenity into my everyday life and work. Maybe the painting is a map towards a feeling I want to experience all the time.
+Perhaps that's why I've taken many headshots (and selfies) in front of it over the years as I've grown up. I probably hoped that a picture would bring some of that serenity into my life and work. Maybe the painting is a map towards a feeling I want to experience all the time.
 
 In any case, thank you for the painting, Linda and thank you for the photo, Gene.
 
