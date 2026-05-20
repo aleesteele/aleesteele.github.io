@@ -4,7 +4,7 @@ title: headshot
 permalink: /headshot
 ---
 
-# Painting
+## What is the painting behind me?
 
 <img src="{{'../assets/img/gene-painting.png' | relative_url }}" alt="A blue painting with a small red line on it."/>
 
