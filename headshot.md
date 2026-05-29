@@ -4,7 +4,7 @@ title: headshot
 permalink: /headshot
 ---
 
-# Painting
+## What is the painting behind me?
 
 <img src="{{'../assets/img/gene-painting.png' | relative_url }}" alt="A blue painting with a small red line on it."/>
 
@@ -17,5 +17,3 @@ When I first saw this painting at their apartment many years ago, it gave me the
 Perhaps that's why I've taken many headshots (and selfies) in front of it over the years as I've grown up. I probably hoped that a picture would bring some of that serenity into my life and work. Maybe the painting is a map towards a feeling I want to experience all the time.
 
 In any case, thank you for the painting, Linda and thank you for the photo, Gene.
-
-_This page was last updated on 13 May 2026._
