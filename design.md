@@ -11,7 +11,7 @@ I wrote that this website was made by me with peace in mind. But what does that 
 
 # Principles 
 
-### On snails
+### On snails and slowness
 
 First and foremost, the lovely snail that you see at the bottom of every page was illustrated by <a href="https://mikehankin.com/folk-film-club">Mike Hankin</a> originally for <a href="https://offbeat.film">OffBeat Film Festival</a>. I emailed him to ask if I can use his snail for this website.
 
@@ -27,7 +27,7 @@ The rise of the phrase "move slowly and make things" (as opposed to all-too-famo
 
 Grace Lee Boggs also wrote <a href="https://static1.squarespace.com/static/5e2b1eb9509d4862f6e435ef/t/64206bd917728c27ce623c26/1679846362608/1972+-+Organization+Means+Commitment+-+Grace+Lee+Boggs.pdf">a lot about the time and patience</a> required build a better world, which I think is very snail-like, too.
 
-### On the Quiet and Meditative Web
+### On the quiet and meditative web
 
 The internet is noisy. In a time of [information glut](https://mcluhangalaxy.wordpress.com/2012/03/04/neil-postman-on-technologys-faustian-bargain/), I aim to create work that decreases that noise, or at least makes it easier to navigate. For me, that usually means using less, not more design features.
 
@@ -71,8 +71,22 @@ That is to say, I've learned from others' openness in the most expansive definit
 
 So for now, I'm still practicing with an open ethos, though I'm all too aware of its nuances in the present day. We'll see if that changes (and yes, I'm allowed to change my mind if I do)!
 
+### What's so wrong with 
+
+While I do aim to practice an open ethos, I believe firmly in privacy practices on the web.
+
+My website doesn't use any kind of tracking, cookies, or ad technology. I recently started using <a href="https://www.goatcounter.com">GoatCounter</a> in June 2026 to collect very basic information about how many (and from where) people are navigating to my website. GC is widely known as an open source alternative to Google Analytics and others. 
+
+It doesn't collect any identifiable information, which you can check here. This is why you didn't see a cookie consent banner when you came to my website.
+
+I've gone back and forth on on whether collecting data here is valuable, or simply a form of a vanity metric. 
+
+Ultimately, my own justification is a sense of wonder and curiousity: I'm simply curious about who's .
+
+So, I suppose they are vanity metrics after all!
+
 ### License
 
 Everything on this website is licensed CC BY 4.0, but I've love for you to be in touch if there's anything you found here that is meaningful or useful for you.
 
-_This page was last updated on 13 May 2026._
+_This page was last updated on 5 June 2026._
