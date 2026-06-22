@@ -17,7 +17,7 @@ _<a href="https://programme.openhouse.org.uk/listings/13284">The first internet 
 
 During the first internet walking tour, we traced the routes of fibre-optic cables beneath our feet, decoded the markings on ubiquitous manholes covering British Telecom tunnels, and explored the emergence of 5G masts, public Wi-Fi networks, and even a functioning internet exchange point.
 
-I’m interested in expanding this work into a broader series of “digital heritage” tours – mapping how London’s landscape has evolved alongside communication technologies. Could we walk through the former sites of the General Post Office, or trace the transformation of BT from a public utility to a global telecoms giant? 
+I’m interested in possibly expanding this work into a broader series of “digital heritage” tours – mapping how London’s landscape has evolved alongside communication technologies. Could we walk through the former sites of the General Post Office, or trace the transformation of BT from a public utility to a global telecoms giant? 
 
 These are the kinds of stories of connection, communication, and control that define the modern city.
 
