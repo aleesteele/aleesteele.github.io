@@ -7,4 +7,4 @@ published: false
 image: "../assets/img/baekdusan-preview.png"
 ---
 
-**A walk to Baekdusan** is a digital and physical walk acros the Baekdudaegan, 
+**A walk to Baekdusan** is a digital and physical walk acros the Baekdudaegan.
