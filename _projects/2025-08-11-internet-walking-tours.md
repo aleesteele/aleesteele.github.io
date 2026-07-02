@@ -19,7 +19,5 @@ During the first internet walking tour, we traced the routes of fibre-optic cabl
 
 I’m interested in possibly expanding this work into a broader series of “digital heritage” tours – mapping how London’s landscape has evolved alongside communication technologies. Could we walk through the former sites of the General Post Office, or trace the transformation of BT from a public utility to a global telecoms giant? 
 
-These are the kinds of stories of connection, communication, and control that define the modern city.
-
 ![tour-1](https://hackmd.io/_uploads/H1ZRjlC-Wx.jpg)
 ![tour-2](https://hackmd.io/_uploads/HkWCig0Z-l.jpg)

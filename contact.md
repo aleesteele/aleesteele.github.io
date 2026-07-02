@@ -18,7 +18,7 @@ If you're interested in following my work at other speeds, I can also be found o
 🌱 Medium: [@aleesteele](https://medium.com/@aleesteele)
 🌱 Substack: [@aleesteele](https://substack.com/@anneleesteele)
 🌱 Threads: [anneleesteele](https://www.threads.com/@anneleesteele)
-🌱 X/Twitter: [@aleesteele](twitter.com/aleesteele)
+🌱 X/Twitter: [@aleesteele](https://x.com/aleesteele)
 🌱 YouTube: [@aleesteele](https://www.youtube.com/@aleesteele)
 
 Otherwise, please send me an email at [aleesteele@gmail.com](mailto:aleesteele@gmail.com).
