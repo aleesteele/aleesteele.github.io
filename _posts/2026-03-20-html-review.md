@@ -8,4 +8,4 @@ image: ../assets/img/preview.png
 ---
 My new piece with The HTML Review is out! [Read the formatted collection on the website.](https://thehtml.review/05/tell-umma-im-walking-to-baekdusan/)
 
-It was a wonderful to work with Max & Shelby. They were such kind and gentle editors.
+It was a wonderful to work with Max & Shelby. They were such kind and gentle editors - for a project that feels so personal.

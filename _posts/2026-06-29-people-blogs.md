@@ -7,6 +7,6 @@ published: true
 image: ../assets/img/preview.png
 ---
 
-I was interviewed by the lovely Manual Moreale for his People & Blogs series.
+I was interviewed by the lovely Manuel Moreale for his People & Blogs series, who found my website through the <a href="https://internetphonebook.net">Internet Phone Book</a>! Love moments of serendipity that happen to through this project, and I'm grateful for this lovely opportunity to reflect. Thank you, Manuel.
 
 You can <a href="https://manuelmoreale.com/interview/anne-lee-steele">check out the interview here</a>.
