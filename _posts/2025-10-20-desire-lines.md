@@ -12,9 +12,9 @@ I recently gave a talk about my desire lines digital futures for <a href="https:
 The talk was first distributed to the audience, to "scroll" or "walk" through the text together while I spoke. The slides were not presented as is usually the case in these types of environments, but I .
 
 The talk outlined three desire lines for the web:
-1.
-2.
-3. 
+1. Openness enables trust; it is a means through which we share, connect, and advocate online. But it is also a means of our exploitation.
+2. Building critical mass requires suspending (at least some amount) of disbelief and critique. It necessitates being together, and simply showing up.
+3. Technologies for surveillance can be co-opted for poetry, heritage, and attention. But the co-optation is mutual and constant.
 
 You can watch the talk here:
 
