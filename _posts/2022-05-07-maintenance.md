@@ -5,7 +5,6 @@ date: 2022-05-07 23:00:00 +0000
 category: blog
 image: "../assets/img/preview.png"
 ---
-
 Recently, Miriam and I had the honor of participating in Transmediale's <a href="https://transmediale.de/en/event/research-workshop-2022">"Rendering Research"</a> workshop with the re:source project.
 
 During the workshop, we began a writing process for this article which is now published. <a href="https://aprja.net//article/view/134303">You can download it here</a>.
