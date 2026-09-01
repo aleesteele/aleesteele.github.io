@@ -6,7 +6,6 @@ category: blog
 published: true
 image: "../assets/img/preview.png"
 ---
-
 2025 was an important year. I ended my role at the Alan Turing Institute, and began freelancing for the first time in my career.
 
 Freelancing is rewarding but challenging, and I'm pursuing this path for a few different reasons. One of them is to make the time and space for two projects that lie very close to the heart. 
