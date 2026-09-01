@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[field notes] on infrastructures"
-date: 2015-01-11 23:00:00 +0000
+date: 2026-09-01 23:00:00 +0000
 category: blog
 published: true
 image: ../assets/img/preview.png
