@@ -8,35 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2059ed09391a1e8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-10-29-all-conferences-festivals.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-10-29-all-conferences-festivals"
-            }
-          },
-          {
             "id": "20ae7eaf05680216",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_projects/2026-03-30-poetry-pages.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/img/computational-poetry.png"
               },
-              "icon": "lucide-file",
-              "title": "2026-03-30-poetry-pages"
+              "icon": "lucide-image",
+              "title": "computational-poetry"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,8 +166,14 @@
   },
   "active": "20ae7eaf05680216",
   "lastOpenFiles": [
-    "_projects/2026-04-22-mapping-meditations.md",
+    "_posts/Untitled 1.md",
+    "_posts/Untitled 2.md",
+    "_posts/Untitled.md",
+    "_posts/2026-08-31-infrastructure.md",
+    "assets/img/computational-poetry.png",
+    "_projects/2026-02-26-100-mountains.md",
     "_projects/2026-03-30-poetry-pages.md",
+    "_projects/2026-04-22-mapping-meditations.md",
     "_posts/2024-08-14-ttw-governance.md",
     "_posts/2024-06-11-arena.md",
     "_posts/2024-07-15-art-jesters-privilege.md",
@@ -204,11 +193,6 @@
     "_posts/2024-10-29-transparency-trust.md",
     "_posts/2024-11-01-a-year-of-art-and-science.md",
     "_posts/2022-01-11-graduate-press.md",
-    "_posts/2018-01-11-template.md",
-    "_posts/2023-04-11-reflections-on-open-journey.md",
-    "_posts/2023-07-11-osm-reflections-so-far.md",
-    "_posts/2023-07-28-reflections-on-burnout.md",
-    "_posts/2023-08-04-one-year-ttw.md",
     "Untitled.canvas"
   ]
 }
