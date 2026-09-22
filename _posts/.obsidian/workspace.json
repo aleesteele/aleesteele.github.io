@@ -112,7 +112,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -252,6 +254,10 @@
   },
   "active": "7b1ca53b29d63749",
   "lastOpenFiles": [
+    "2025-12-12-educopia.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "2026-03-21-poetic-web.md",
     "2026-08-31-infrastructure.md",
     "2026-06-29-people-blogs.md",
@@ -274,10 +280,6 @@
     "2024-01-05-principles.md",
     "2025-06-18-poetic-tactics.md",
     "2024-03-20-solidarity-infra.md",
-    "2024-08-14-ttw-governance.md",
-    "2025-1-25-2025-principles.md",
-    "2025-05-31-essays.md",
-    "2025-08-10-third-space.md",
     "images/Screenshot 2025-11-06 at 20.02.16.png",
     "images/Screenshot 2025-11-06 at 19.54.33.png",
     "upload_a9888ba7c669b61ad48a2f12038df293.png",

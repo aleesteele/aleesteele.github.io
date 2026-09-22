@@ -6,7 +6,6 @@ category: blog
 published: true
 image: "../assets/img/mapping-meditation-preview.png"
 ---
-
 **Mapping Meditations** are a series of scores exploring spatial awareness.
 
 Inspired by Pauline Olivero's 'Sonic Meditations', these scores invite participants to create, reflect, and share maps for different purposes.

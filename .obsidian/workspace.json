@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-08-14-ttw-governance.md",
+                "file": "_projects/2026-03-30-poetry-pages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-08-14-ttw-governance"
+              "title": "2026-03-30-poetry-pages"
             }
           }
         ],
@@ -55,7 +55,10 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -169,6 +172,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -179,6 +183,9 @@
   },
   "active": "20ae7eaf05680216",
   "lastOpenFiles": [
+    "_projects/2026-04-22-mapping-meditations.md",
+    "_projects/2026-03-30-poetry-pages.md",
+    "_posts/2024-08-14-ttw-governance.md",
     "_posts/2024-06-11-arena.md",
     "_posts/2024-07-15-art-jesters-privilege.md",
     "_posts/2024-08-10-ten-things-three-years.md",
@@ -190,7 +197,6 @@
     "_posts/2025-01-05-2025-principles.md",
     "_posts/2025-12-29-fellowships-residencies-etc.md",
     "_posts/2024-02-10-brussels.md",
-    "_posts/2024-08-14-ttw-governance.md",
     "_posts/2024-03-20-solidarity-infra.md",
     "_posts/2024-11-10-humility-interdisciplinarity.md",
     "_posts/2024-01-05-principles 1.md",
@@ -203,8 +209,6 @@
     "_posts/2023-07-11-osm-reflections-so-far.md",
     "_posts/2023-07-28-reflections-on-burnout.md",
     "_posts/2023-08-04-one-year-ttw.md",
-    "_posts/2023-11-14-artists-way-creativity.md",
-    "_posts/2024-10-29-all-conferences-festivals.md",
     "Untitled.canvas"
   ]
 }
