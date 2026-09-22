@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_projects/2026-03-30-poetry-pages.md",
+                "file": "_posts/2026-09-24-cursor-magazine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-30-poetry-pages"
+              "title": "2026-09-24-cursor-magazine"
             }
           }
         ]
@@ -168,11 +168,11 @@
   },
   "active": "20ae7eaf05680216",
   "lastOpenFiles": [
+    "_projects/2026-03-30-poetry-pages.md",
     "_projects/2026-04-22-mapping-meditations.md",
     "_posts/2026-08-31-infrastructure.md",
     "_posts/2026-09-24-cursor-magazine.md",
     "assets/img/poem-math.png",
-    "_projects/2026-03-30-poetry-pages.md",
     "_projects/2026-02-26-100-mountains.md",
     "assets/img/computational-poetry.png",
     "assets/img/textbook-poetry-preview.png",
