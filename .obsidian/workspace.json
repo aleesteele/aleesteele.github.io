@@ -11,12 +11,14 @@
             "id": "20ae7eaf05680216",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/img/computational-poetry.png"
+                "file": "_projects/2026-03-30-poetry-pages.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "computational-poetry"
+              "icon": "lucide-file",
+              "title": "2026-03-30-poetry-pages"
             }
           }
         ]
@@ -166,14 +168,19 @@
   },
   "active": "20ae7eaf05680216",
   "lastOpenFiles": [
+    "_projects/2026-02-26-100-mountains.md",
+    "_projects/2026-03-30-poetry-pages.md",
+    "assets/img/computational-poetry.png",
+    "_projects/2026-04-22-mapping-meditations.md",
+    "_posts/2026-09-24-cursor-magazine.md",
+    "assets/img/textbook-poetry-preview.png",
+    "_posts/2026-03-20-html-review.md",
+    "_posts/2026-03-21-poetic-web.md",
+    "_posts/2026-06-29-people-blogs.md",
+    "_posts/2026-08-31-infrastructure.md",
     "_posts/Untitled 1.md",
     "_posts/Untitled 2.md",
     "_posts/Untitled.md",
-    "_posts/2026-08-31-infrastructure.md",
-    "assets/img/computational-poetry.png",
-    "_projects/2026-02-26-100-mountains.md",
-    "_projects/2026-03-30-poetry-pages.md",
-    "_projects/2026-04-22-mapping-meditations.md",
     "_posts/2024-08-14-ttw-governance.md",
     "_posts/2024-06-11-arena.md",
     "_posts/2024-07-15-art-jesters-privilege.md",
@@ -188,11 +195,6 @@
     "_posts/2024-02-10-brussels.md",
     "_posts/2024-03-20-solidarity-infra.md",
     "_posts/2024-11-10-humility-interdisciplinarity.md",
-    "_posts/2024-01-05-principles 1.md",
-    "_posts/2024-02-07-cultures-of-science-technology.md",
-    "_posts/2024-10-29-transparency-trust.md",
-    "_posts/2024-11-01-a-year-of-art-and-science.md",
-    "_posts/2022-01-11-graduate-press.md",
     "Untitled.canvas"
   ]
 }
