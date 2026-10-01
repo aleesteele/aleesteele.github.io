@@ -6,7 +6,7 @@ category: blog
 published: true
 image: "../assets/img/preview.png"
 ---
-_30.03.24: This blog was [originally posted](https://infrastructures.us/en/blog/winter-24/aleesteele/) on the course website for Infrastructure Solidarities, a course at School for Poetic Computation that I took from January through March 2024._
+_30.03.24: This blog was [originally posted](https://infrastructures.us/en/blog/aleesteele/) on the course website for Infrastructure Solidarities, a course at School for Poetic Computation that I took from January through March 2024._
 
 # navigating through map-making (an infrastructure of solidarity)
 
@@ -20,9 +20,10 @@ And so it was! I am so grateful for these 10 weeks. Navigating through the mater
 
 ## Final project
 
-## ![Alt: Screenshot of page with a grassy background, messily handrawn people with the question"what infrastructures allow us to be in solidarity?" dominating the screen. There are snapshots of pictures, and of graphs pointing towards ideas and alternatives.](https://infrastructures.us/site/assets/files/1110/ryapgv-gr.jpg?nc=1712619472)
+## Final project
+<img src="https://infrastructures.us/en/blog/aleesteele/ryapgv-gr.jpg?nc=1712619472" alt=" Screenshot of page with a grassy background, messily handrawn people with the question"what infrastructures allow us to be in solidarity?" dominating the screen. There are snapshots of pictures, and of graphs pointing towards ideas and alternatives.">
 
-![Alt: Screenshot of screen of window featuring the website with a grassy background. The page has four poetic tactics listed: deep listening, maintenance, (counter) mapping, and slowness.](https://infrastructures.us/site/assets/files/1110/ry0dgv-l0.jpg?nc=1712619472)
+<img src="https://infrastructures.us/en/blog/aleesteele/ry0dgv-l0.jpg?nc=1712619472" alt="Screenshot of screen of window featuring the website with a grassy background. The page has four poetic tactics listed: deep listening, maintenance, (counter) mapping, and slowness.">
 
 My final project, which you can [explore here](https://aleesteele.mmm.page/infrastructures) was more of a messy mind-map: a navigation through the loose and increasingly interconnected themes we explored throughout the class.
 
@@ -32,12 +33,10 @@ When I look back, it's funny to realise that I've been spending the past 10 year
 
 I first entered the world of map-making in 2016, when I started mapping projects for undergraduate classes related to resource extraction and political ecology. The maps were made to demonstrate points that were hard to illustrate otherwise, an aesthetic choice.
 
-![](https://infrastructures.us/site/assets/files/1110/s1by0szlr.png?nc=10)
-
+<img src="https://infrastructures.us/en/blog/aleesteele/s1by0szlr.png?nc=10">
 _Map of pipelines in the northern United States_
 
-![](https://infrastructures.us/site/assets/files/1110/rjgz13blc.png?nc=10)
-
+<img src="https://infrastructures.us/en/blog/aleesteele/rjgz13blc.png?nc=10">
 _Map of the Kingdom of Bhutan_
 
 Three years later, in 2020, I somehow found myself making maps all over again during COVID-19, after joining a "mapathon" organised in response to the pandemic.
@@ -46,18 +45,14 @@ At the time, I was in graduate school, and over the next few years, map-making a
 
 This research introduced me to the world of "crisis maps" and how they configure disaster responses worldwide. Studying who was mapped and why revealed deeply political and contentious questions, and introduced me to the wider world of open practices. It also showed me [how the Mercator projection fucked us all up](https://www.vox.com/2016/8/17/12515426/world-map-mercator-projection).
 
-![Alt: Screenshot of the Humanitarian OpenStreetMap Team Tasking manager, showing options for mapping in response to disaster](https://infrastructures.us/site/assets/files/1110/s1d8uohya.jpg?nc=1712619788)
-
+<img src="https://infrastructures.us/en/blog/aleesteele/s1d8uohya.jpg?nc=1712619788" alt="Screenshot of the Humanitarian OpenStreetMap Team Tasking manager, showing options for mapping in response to disaster">
 _The Humanitarian OpenStreetMap Team Tasking Manager_
-
-![](https://infrastructures.us/site/assets/files/1110/bjcgio3jr.jpg?nc=1712619788)
-
+<img src="https://infrastructures.us/en/blog/aleesteele/bjcgio3jr.jpg?nc=1712619788">
 _OpenStreetMap interface_
 
 As I increasingly learned about the processes behind making maps themselves in the 21st century, I started looking upwards, moving towards the satellite imagery that bely this kind of work, and the technologies that enabled such mapmaking in the first place. I ended up writing about this in [Logic Magazine in 2022](https://logicmag.io/clouds/omnivorous-analysis/).
 
-![](https://infrastructures.us/site/assets/files/1110/sy5ohd2kr.jpg?nc=10)
-
+<img src="https://infrastructures.us/en/blog/aleesteele/sy5ohd2kr.jpg?nc=10">
 _Grasberg Mine, Papua, Indonesia (gold)._
 
 In the years since, my understanding of mapping has become less about the explicit assertion of surveillance or control (which it can absolutely be – as [Seeing Like a State](https://en.wikipedia.org/wiki/Seeing_Like_a_State) would assert), and more about trying to understand why we try to make sense of things spatially.
@@ -66,30 +61,25 @@ After all, people have always experimented with what it means to represent the w
 
 At the same time, many people are also aiming to rectify the harms of _cartography_ and cartographic practices, which is really important (and very much still ongoing).
 
-![](https://infrastructures.us/site/assets/files/1110/sj8ziohy0.png?nc=10)
-
+<img src="https://infrastructures.us/en/blog/aleesteele/sj8ziohy0.png?nc=10">
 _McArthur's Universal Corrective Map of the World (1979)_
 
-![](https://infrastructures.us/site/assets/files/1110/stick-chart-11.jpg?nc=10)
-
+<img src="https://infrastructures.us/en/blog/aleesteele/stick-chart-11.jpg?nc=10">
 Navigational systems of the Marshall Islands: stick charts ([source](https://socks-studio.com/2014/01/16/sculptural-cartography-how-the-marshall-islands-inhabitants-used-stick-charts-to-map-the-waves/))
 
 Over the past few years, maps have started being my way of navigating ecosystems I worked in, from the open ecosystem that I find myself working in now.
 
-![](https://infrastructures.us/site/assets/files/1110/sklbtu3jr-1.png?nc=10)
-
+<img src="https://infrastructures.us/en/blog/aleesteele/sklbtu3jr-1.png?nc=10">
 _Open source ecosystem using miro_
 
 I've even started going really small. My maps have become maps of the movements of bodies themselves, in the form of choreography.
 
 They've become maps of memory-scapes, and of of navigating tactile and auditory memories of spaces and places.
 
-![](https://infrastructures.us/site/assets/files/1110/skuhro31a.jpg?nc=10)
-
+<img src="https://infrastructures.us/en/blog/aleesteele/skuhro31a.jpg?nc=10">
 _Mimicking choreographies, making algorithms with Joana Chicao_
 
-![](https://infrastructures.us/site/assets/files/1110/b1hqnd210.jpg?nc=10)
-
+<img src="https://infrastructures.us/en/blog/aleesteele/b1hqnd210.jpg?nc=10">
 _Mapping Calci, Italy_
 
 I wonder what maps there are to be made, in solidarity, in concert with others. Even this blog felt like a mapping, a retelling, a navigation to some kind of work in progress.

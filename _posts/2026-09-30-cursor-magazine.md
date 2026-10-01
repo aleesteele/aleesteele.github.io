@@ -12,4 +12,4 @@ My new piece with Cursor Magazine issue #8 is out!
 
 This piece was collecting years of thinking and working around maps, and the piece traces my thinking around the subject. I really appreciated the opportunity to reflect and collate different threads together, however briefly.
 
-It was wonderful to work with Maïwenn and Naomi - thank you so much for the editorial and artistic care in developing this piece!
+It was wonderful to work with Maïwenn and Naomi - thank you so much for the editorial and artistic care in developing this piece.
