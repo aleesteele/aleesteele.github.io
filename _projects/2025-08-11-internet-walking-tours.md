@@ -6,7 +6,6 @@ category: blog
 published: true
 image: "../assets/img/walk-preview.png"
 ---
-
 **Internet Walking Tours** is an ongoing series of walking tours, currently based in London.
 
 > _"When trying to find Internet infrastructure in a city, it's helpful to start from the ground up – or, more precisely, somewhere just below the ground up..." - Ingrid Burrington, artist (2016)_ 
@@ -19,5 +18,5 @@ During the first internet walking tour, we traced the routes of fibre-optic cabl
 
 I’m interested in possibly expanding this work into a broader series of “digital heritage” tours – mapping how London’s landscape has evolved alongside communication technologies. Could we walk through the former sites of the General Post Office, or trace the transformation of BT from a public utility to a global telecoms giant? 
 
-![tour-1](https://hackmd.io/_uploads/H1ZRjlC-Wx.jpg)
+![Alt: Anne in a bright red sweater staring at a manhole surrounded by a group of people.](https://hackmd.io/_uploads/H1ZRjlC-Wx.jpg)
 ![tour-2](https://hackmd.io/_uploads/HkWCig0Z-l.jpg)

@@ -8,7 +8,7 @@ image: ../assets/img/preview.png
 ---
 _This is a selection from my new newsletter: field notes from my desktop. You're welcome to subscribe if you'd like, but this is the most important (and perhaps interesting?) bit, archived here. I have complicated feelings about what it means to run a newsletter as opposed to having a blog, but it's a good learning experience either way._
 
-🥾 **Rambling on the poetic web**
+🥾 **Ramblings on the poetic web**
 
 I’ve increasingly started to describe my current body of work as stewarding a more “poetic web”. A friend asked me what that means the other day, so I thought I’d take the opportunity to explain here.
 

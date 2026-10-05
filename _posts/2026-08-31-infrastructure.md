@@ -8,6 +8,8 @@ image: ../assets/img/preview.png
 ---
 _This is a selection from my new newsletter: field notes from my desktop. You're welcome to subscribe if you'd like, but this is the most important (and perhaps interesting?) bit, archived here, as per usual._
 
+🥾 **Rambling on infrastructure**
+
 What's so important about the infrastructures of our digital lives? For years, I've focused on this question in a material, physical sense: the cables, the roads, the satellites, the bridges – the _stuff_ behind the _data_ we share. Perhaps inevitably, this focus on the physical lead me eventually to _people_: the maintainers, so to speak of the digital world. These are engineers and developers, even deep-sea divers, and they're the ones keeping us connected, just as much as a fibre optic (or copper) cable is, or a satellite.
 
 Running these monthly walks has often felt like a pulse on how people think about internet infrastructure in their day-to-day lives. In the process, it's been almost impossible to avoid the elephant in the room: data centers. I'll be the first to admit that data centers aren't an infrastructure easily shown in a walking tour, in part because they're not a kind of infrastructure built to be seen, especially in a city like London. So I've tended to take the easy way out: to relegate it to a single stop, and to qualify my own ability to explain what's at stake.
