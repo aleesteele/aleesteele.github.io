@@ -6,5 +6,5 @@ category: blog
 published: true
 image: ../assets/img/mapping-meditation-preview.png
 ---
-**Mapping Meditations** are a series of scores exploring spatial awareness.
+**The Directory of Alternative Education** are a series of scores exploring spatial awareness.
 
