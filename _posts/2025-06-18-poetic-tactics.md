@@ -6,7 +6,11 @@ category: blog
 published: true
 image: "../assets/img/preview.png"
 ---
-I was recently a fellow with the School of Commons, and recently realised that I never gave a public talk about the project. So I recorded one and uploaded it here: https://www.youtube.com/watch?v=NzjU5sv-vic
+I was recently a fellow with the School of Commons, and recently realised that I never gave a public talk about the project! 
+
+Throughout the past year, I've been investigating the intersection between poetry and technology, under the umbrella of "Poetic Tactics to Counter Extraction".
+
+I recorded an 'about' video and uploaded it here: https://www.youtube.com/watch?v=NzjU5sv-vic
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NzjU5sv-vic?si=dGArmF9wFHS-birb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
