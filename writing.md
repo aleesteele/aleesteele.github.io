@@ -6,7 +6,7 @@ permalink: /writing
 
 <img src="../assets/img/newsletter-preview.png" class="newsletter" alt="Field notes from my desktop: an occasional newsletter about the poetic web"/>
 
-👉 **This [sheet]() is the home of my published writing.**
+👉 **For a structured view of my published writing, visit this [sheet](https://docs.google.com/spreadsheets/d/1DT443zRam6oBVO0lUkYVnxeMwHA9NvdmOScclhFgW9g/edit?usp=sharing)**
 
 I recently started **"Field Notes from my Desktop"** as a more structured space for sharing upcoming events, workshops, interviews, and news from the poetic web.
 
